@@ -1,0 +1,876 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355709",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Super Car",
+      "wallpaper_url": "category/supercar.jpeg"
+    },
+    {
+      "name_category": "Nature",
+      "wallpaper_url": "category/beach.jpeg"
+    },
+    {
+      "name_category": "Animals",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
+    },
+    {
+      "name_category": "Vector",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+    }
+  ],
+  "Wallpaper": [
+    {
+        "id": 1,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING01",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/9c/eb/85/9ceb852964013b0800d969725df865c4.jpg"
+    },
+    {
+        "id": 2,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING02",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d7/92/e6/d792e6c44518ab968604eb7cbd5f7210.jpg"
+    },
+    {
+        "id": 3,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING03",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a5/a4/37/a5a437cf4f0524508ac0ee591f40bb99.jpg"
+    },
+    {
+        "id": 4,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING04",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/9a/e5/0e/9ae50e1965648f55e74645a831bcfc60.jpg"
+    },
+    {
+        "id": 5,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING05",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/7a/15/d1/7a15d1279137e4849da4f74632c1433a.jpg"
+    },
+    {
+        "id": 6,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING06",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/30/95/e7/3095e751a5926baa5af1bfb9d4b822e0.jpg"
+    },
+    {
+        "id": 7,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING07",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2d/e2/46/2de2465d6f0d1da992d2ba83635f20f5.jpg"
+    },
+    {
+        "id": 8,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING08",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c1/77/8f/c1778f13a269dda9499d69005b50118a.jpg"
+    },
+    {
+        "id": 9,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING09",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6d/0d/a3/6d0da35ae8ca7b552e3765962209f292.jpg"
+    },
+    {
+        "id": 10,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING10",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/bd/11/0c/bd110c6612e1b0b7a99da4d836d0e5e5.jpg"
+    },
+    {
+        "id": 11,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING11",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ff/09/b8/ff09b8f81f78fe06a3f42ed0d9110979.jpg"
+    },
+    {
+        "id": 12,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING12",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/68/76/41/68764129ba985abdd38330b412d187cc.jpg"
+    },
+    {
+        "id": 13,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING13",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/25/cb/5a/25cb5a9fe3967b2fbf846e216138d2b7.jpg"
+    },
+    {
+        "id": 14,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING14",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/0a/92/22/0a9222b1e394f9f2aa8f0159fb888cd1.jpg"
+    },
+    {
+        "id": 15,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING15",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/cc/26/b5/cc26b5a5782a9844a379313f15d115ec.jpg"
+    },
+    {
+        "id": 16,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING16",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/29/40/3a/29403af7a10fda2b0a070fedc24e0c8c.jpg"
+    },
+    {
+        "id": 17,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING17",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c9/ce/0f/c9ce0f781e563fe27fada659b14390b6.jpg"
+    },
+    {
+        "id": 18,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING18",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e7/50/41/e75041b48389d495c7264128001f103b.jpg"
+    },
+    {
+        "id": 19,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING19",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/cf/3f/fa/cf3ffae7cf08b215c497e93b4ce21907.jpg"
+    },
+    {
+        "id": 20,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING20",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/64/f1/30/64f13080215bb5d7dafdbd73b65ee4ce.jpg"
+    },
+    {
+        "id": 21,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING21",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/18/2c/63/182c638a17116ddec8f18d009ddbf30c.jpg"
+    },
+    {
+        "id": 22,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING22",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/aa/11/96/aa11963d1bf5513704c8c01f21328818.jpg"
+    },
+    {
+        "id": 23,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING23",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fd/d2/16/fdd216200a6af68d1dc5a35f86714927.jpg"
+    },
+    {
+        "id": 24,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING24",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/08/b5/3c/08b53c90f52ca9d8ffc160b39a14e1c2.jpg"
+    },
+    {
+        "id": 25,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING25",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/14/e6/4a/14e64a822f1f575f10451fea06c4b5b0.jpg"
+    },
+    {
+        "id": 26,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING26",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ca/cf/6c/cacf6ccc2507da9195fc4708ace75748.jpg"
+    },
+    {
+        "id": 27,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING27",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/be/2b/33/be2b33e4685fd00661ff471fa6263f3f.jpg"
+    },
+    {
+        "id": 28,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING28",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fc/a4/cf/fca4cf459be5c28c08d7148d7f460777.jpg"
+    },
+    {
+        "id": 29,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING29",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/56/8a/e2/568ae2b0de243f0545d9d2bf52d70ba4.jpg"
+    },
+    {
+        "id": 30,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING30",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2d/af/63/2daf63cd228e5300c76d4018975652e1.jpg"
+    },
+    {
+        "id": 31,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING31",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c5/b3/f9/c5b3f99860c7bdba84d4e73d9c1c0272.jpg"
+    },
+    {
+        "id": 32,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING32",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3f/60/4c/3f604c0da13efeb93b6412db2ce47b6d.jpg"
+    },
+    {
+        "id": 33,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING33",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c1/c3/53/c1c353593411081d1772cfb499e43c51.jpg"
+    },
+    {
+        "id": 34,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING34",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d0/3a/cf/d03acffaa6c0801aeaa5bac45eb11a2c.jpg"
+    },
+    {
+        "id": 35,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING35",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/73/2b/d0/732bd059878ef9a736f73683c038c8e2.jpg"
+    },
+    {
+        "id": 36,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING36",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6f/3c/d6/6f3cd6a064427fc2ccfe54e7529fe885.jpg"
+    },
+    {
+        "id": 37,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING37",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c8/10/eb/c810eb945b05bd40c875d6e62a40ecbe.jpg"
+    },
+    {
+        "id": 38,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING38",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/41/29/fd/4129fdd023dc3ec717e44dd056ae5106.jpg"
+    },
+    {
+        "id": 39,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING39",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3b/00/69/3b00692794a337fd5a40133f119310c5.jpg"
+    },
+    {
+        "id": 40,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING40",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c9/62/cc/c962cc72d8eab2cbde3261cb48d79488.jpg"
+    },
+    {
+        "id": 41,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING41",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/cf/89/ee/cf89ee1e9166dba4bee44e1ff48ae9b7.jpg"
+    },
+    {
+        "id": 42,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING42",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/18/18/03/181803c7fd180b360f97f1ab5f3d8963.jpg"
+    },
+    {
+        "id": 43,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING43",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3d/47/68/3d4768bdc8bdffe33aa0e38da8bf20c5.jpg"
+    },
+    {
+        "id": 44,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING44",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3a/65/7b/3a657b8fbe0cca3a417ae85ec53b5089.jpg"
+    },
+    {
+        "id": 45,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING45",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d9/85/96/d9859642fb777d7f98b7144a70dba89a.jpg"
+    },
+    {
+        "id": 46,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING46",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/62/5f/e2/625fe253afebac656298275cb8405b3f.jpg"
+    },
+    {
+        "id": 47,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING47",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6d/9e/d0/6d9ed07821482bd06ba2045ff6313603.jpg"
+    },
+    {
+        "id": 48,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING48",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/29/74/21/2974215a95c78abb05078e32be39fbca.jpg"
+    },
+    {
+        "id": 49,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING49",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ed/de/ac/eddeacc927bd68a9fe142462f6def61b.jpg"
+    },
+    {
+        "id": 50,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING50",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e6/2d/19/e62d1965e02b22b8bc2de5c65ff2d490.jpg"
+    },
+    {
+        "id": 51,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING51",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/8a/a7/4f/8aa74fd42c40ab2d7d2aefaf4dc96848.jpg"
+    },
+    {
+        "id": 52,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING52",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ab/3b/93/ab3b936cfb68a98ee39465f87653bb51.jpg"
+    },
+    {
+        "id": 53,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING53",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/db/93/ed/db93ed767d30058e2169d893971889d0.jpg"
+    },
+    {
+        "id": 54,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING54",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d7/f4/ff/d7f4ff08393279b49858af1325049adc.jpg"
+    },
+    {
+        "id": 55,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING55",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/88/6e/cd/886ecd71ec60ab443dfe42811ac1ff53.jpg"
+    },
+    {
+        "id": 56,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING56",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/51/42/1d/51421d7191db75f6d99b0fb077218e5a.jpg"
+    },
+    {
+        "id": 57,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING57",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6a/1c/8f/6a1c8f0172b4526349ae05f3cef2c125.jpg"
+    },
+    {
+        "id": 58,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING58",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a4/36/44/a43644bae6c19247798d9d9f5fe8e1b1.jpg"
+    },
+    {
+        "id": 59,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING59",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/70/d2/44/70d2448caea129401b1f5d142fed50ec.jpg"
+    },
+    {
+        "id": 60,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING60",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/cc/a7/3d/cca73d37b4bc953fc6a1e3a9f5a36662.jpg"
+    },
+    {
+        "id": 61,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING61",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/79/70/d2/7970d23087615b50c6a14cef7c5af3c4.jpg"
+    },
+    {
+        "id": 62,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING62",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d6/29/31/d629315be421580cd958417065941d07.jpg"
+    },
+    {
+        "id": 63,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING63",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/0e/c6/df/0ec6df6330f2c125df04fcd824136258.jpg"
+    },
+    {
+        "id": 64,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING64",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/9d/d3/81/9dd381718af98acef6e402f9e938cf67.jpg"
+    },
+    {
+        "id": 65,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING65",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a3/29/17/a32917451ba03109d3bdfc5698713171.jpg"
+    },
+    {
+        "id": 66,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING66",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/45/ee/1f/45ee1ff7a5fe48519d43f2ea310900be.jpg"
+    },
+    {
+        "id": 67,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING67",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/1f/c1/7d/1fc17d136858734c686758863ae88339.jpg"
+    },
+    {
+        "id": 68,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING68",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e5/bf/ec/e5bfecc8eb93631dc517a26fd003005a.jpg"
+    },
+    {
+        "id": 69,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING69",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5d/c3/49/5dc349fd111fab9b86eddc353a0f37ac.jpg"
+    },
+    {
+        "id": 70,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING70",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/72/e1/3a/72e13a73ecc10e8e04fe3872b1d715a5.jpg"
+    },
+    {
+        "id": 71,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING71",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ca/0e/98/ca0e98b0ea2e5313c0bf566141a49d03.jpg"
+    },
+    {
+        "id": 72,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING72",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a0/c5/5d/a0c55db70393bea13a4746c8aab145c8.jpg"
+    },
+    {
+        "id": 73,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING73",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/8f/99/16/8f9916e777f249d0ce687187fe5cfcfb.jpg"
+    },
+    {
+        "id": 74,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING74",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f8/76/c7/f876c763a9f48ac78cef363fa911e057.jpg"
+    },
+    {
+        "id": 75,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING75",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/4f/d3/29/4fd329b88e1fd11565e0979e27624716.jpg"
+    },
+    {
+        "id": 76,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING76",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/7f/cf/e0/7fcfe04601b20dd8c18091c16a91790f.jpg"
+    },
+    {
+        "id": 77,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING77",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/96/c7/67/96c76703792fdbc00cbeeba4d21b55df.jpg"
+    },
+    {
+        "id": 78,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING78",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/dc/64/67/dc6467a8bf9cfbcd91e543aabe41fa5f.jpg"
+    },
+    {
+        "id": 79,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING79",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a4/45/60/a44560d094452388622f4b0c2d2a1b8a.jpg"
+    },
+    {
+        "id": 80,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING80",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f0/93/12/f09312cb310e2c31aa2f399a841aba96.jpg"
+    },
+    {
+        "id": 81,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING81",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/db/61/de/db61de9f31b30bd579735ffd6727a110.jpg"
+    },
+    {
+        "id": 82,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING82",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a5/8c/9d/a58c9d05f5f669c06cab82a583e46f16.jpg"
+    },
+    {
+        "id": 83,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING83",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b0/bc/ff/b0bcff4817669d27ba88dccd7b0a5580.jpg"
+    },
+    {
+        "id": 84,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING84",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/29/45/e9/2945e94804025dab394a77ab96e1d2f6.jpg"
+    },
+    {
+        "id": 85,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING85",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5a/4e/c3/5a4ec361fa52c4956710f2381d27fc5b.jpg"
+    },
+    {
+        "id": 86,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING86",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e7/73/11/e77311a7baf2bc97f1c1b0f6be96a7b2.jpg"
+    },
+    {
+        "id": 87,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING87",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2c/60/bc/2c60bc5e4484022474dbcb8490d7ab2b.jpg"
+    },
+    {
+        "id": 88,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING88",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3a/2b/8a/3a2b8a5e55f3fea59f4174d3ebd83179.jpg"
+    },
+    {
+        "id": 89,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING89",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ea/ad/8b/eaad8b5c736eb1f624f4a4589f329b21.jpg"
+    },
+    {
+        "id": 90,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING90",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/cc/cc/8d/cccc8d06c88dccd7b276eb7b62311b71.jpg"
+    },
+    {
+        "id": 91,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING91",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fe/23/be/fe23be33e997d2064536fa2bea18de20.jpg"
+    },
+    {
+        "id": 92,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING92",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/32/f8/4f/32f84f717012d6ef4093c85f1d280f95.jpg"
+    },
+    {
+        "id": 93,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING93",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/82/f6/d9/82f6d927577a8f0aad6d2577f9836eb4.jpg"
+    },
+    {
+        "id": 94,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING94",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/19/85/9f/19859f84f086d7e3e59e8f36369a6831.jpg"
+    },
+    {
+        "id": 95,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING95",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c0/37/ac/c037ac4d06e6e0a4684ad1ce86f178e3.jpg"
+    },
+    {
+        "id": 96,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING96",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3d/4d/27/3d4d272acf627d80c9aceb653f78d063.jpg"
+    },
+    {
+        "id": 97,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING97",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ca/f4/28/caf428df45205264ac3d07302f846cb2.jpg"
+    },
+    {
+        "id": 98,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING98",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6a/b8/d8/6ab8d89f8acf86dc8a2a23f2e588e530.jpg"
+    },
+    {
+        "id": 99,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING99",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/59/e6/f8/59e6f8041347a8ba21da8bfb2014f104.jpg"
+    },
+    {
+        "id": 100,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING100",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/35/d4/15/35d415640d6cc435b2c731856e61e117.jpg"
+    },
+    {
+        "id": 101,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING101",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/21/24/a8/2124a84f6b5f622a2b772f5977d00636.jpg"
+    },
+    {
+        "id": 102,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING102",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/50/90/f8/5090f89d7f3640b1d3e91925633d9e44.jpg"
+    },
+    {
+        "id": 103,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING103",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d4/3a/16/d43a16c96a0211602a173245424febd7.jpg"
+    },
+    {
+        "id": 104,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING104",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/51/5e/94/515e941966afff80ddf904fb219ab8c7.jpg"
+    },
+    {
+        "id": 105,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING105",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/92/d0/39/92d03920a3c72d159bcaa744dd2223b9.jpg"
+    },
+    {
+        "id": 106,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING106",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2a/27/ee/2a27ee24b8e8788c9de69911a7ebfeea.jpg"
+    },
+    {
+        "id": 107,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING107",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ca/ef/86/caef866f2079b6d076f255d5cf331768.jpg"
+    },
+    {
+        "id": 108,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING108",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/0d/62/84/0d62840d6ca8a378d0ba37b986f9e14b.jpg"
+    },
+    {
+        "id": 109,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING109",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a6/65/f4/a665f47ab08a3698bf67f3070bbd5e29.jpg"
+    },
+    {
+        "id": 110,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING110",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/03/39/a7/0339a7cf3d9471dbbc999d9d3099619b.jpg"
+    },
+    {
+        "id": 111,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING111",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/78/ee/a0/78eea056789f7be0c9914daf2d29fc7f.jpg"
+    },
+    {
+        "id": 112,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING112",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ef/52/2b/ef522bce344fad6547b53f8f9f322af1.jpg"
+    },
+    {
+        "id": 113,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING113",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/1e/8c/32/1e8c322fccb345cfe497e840a3207754.jpg"
+    },
+    {
+        "id": 114,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING114",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e1/10/0a/e1100a5f62015784e0df643f9d7c9d38.jpg"
+    },
+    {
+        "id": 115,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING115",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fc/e8/0a/fce80a4a263e9bfb8b2fad2cbecf91d7.jpg"
+    },
+    {
+        "id": 116,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING116",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2a/8f/fe/2a8ffe4ca4f612a4f6506c235c06bf3d.jpg"
+    },
+    {
+        "id": 117,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING117",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/cf/39/49/cf39493f9f13aeaddc3602b1fbdee3f3.jpg"
+    },
+    {
+        "id": 118,
+        "name_category": "GAMING",
+        "wallpaper_Name": "GAMING118",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/53/d2/d0/53d2d05162d201057667f1e51cd7e056.jpg"
+    }
+]
+}
