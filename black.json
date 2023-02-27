@@ -123,20 +123,7 @@
         "wallpaper_type": "IMAGE",
         "wallpaper_url": "https://i.pinimg.com/originals/b7/38/12/b7381208dd20b09df545258d3cfb712c.jpg"
     },
-    {
-        "id": 11,
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black12",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/06/4f/a4/064fa425e340365eef4918bb8da3df81.jpg"
-    },
-    {
-        "id": 12,
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black13",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/d6/e7/58/d6e7582175c1445682cac0e621aabce4.jpg"
-    },
+   
     {
         "id": 13,
         "name_category": "Black Wallpaper",
@@ -144,13 +131,7 @@
         "wallpaper_type": "IMAGE",
         "wallpaper_url": "https://i.pinimg.com/originals/a9/84/e9/a984e9bba02d531b0508a2b5dff197e6.jpg"
     },
-    {
-        "id": 14,
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black15",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/a1/01/60/a1016057cebffafefede2542519379e1.jpg"
-    },
+    
     {
         "id": 15,
         "name_category": "Black Wallpaper",
@@ -199,13 +180,6 @@
         "wallpaper_name": "Black22",
         "wallpaper_type": "IMAGE",
         "wallpaper_url": "https://i.pinimg.com/originals/b4/2a/80/b42a80743c9cd267ff2ada4bd5687ac1.jpg"
-    },
-    {
-        "id": 22,
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black23",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/95/cb/d0/95cbd015636c46ab0d0b35ccdfdb9626.jpg"
     },
     {
         "id": 23,
@@ -304,21 +278,7 @@
         "wallpaper_name": "Black37",
         "wallpaper_type": "IMAGE",
         "wallpaper_url": "https://i.pinimg.com/originals/f0/a8/fd/f0a8fd5b805a9d8d05b36832f50d1a83.jpg"
-    },
-    {
-        "id": 37,
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black38",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/3d/3c/e4/3d3ce4bfab8e0f9703483e123ff7fa70.jpg"
-    },
-    {
-        "id": 38,
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black39",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/60/cb/4d/60cb4dc70223423afce01e27c5405e6c.jpg"
-    },
+    } ,
     {
         "id": 39,
         "name_category": "Black Wallpaper",
@@ -367,14 +327,7 @@
         "wallpaper_name": "Black46",
         "wallpaper_type": "IMAGE",
         "wallpaper_url": "https://i.pinimg.com/originals/3d/58/64/3d58647f4329dda77b4bfc089666613c.jpg"
-    },
-    {
-        "id": 46,
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black47",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/d3/b1/bc/d3b1bc20316dc8569755c2fe7172d92c.jpg"
-    },
+    },  
     {
         "id": 47,
         "name_category": "Black Wallpaper",
@@ -430,14 +383,7 @@
         "wallpaper_name": "Black55",
         "wallpaper_type": "IMAGE",
         "wallpaper_url": "https://i.pinimg.com/originals/a3/55/ba/a355baf473b7a74e343381f603cde5b1.jpg"
-    },
-    {
-        "id": 55,
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black56",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/ea/ee/d5/eaeed5a2ee9d0cbe6548849accfaad63.jpg"
-    },
+    } ,
     {
         "id": 56,
         "name_category": "Black Wallpaper",
@@ -458,14 +404,7 @@
         "wallpaper_name": "Black59",
         "wallpaper_type": "IMAGE",
         "wallpaper_url": "https://i.pinimg.com/originals/cf/2c/eb/cf2ceb550dabceaee0d652002e143d13.jpg"
-    },
-    {
-        "id": 59,
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black60",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/99/c0/80/99c080e12b5e70a19012e4b23ebc6991.jpg"
-    },
+    }, 
     {
         "id": 60,
         "name_category": "Black Wallpaper",
@@ -493,14 +432,7 @@
         "wallpaper_name": "Black64",
         "wallpaper_type": "IMAGE",
         "wallpaper_url": "https://i.pinimg.com/originals/d2/f4/03/d2f403bbff591306b4f6e61146dac495.jpg"
-    },
-    {
-        "id": 64,
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black65",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/78/d8/43/78d843953984043794f0d76b854affbd.jpg"
-    },
+    } ,
     {
         "id": 65,
         "name_category": "Black Wallpaper",
@@ -515,13 +447,7 @@
         "wallpaper_type": "IMAGE",
         "wallpaper_url": "https://i.pinimg.com/originals/00/2b/38/002b38e5076909ded56c9467388792d2.jpg"
     },
-    {
-        "id": 67,
-        "name_category": "Black Wallpaper",
-        "wallpaper_name": "Black68",
-        "wallpaper_type": "IMAGE",
-        "wallpaper_url": "https://i.pinimg.com/originals/55/5b/ba/555bba024aaec5787cad587ddf644e6c.jpg"
-    },
+     
     {
         "id": 68,
         "name_category": "Black Wallpaper",
