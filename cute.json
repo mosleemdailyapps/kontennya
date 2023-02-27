@@ -1,0 +1,799 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355709",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Super Car",
+      "wallpaper_url": "category/supercar.jpeg"
+    },
+    {
+      "name_category": "Nature",
+      "wallpaper_url": "category/beach.jpeg"
+    },
+    {
+      "name_category": "Animals",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
+    },
+    {
+      "name_category": "Vector",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+    }
+  ],
+  "Wallpaper": [
+    {
+        "id": 1,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE01",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d4/56/ef/d456efd5d72ee42dc7587ed80086b930.jpg"
+    },
+    {
+        "id": 2,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE02",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/80/ea/2d/80ea2d74f5bb4975cc392750281f31ae.jpg"
+    },
+    {
+        "id": 3,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE03",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ac/dd/c8/acddc8f9e598c64518a7922bec00072c.jpg"
+    },
+    {
+        "id": 4,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE04",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/25/02/19/25021972368599b1b084e2e91e3b7ff2.jpg"
+    },
+    {
+        "id": 5,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE05",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d7/35/58/d735589bbbe48a71519a61bf02c3b9e0.jpg"
+    },
+    {
+        "id": 6,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE06",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b8/c0/b7/b8c0b7f76c90a633c55c873b5724b58e.jpg"
+    },
+    {
+        "id": 7,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE07",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5b/a7/35/5ba73574145466bd5cdd8d4bf1bafa27.jpg"
+    },
+    {
+        "id": 8,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE08",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/91/98/a0/9198a0d1f128daa1eb881fc8ff7ee604.jpg"
+    },
+    {
+        "id": 9,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE09",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/72/0f/47/720f475f1429f42ccf23796720804cce.jpg"
+    },
+    {
+        "id": 10,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE10",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/92/95/b2/9295b2ba923e7e71926896f8dfa8c891.jpg"
+    },
+    {
+        "id": 11,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE11",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/bb/e9/88/bbe988a8cd3df375d4fc2185954d5b97.jpg"
+    },
+    {
+        "id": 12,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE12",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/9f/c6/66/9fc6660c25239209aebaad4b000da12b.jpg"
+    },
+    {
+        "id": 13,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE13",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e2/aa/19/e2aa1964b2259fcba51371954ab3fa0e.jpg"
+    },
+    {
+        "id": 14,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE14",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f7/fb/96/f7fb966edf990ff5c0b4c7a8e967e139.jpg"
+    },
+    {
+        "id": 15,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE15",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/28/db/4f/28db4f3ad6f2c4adcd6fb059bfb532b6.jpg"
+    },
+    {
+        "id": 16,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE16",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3d/a7/45/3da745de8cc02510f3b7bf1227deaf93.jpg"
+    },
+    {
+        "id": 17,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE17",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/0e/1c/82/0e1c82859dfe7aa0654f6e13561dbf36.jpg"
+    },
+    {
+        "id": 18,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE18",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/49/b4/fa/49b4fa40d6bf52339860792ea736dc00.jpg"
+    },
+    {
+        "id": 19,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE19",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a8/4f/e7/a84fe748bceeabcabea66cf7b314338b.jpg"
+    },
+    {
+        "id": 20,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE20",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/61/38/ae/6138ae7e97ce89687b5ecd88e90fc78b.jpg"
+    },
+    {
+        "id": 21,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE21",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6c/a7/7c/6ca77c6a302c4eb16e5793bcb60788f4.jpg"
+    },
+    {
+        "id": 22,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE22",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e8/b1/ed/e8b1ed8763107a82f8d90dafe6422ec8.jpg"
+    },
+    {
+        "id": 23,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE23",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5b/1b/5c/5b1b5ca8a577eeace0ab7b492d0c0541.jpg"
+    },
+    {
+        "id": 24,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE24",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6b/df/e6/6bdfe60e93f7c6210f245fe6fc7da4cf.jpg"
+    },
+    {
+        "id": 25,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE25",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b8/8b/ec/b88bec6308312b63c22977692fa0c0b3.jpg"
+    },
+    {
+        "id": 26,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE26",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/af/94/92/af949227e306dc57719d2a5910515edc.jpg"
+    },
+    {
+        "id": 27,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE27",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/7b/df/2e/7bdf2e7e775f6e3b9e7fab0730900dc8.jpg"
+    },
+    {
+        "id": 28,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE28",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/36/88/9a/36889a3c44f943a28c33dfbdcce48517.jpg"
+    },
+    {
+        "id": 29,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE29",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e4/b4/c4/e4b4c4120c04ecd27b1a7c66ca7802d6.jpg"
+    },
+    {
+        "id": 30,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE30",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/9d/84/9e/9d849ea95da0c0a6b01ca1caad29da90.jpg"
+    },
+    {
+        "id": 31,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE31",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/51/e7/4a/51e74a18973d54bee5723633326318f8.jpg"
+    },
+    {
+        "id": 32,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE32",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c5/0b/f0/c50bf0b2cf8438c4f33bac833ccf387d.jpg"
+    },
+    {
+        "id": 33,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE33",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a9/27/f4/a927f4ec23263362ec5bf9acf38bd5f4.jpg"
+    },
+    {
+        "id": 34,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE34",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ae/6d/6d/ae6d6dce261a857d3a01aa77f0b81a63.jpg"
+    },
+    {
+        "id": 35,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE35",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/63/d3/1d/63d31da0f9b859c2af6fe4edb07b184d.jpg"
+    },
+    {
+        "id": 36,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE36",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/1a/19/fe/1a19fe2f6f7903613fad804acfcaf99d.jpg"
+    },
+    {
+        "id": 37,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE37",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a5/6a/32/a56a3214db7546e3d24f6226645510c6.jpg"
+    },
+    {
+        "id": 38,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE38",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ee/08/d7/ee08d741f0776c0a1b0255bc33052224.jpg"
+    },
+    {
+        "id": 39,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE39",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2f/fc/b6/2ffcb6d6ff9b92277b12f34ee8720d52.jpg"
+    },
+    {
+        "id": 40,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE40",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ff/9f/b2/ff9fb28356a2670d7d8d3c4432b50a6c.jpg"
+    },
+    {
+        "id": 41,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE41",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d9/1d/a4/d91da407f053e43a71a7f5bdb889c843.jpg"
+    },
+    {
+        "id": 42,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE42",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b7/dd/03/b7dd03820ac1b36fbffaee71a9bbdcd5.jpg"
+    },
+    {
+        "id": 43,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE43",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/66/57/42/6657424d49ff2831041a83f30b011918.jpg"
+    },
+    {
+        "id": 44,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE44",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/4a/44/50/4a44502b488f00fe5ecfa2222e8ad3f4.jpg"
+    },
+    {
+        "id": 45,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE45",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d8/2a/11/d82a11266ae0596459d0e5808bc045f7.jpg"
+    },
+    {
+        "id": 46,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE46",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b9/46/04/b94604277afe260e578239a69ef9a150.jpg"
+    },
+    {
+        "id": 47,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE47",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/4e/86/bc/4e86bcce35cffe986ac1878cfd57860e.jpg"
+    },
+    {
+        "id": 48,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE48",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/4e/25/5e/4e255e4a95a2a1c401f95ef8aa759152.jpg"
+    },
+    {
+        "id": 49,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE49",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/78/63/88/786388bad62a7405654d8c36e241dc0f.jpg"
+    },
+    {
+        "id": 50,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE50",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2e/1c/da/2e1cda2dc65c6b267a6bfa12b1ab4273.jpg"
+    },
+    {
+        "id": 51,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE51",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f3/75/b6/f375b6842399ed5a1f21cb13ee42371b.jpg"
+    },
+    {
+        "id": 52,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE52",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5c/cc/45/5ccc4521c91713a68ae9633e577d076c.jpg"
+    },
+    {
+        "id": 53,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE53",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3a/e2/9c/3ae29c8ec504a076bb1cc0b7e0ce8fab.jpg"
+    },
+    {
+        "id": 54,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE54",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/14/75/ee/1475eee391a7c2180de21a1f6d70be66.jpg"
+    },
+    {
+        "id": 55,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE55",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f3/a9/2f/f3a92f71c30a4a44881e6425a46fa1dc.jpg"
+    },
+    {
+        "id": 56,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE56",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/52/6a/fe/526afe90d187076958077c1bbd9037bf.jpg"
+    },
+    {
+        "id": 57,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE57",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ff/a0/94/ffa094cc0de6b1f618e157baa8775f77.jpg"
+    },
+    {
+        "id": 58,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE58",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/0e/1b/5e/0e1b5e8b270c3bd845f4c4ea9d5df60a.jpg"
+    },
+    {
+        "id": 59,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE59",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/24/c7/e2/24c7e2e92f99b97304c940ba88a3226d.jpg"
+    },
+    {
+        "id": 60,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE60",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e1/b2/c6/e1b2c6f8cbeb5f1146d88c2efe34aa74.jpg"
+    },
+    {
+        "id": 61,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE61",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/39/37/04/393704a82ca0c170629fa3a699a51d91.jpg"
+    },
+    {
+        "id": 62,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE62",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c5/34/02/c53402a580fc7da2f1b1eec37d9c26e9.jpg"
+    },
+    {
+        "id": 63,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE63",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e8/9a/70/e89a702d59d09b93db0eab6dbc9c63f9.jpg"
+    },
+    {
+        "id": 64,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE64",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f2/ea/e3/f2eae3588fcc42b353ad999daae23d79.jpg"
+    },
+    {
+        "id": 65,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE65",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/28/db/a9/28dba9546f8044cc31a56ef1d1fdd6d7.jpg"
+    },
+    {
+        "id": 66,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE66",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/09/f5/a1/09f5a10735da4d160025ee6d9259123b.jpg"
+    },
+    {
+        "id": 67,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE67",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/40/55/a0/4055a0abad87a2737be4d144d1008b0b.jpg"
+    },
+    {
+        "id": 68,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE68",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/15/df/83/15df833e2d0126f1d9a6bac851142384.jpg"
+    },
+    {
+        "id": 69,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE69",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/67/7e/36/677e36a51a8a92ff60929f3df1701119.jpg"
+    },
+    {
+        "id": 70,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE70",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/8f/18/5b/8f185bbf2803e0d0378a6e31b927f659.jpg"
+    },
+    {
+        "id": 71,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE71",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6a/2b/23/6a2b23b07f099fb9b7da3dd35198ea65.jpg"
+    },
+    {
+        "id": 72,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE72",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/02/0b/a4/020ba4cd0f6fe67088fcaf66ee6071a4.jpg"
+    },
+    {
+        "id": 73,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE73",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f3/ea/d3/f3ead3e36127faa0ac9dfd53ce126e91.jpg"
+    },
+    {
+        "id": 74,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE74",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a8/b7/02/a8b702737712e0f315ae540d89fa9d2d.jpg"
+    },
+    {
+        "id": 75,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE75",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/9e/1c/de/9e1cde73c98888c7eb66797cd202f7b7.jpg"
+    },
+    {
+        "id": 76,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE76",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/da/48/82/da4882b0d47fa051f6a54a568b9d92d7.jpg"
+    },
+    {
+        "id": 77,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE77",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/cd/d9/39/cdd9399fa6d95b77e8075f15b7bd4d58.jpg"
+    },
+    {
+        "id": 78,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE78",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/65/2c/cc/652cccffd9d686d2f5e6b3f455678c7f.jpg"
+    },
+    {
+        "id": 79,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE79",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c8/db/27/c8db27525339e043b6ae2c50cdfb9397.jpg"
+    },
+    {
+        "id": 80,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE80",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/84/44/42/844442045d8f130c34290160733d643d.jpg"
+    },
+    {
+        "id": 81,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE81",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/55/94/65/5594651d889bf78bed75ac2c2d6577d4.jpg"
+    },
+    {
+        "id": 82,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE82",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/16/26/24/162624c4733089461b45e98415969845.jpg"
+    },
+    {
+        "id": 83,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE83",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/1e/8d/2d/1e8d2d65745834548ddac61c83f7fb63.jpg"
+    },
+    {
+        "id": 84,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE84",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/77/f6/d5/77f6d5a079f18832a020e134ce7a1603.jpg"
+    },
+    {
+        "id": 85,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE85",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fe/dd/28/fedd28d1b7f180742d86b5d5f5dec88f.jpg"
+    },
+    {
+        "id": 86,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE86",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b5/17/05/b51705859f5138fac60ad656ed14c038.jpg"
+    },
+    {
+        "id": 87,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE87",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/67/74/a5/6774a58e534d2d4e7a577f5ec0c7c235.jpg"
+    },
+    {
+        "id": 88,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE88",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/77/a8/a0/77a8a0dd6a58accd3edf0af0a44e20b4.jpg"
+    },
+    {
+        "id": 89,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE89",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/61/75/64/61756455e95477820dff625498e416fb.jpg"
+    },
+    {
+        "id": 90,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE90",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/42/39/00/423900bc0af284140ef71070388642dc.jpg"
+    },
+    {
+        "id": 91,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE91",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originnals/34/6c/ae/346caec4382a96053c9e46a49be81211.jpg"
+    },
+    {
+        "id": 92,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE92",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/01/81/ef/0181efc00d4c552d599cd0f680a10fde.jpg"
+    },
+    {
+        "id": 93,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE93",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e5/eb/5b/e5eb5bed2f706e56a4ca7247da409ed0.jpg"
+    },
+    {
+        "id": 94,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE94",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f2/11/ab/f211abd75fabce47eda8b12d22a941d3.jpg"
+    },
+    {
+        "id": 95,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE95",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5a/83/a4/5a83a444220d837c4d705d5bcb22d271.jpg"
+    },
+    {
+        "id": 96,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE96",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2c/f8/89/2cf88930b37ad3f1e4e46f03aeafa0ca.jpg"
+    },
+    {
+        "id": 97,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE97",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/9f/e0/70/9fe070436619d1f9ec16fdfe9039fb83.jpg"
+    },
+    {
+        "id": 98,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE98",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/23/ed/2b/23ed2b2feac8a62142162bc4b5f7a26a.jpg"
+    },
+    {
+        "id": 99,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE99",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/63/80/1e/63801e27b967d022ba741effdb71e3b9.jpg"
+    },
+    {
+        "id": 100,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE100",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/20/41/20/2041201cc428349efd0e84e89b9eb4a1.jpg"
+    },
+    {
+        "id": 101,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE101",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/72/95/76/7295769a10342e345dc919ed58f79af7.jpg"
+    },
+    {
+        "id": 102,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE102",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/26/96/3a/26963ae6570a3bd6e5f1aa59058e070b.jpg"
+    },
+    {
+        "id": 103,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE103",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fe/85/35/fe853585b0ea686ef10540e9aaa739b7.jpg"
+    },
+    {
+        "id": 104,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE104",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6d/68/80/6d6880d44b65886c298747c3d92bf452.jpg"
+    },
+    {
+        "id": 105,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE105",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/27/b0/75/27b075890b4c468ebf64f6d28da42f14.jpg"
+    },
+    {
+        "id": 106,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE106",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/44/80/6e/44806e2583116c61802bc78e283dc73f.jpg"
+    },
+    {
+        "id": 107,
+        "name_category": "CUTE",
+        "wallpaper_Name": "CUTE107",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/4b/ea/91/4bea9151afbd2f5a2ee8a93c6ba092b1.jpg"
+    }
+]
+}
