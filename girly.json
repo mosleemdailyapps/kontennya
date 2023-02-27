@@ -1,0 +1,827 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355709",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Super Car",
+      "wallpaper_url": "category/supercar.jpeg"
+    },
+    {
+      "name_category": "Nature",
+      "wallpaper_url": "category/beach.jpeg"
+    },
+    {
+      "name_category": "Animals",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
+    },
+    {
+      "name_category": "Vector",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+    }
+  ],
+  "Wallpaper": [
+    {
+        "id": 1,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY01",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b8/c0/b7/b8c0b7f76c90a633c55c873b5724b58e.jpg"
+    },
+    {
+        "id": 2,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY02",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d4/56/ef/d456efd5d72ee42dc7587ed80086b930.jpg"
+    },
+    {
+        "id": 3,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY03",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/4a/6e/4b/4a6e4befd561d16b295ddf2cc49e94c6.jpg"
+    },
+    {
+        "id": 4,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY04",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e1/b2/c6/e1b2c6f8cbeb5f1146d88c2efe34aa74.jpg"
+    },
+    {
+        "id": 5,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY05",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e1/6a/48/e16a488e8fb801d90f7b2d7613575b21.jpg"
+    },
+    {
+        "id": 6,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY06",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/15/df/83/15df833e2d0126f1d9a6bac851142384.jpg"
+    },
+    {
+        "id": 7,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY07",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/09/f5/a1/09f5a10735da4d160025ee6d9259123b.jpg"
+    },
+    {
+        "id": 8,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY08",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f7/fb/96/f7fb966edf990ff5c0b4c7a8e967e139.jpg"
+    },
+    {
+        "id": 9,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY09",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/98/a9/e1/98a9e1d79c2d397610c9a8611563e44d.jpg"
+    },
+    {
+        "id": 10,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY10",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d7/35/58/d735589bbbe48a71519a61bf02c3b9e0.jpg"
+    },
+    {
+        "id": 11,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY11",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ff/9f/b2/ff9fb28356a2670d7d8d3c4432b50a6c.jpg"
+    },
+    {
+        "id": 12,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY12",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ac/dd/c8/acddc8f9e598c64518a7922bec00072c.jpg"
+    },
+    {
+        "id": 13,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY13",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/20/41/20/2041201cc428349efd0e84e89b9eb4a1.jpg"
+    },
+    {
+        "id": 14,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY14",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fe/85/35/fe853585b0ea686ef10540e9aaa739b7.jpg"
+    },
+    {
+        "id": 15,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY15",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e8/b1/ed/e8b1ed8763107a82f8d90dafe6422ec8.jpg"
+    },
+    {
+        "id": 16,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY16",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d8/2a/11/d82a11266ae0596459d0e5808bc045f7.jpg"
+    },
+    {
+        "id": 17,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY17",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e6/84/ab/e684ab527e1d6c0f687f505a6e94f425.jpg"
+    },
+    {
+        "id": 18,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY18",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fd/e4/c5/fde4c57d3f2ed4df82fe235a751410e0.jpg"
+    },
+    {
+        "id": 19,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY19",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b9/24/4b/b9244b766de79a26f32936f4b1eb9537.jpg"
+    },
+    {
+        "id": 20,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY20",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5b/ba/da/5bbada723cc8273a4fb72de84c2d5928.jpg"
+    },
+    {
+        "id": 21,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY21",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/af/94/92/af949227e306dc57719d2a5910515edc.jpg"
+    },
+    {
+        "id": 22,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY22",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/37/da/cc/37dacc185598dd70b33d90a439a2c253.jpg"
+    },
+    {
+        "id": 23,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY23",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d0/0f/24/d00f2413a800baa68c5314200c9a3e4a.jpg"
+    },
+    {
+        "id": 24,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY24",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/51/fc/6e/51fc6e8f6e7dead32bbc2e47162b60a1.jpg"
+    },
+    {
+        "id": 25,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY25",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/8e/71/a0/8e71a098558297f0cb0a45798ec35e91.jpg"
+    },
+    {
+        "id": 26,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY26",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/39/2a/5e/392a5ec0ff91b67e43d2ea2ac449e1e7.jpg"
+    },
+    {
+        "id": 27,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY27",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/57/ff/1a/57ff1ada778b3435337c59cc0d885d40.jpg"
+    },
+    {
+        "id": 28,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY28",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/8f/18/5b/8f185bbf2803e0d0378a6e31b927f659.jpg"
+    },
+    {
+        "id": 29,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY29",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/66/57/42/6657424d49ff2831041a83f30b011918.jpg"
+    },
+    {
+        "id": 30,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY30",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/06/de/dc/06dedc12da2c341672cffa55aa819a1d.jpg"
+    },
+    {
+        "id": 31,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY31",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d9/07/79/d9077905e6cdf7d2465f056202fa0dd4.jpg"
+    },
+    {
+        "id": 32,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY32",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c5/0b/f0/c50bf0b2cf8438c4f33bac833ccf387d.jpg"
+    },
+    {
+        "id": 33,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY33",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/01/81/ef/0181efc00d4c552d599cd0f680a10fde.jpg"
+    },
+    {
+        "id": 34,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY34",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/0f/06/cc/0f06ccdc947407a811adc3e3b6281f36.jpg"
+    },
+    {
+        "id": 35,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY35",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/be/db/e5/bedbe5cf21456b7584256ccb91d2fe11.jpg"
+    },
+    {
+        "id": 36,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY36",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/9e/1c/de/9e1cde73c98888c7eb66797cd202f7b7.jpg"
+    },
+    {
+        "id": 37,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY37",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/7b/df/2e/7bdf2e7e775f6e3b9e7fab0730900dc8.jpg"
+    },
+    {
+        "id": 38,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY38",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/7a/2d/16/7a2d16f738aafaec66287bfbd4639802.jpg"
+    },
+    {
+        "id": 39,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY39",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2f/fc/b6/2ffcb6d6ff9b92277b12f34ee8720d52.jpg"
+    },
+    {
+        "id": 40,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY40",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/24/c7/e2/24c7e2e92f99b97304c940ba88a3226d.jpg"
+    },
+    {
+        "id": 41,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY41",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/9e/ab/23/9eab23e69bd4d840d4ca2bee6a4c630a.jpg"
+    },
+    {
+        "id": 42,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY42",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/15/b5/55/15b5550db39768825851d1fcaac7acdd.jpg"
+    },
+    {
+        "id": 43,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY43",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/36/88/9a/36889a3c44f943a28c33dfbdcce48517.jpg"
+    },
+    {
+        "id": 44,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY44",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/61/75/64/61756455e95477820dff625498e416fb.jpg"
+    },
+    {
+        "id": 45,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY45",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/10/b2/39/10b239ed029ee1cf124dbacba2d8de51.jpg"
+    },
+    {
+        "id": 46,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY46",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3d/60/e4/3d60e4fc98faa0c1a35566301fc047d1.jpg"
+    },
+    {
+        "id": 47,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY47",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/9f/ee/44/9fee4439c4eb921247c50eb0c253cb95.jpg"
+    },
+    {
+        "id": 48,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY48",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/47/70/2a/47702a7f8a1d54f1522d0de3b340ec96.jpg"
+    },
+    {
+        "id": 49,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY49",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3b/5d/07/3b5d073a0b95df9f903214816adec900.jpg"
+    },
+    {
+        "id": 50,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY50",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5f/cf/86/5fcf86a1089e81a2894fde2eddbe0676.jpg"
+    },
+    {
+        "id": 51,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY51",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/65/5a/79/655a79880210c4671b5a310203ec77bf.jpg"
+    },
+    {
+        "id": 52,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY52",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/61/38/ae/6138ae7e97ce89687b5ecd88e90fc78b.jpg"
+    },
+    {
+        "id": 53,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY53",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d3/f0/b3/d3f0b316604be245a620e71aedfa0d5b.jpg"
+    },
+    {
+        "id": 54,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY54",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ab/7c/6d/ab7c6ddca62a0f2dbdeaaf41266ef770.jpg"
+    },
+    {
+        "id": 55,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY55",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b4/4e/46/b44e46fc0e8c13a2c2cfd9d2ab25a3ee.jpg"
+    },
+    {
+        "id": 56,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY56",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6e/f0/95/6ef0959dfea163adedcf42bd1618be33.jpg"
+    },
+    {
+        "id": 57,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY57",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/74/a7/dc/74a7dcf9c93f949b6a3a8a8db3ef0b8e.jpg"
+    },
+    {
+        "id": 58,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY58",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/53/68/f5/5368f598220db807b6009e5571519075.jpg"
+    },
+    {
+        "id": 59,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY59",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e0/00/d3/e000d3c3e91c22040d6c27ea4c4a7ab8.jpg"
+    },
+    {
+        "id": 60,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY60",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/0b/38/b6/0b38b664ab11c46f452822010cc7ea39.jpg"
+    },
+    {
+        "id": 61,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY61",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ff/a0/94/ffa094cc0de6b1f618e157baa8775f77.jpg"
+    },
+    {
+        "id": 62,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY62",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a5/6a/32/a56a3214db7546e3d24f6226645510c6.jpg"
+    },
+    {
+        "id": 63,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY63",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c9/95/3c/c9953c2d6b8c1c5fd3584d800cf4cc9d.jpg"
+    },
+    {
+        "id": 64,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY64",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/99/2d/3b/992d3b5b751576bd2f17f30dbeff7505.jpg"
+    },
+    {
+        "id": 65,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY65",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/84/44/42/844442045d8f130c34290160733d643d.jpg"
+    },
+    {
+        "id": 66,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY66",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ae/6d/6d/ae6d6dce261a857d3a01aa77f0b81a63.jpg"
+    },
+    {
+        "id": 67,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY67",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/1a/19/fe/1a19fe2f6f7903613fad804acfcaf99d.jpg"
+    },
+    {
+        "id": 68,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY68",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e5/eb/5b/e5eb5bed2f706e56a4ca7247da409ed0.jpg"
+    },
+    {
+        "id": 69,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY69",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/42/39/00/423900bc0af284140ef71070388642dc.jpg"
+    },
+    {
+        "id": 70,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY70",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5e/75/22/5e7522437eb5eacb8463f73dd7ed625d.jpg"
+    },
+    {
+        "id": 71,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY71",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/1f/30/3b/1f303b1cb345dcd99889d3a02314b719.jpg"
+    },
+    {
+        "id": 72,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY72",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b9/eb/b8/b9ebb841dd8c4de7d06187a050dc5c72.jpg"
+    },
+    {
+        "id": 73,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY73",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/12/2d/9c/122d9c8ac21c5346fa1503b55a681198.jpg"
+    },
+    {
+        "id": 74,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY74",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/02/d0/86/02d086d8068f9f36609f0ecb8e2ae7e5.jpg"
+    },
+    {
+        "id": 75,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY75",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/67/4f/5e/674f5eda4eca84fd712d209afbfe51da.jpg"
+    },
+    {
+        "id": 76,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY76",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a8/a4/af/a8a4af0842f4d4916ce858cc4f338bec.jpg"
+    },
+    {
+        "id": 77,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY77",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/35/ae/61/35ae613cc65c0defb607133752981e12.jpg"
+    },
+    {
+        "id": 78,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY78",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/72/95/76/7295769a10342e345dc919ed58f79af7.jpg"
+    },
+    {
+        "id": 79,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY79",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a8/4f/e7/a84fe748bceeabcabea66cf7b314338b.jpg"
+    },
+    {
+        "id": 80,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY80",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/80/55/9d/80559d9af4417a960eb28dc52c38c26f.jpg"
+    },
+    {
+        "id": 81,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY81",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f2/11/ab/f211abd75fabce47eda8b12d22a941d3.jpg"
+    },
+    {
+        "id": 82,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY82",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a5/44/0c/a5440cc6f3e9228d1a5286aeec1b1832.jpg"
+    },
+    {
+        "id": 83,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY83",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d9/a1/58/d9a15845379c4870baaeee74da1f234c.jpg"
+    },
+    {
+        "id": 84,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY84",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/49/1e/3f/491e3f5fa488e85903888a5e20439b1a.jpg"
+    },
+    {
+        "id": 85,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY85",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/47/ad/e0/47ade0d402e96690a1e94b3933a4a026.jpg"
+    },
+    {
+        "id": 86,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY86",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b8/8b/ec/b88bec6308312b63c22977692fa0c0b3.jpg"
+    },
+    {
+        "id": 87,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY87",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f9/cc/16/f9cc1644927998d6f3e4e68d98dd4308.jpg"
+    },
+    {
+        "id": 88,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY88",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fd/1c/90/fd1c9046674f98f35be888f8f79eb840.jpg"
+    },
+    {
+        "id": 89,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY89",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fe/03/9c/fe039c8876017b04f0e68c8f646f0aa4.jpg"
+    },
+    {
+        "id": 90,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY90",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/74/c3/6b/74c36b4265750ca9c45731a5915f4fae.jpg"
+    },
+    {
+        "id": 91,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY91",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b9/46/04/b94604277afe260e578239a69ef9a150.jpg"
+    },
+    {
+        "id": 92,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY92",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/39/37/04/393704a82ca0c170629fa3a699a51d91.jpg"
+    },
+    {
+        "id": 93,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY93",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/04/b2/83/04b283b9760a2fdb29d7d403e2054a06.jpg"
+    },
+    {
+        "id": 94,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY94",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ae/f5/63/aef56327cc0968152358c60c8cc5d7e5.jpg"
+    },
+    {
+        "id": 95,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY95",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6d/68/80/6d6880d44b65886c298747c3d92bf452.jpg"
+    },
+    {
+        "id": 96,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY96",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/62/13/b8/6213b826c57518c0636ec00867aab22d.jpg"
+    },
+    {
+        "id": 97,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY97",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/cd/37/67/cd37672adde6bcd1124270c413bc9c96.jpg"
+    },
+    {
+        "id": 98,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY98",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ec/ae/34/ecae34a95b25548e0954fcd328131ce8.jpg"
+    },
+    {
+        "id": 99,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY99",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/7b/c5/4b/7bc54bf2d7d4e1b6bac94f07bcf913cb.jpg"
+    },
+    {
+        "id": 100,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY100",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b8/b4/7a/b8b47ab6f2548460273153dc8da6fbb0.jpg"
+    },
+    {
+        "id": 101,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY101",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/67/7e/36/677e36a51a8a92ff60929f3df1701119.jpg"
+    },
+    {
+        "id": 102,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY102",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ae/4d/22/ae4d22c3f8f8ebeae196e8d91eac4679.jpg"
+    },
+    {
+        "id": 103,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY103",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/bc/d3/4e/bcd34e3cdbfd4a06491e0c21317246c5.jpg"
+    },
+    {
+        "id": 104,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY104",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3a/e2/9c/3ae29c8ec504a076bb1cc0b7e0ce8fab.jpg"
+    },
+    {
+        "id": 105,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY105",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/4e/86/bc/4e86bcce35cffe986ac1878cfd57860e.jpg"
+    },
+    {
+        "id": 106,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY106",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d8/b8/37/d8b8371e5172168ed899c8a68f7ea27c.jpg"
+    },
+    {
+        "id": 107,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY107",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/30/70/67/3070673aa34a5b65eea3ba73a5f627fe.jpg"
+    },
+    {
+        "id": 108,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY108",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/94/f0/97/94f097ac770d207d3b09a258ba47cbe4.jpg"
+    },
+    {
+        "id": 109,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY109",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a5/46/07/a5460795b29693090720f57b56ec57d3.jpg"
+    },
+    {
+        "id": 110,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY110",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fc/f2/88/fcf28864d8a7febe54faa61f0db7b3ef.jpg"
+    },
+    {
+        "id": 111,
+        "name_category": "GIRLY",
+        "wallpaper_Name": "GIRLY111",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/15/38/42/15384280654f08d6a3c71d0ea9b1904a.jpg"
+    }
+]
+}
