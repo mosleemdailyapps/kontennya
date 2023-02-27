@@ -1,0 +1,953 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355709",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Super Car",
+      "wallpaper_url": "category/supercar.jpeg"
+    },
+    {
+      "name_category": "Nature",
+      "wallpaper_url": "category/beach.jpeg"
+    },
+    {
+      "name_category": "Animals",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
+    },
+    {
+      "name_category": "Vector",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+    }
+  ],
+  "Wallpaper": [
+    {
+        "id": 1,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL01",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/22/07/8b/22078b737aef6475072c40897aeea680.jpg"
+    },
+    {
+        "id": 2,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL02",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/88/81/33/8881333cd854053a9ce6cacf9934f3ba.jpg"
+    },
+    {
+        "id": 3,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL03",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/21/08/3b/21083b8a6515a91ab1d90f9a3c1da37c.jpg"
+    },
+    {
+        "id": 4,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL04",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ff/8d/0b/ff8d0bce14d16f07478456f959ca9644.jpg"
+    },
+    {
+        "id": 5,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL05",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/69/53/8f/69538f1fe458d9da9456a8f42234f5de.jpg"
+    },
+    {
+        "id": 6,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL06",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/cf/8a/75/cf8a758a00ff05d3725cc6a14473d3ec.jpg"
+    },
+    {
+        "id": 7,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL07",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/71/95/aa/7195aac8ffc1013329792d23322946b1.jpg"
+    },
+    {
+        "id": 8,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL08",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/24/d9/c5/24d9c50d9c6c71d0fd094a79d011739c.jpg"
+    },
+    {
+        "id": 9,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL09",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d2/a6/09/d2a609780eb55bfd35a20c9714f9aa25.jpg"
+    },
+    {
+        "id": 10,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL10",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/1b/46/9d/1b469d3babad98e346f2fc28bc84b7f0.jpg"
+    },
+    {
+        "id": 11,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL11",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fe/4e/f7/fe4ef7c822303d33f409258fe47128dd.jpg"
+    },
+    {
+        "id": 12,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL12",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/75/bd/51/75bd51fa5173a3fe91bc6c3f3eb29cb8.jpg"
+    },
+    {
+        "id": 13,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL13",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/36/2c/14/362c1435537ab9914213a0e6d318a1fb.jpg"
+    },
+    {
+        "id": 14,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL14",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/4a/49/98/4a4998a03ffd6b34149f845edd9671cf.jpg"
+    },
+    {
+        "id": 15,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL15",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/21/5f/b3/215fb3ef16362d63dc607802a62463f2.jpg"
+    },
+    {
+        "id": 16,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL16",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5f/32/c2/5f32c2697d3773d33b94310cfb9dabcb.jpg"
+    },
+    {
+        "id": 17,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL17",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/20/fc/38/20fc38d66fcfb3d7699d78e9daa75d86.jpg"
+    },
+    {
+        "id": 18,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL18",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/14/66/b5/1466b5bcbc050ef2158b5e622b8086d2.jpg"
+    },
+    {
+        "id": 19,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL19",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/60/73/df/6073df071d1c4f56fc6a510e4053d7a7.jpg"
+    },
+    {
+        "id": 20,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL20",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6c/ee/78/6cee7848d8c1f2ff2e6fd63eb819b744.jpg"
+    },
+    {
+        "id": 21,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL21",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/39/76/41/3976411329795b1f200580e74778cc75.jpg"
+    },
+    {
+        "id": 22,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL22",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3d/67/cc/3d67cc1f346ea771e6d2c257426c819b.jpg"
+    },
+    {
+        "id": 23,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL23",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/01/94/16/019416e6fe0c963350dde2eb19f34c64.jpg"
+    },
+    {
+        "id": 24,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL24",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/74/b3/6b/74b36b09a8026adfa5c03d7fc571b438.jpg"
+    },
+    {
+        "id": 25,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL25",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5f/85/d2/5f85d22162f4e4a2882b15795204823e.jpg"
+    },
+    {
+        "id": 26,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL26",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/9b/59/62/9b59621fce7ec80d59b18a9ca3ddf359.jpg"
+    },
+    {
+        "id": 27,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL27",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f3/f6/d8/f3f6d8898d595257d94618bec4be9d4c.jpg"
+    },
+    {
+        "id": 28,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL28",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/94/d4/17/94d4173fd549a30c89944219e55591d9.jpg"
+    },
+    {
+        "id": 29,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL29",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c3/94/0f/c3940f45e2e98fdbf10e9240f7a199c1.jpg"
+    },
+    {
+        "id": 30,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL30",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/0a/bf/d3/0abfd30282c25ba978f4113a6bc4e351.jpg"
+    },
+    {
+        "id": 31,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL31",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fa/82/f2/fa82f29f42bb94ca3e2c7495ce54e45a.jpg"
+    },
+    {
+        "id": 32,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL32",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/43/83/30/438330bd93ef4ff9f9fb803ade85dc01.jpg"
+    },
+    {
+        "id": 33,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL33",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d9/b3/ea/d9b3eafd1056167361d32f2aa38bb253.jpg"
+    },
+    {
+        "id": 34,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL34",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/44/03/6c/44036c6b90cc9bc482d450d1df66a857.jpg"
+    },
+    {
+        "id": 35,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL35",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3d/17/34/3d1734b1bb415dbef33a094f00182b63.jpg"
+    },
+    {
+        "id": 36,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL36",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2c/d6/6c/2cd66c6489a20001f6e11ef61ed04eed.jpg"
+    },
+    {
+        "id": 37,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL37",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/1b/38/a2/1b38a2a9b679d8f62cfb622dd8917963.jpg"
+    },
+    {
+        "id": 38,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL38",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/52/bb/98/52bb9817d713e99ab9c17cf51a339499.jpg"
+    },
+    {
+        "id": 39,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL39",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/74/19/e1/7419e10994e1cfbbf0c9e24582114cdd.jpg"
+    },
+    {
+        "id": 40,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL40",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/42/35/97/42359721829dbcb0f433f763c752a81c.jpg"
+    },
+    {
+        "id": 41,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL41",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/da/85/7e/da857efc1082c0e0961f11a61e314a5f.jpg"
+    },
+    {
+        "id": 42,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL42",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a8/b7/02/a8b702737712e0f315ae540d89fa9d2d.jpg"
+    },
+    {
+        "id": 43,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL43",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/08/71/0c/08710c5b4a89d8fe2eeabbdfca27f18f.jpg"
+    },
+    {
+        "id": 44,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL44",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/bb/87/f8/bb87f89e92f0009c06722947c0a029a5.jpg"
+    },
+    {
+        "id": 45,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL45",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c4/b0/ba/c4b0badc8807fa3e2a674378266fd3a6.jpg"
+    },
+    {
+        "id": 46,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL46",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/8c/15/30/8c1530172c5522ea0c5033dab19b32d7.jpg"
+    },
+    {
+        "id": 47,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL47",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/40/5e/79/405e79a55eb3c949a24d37a83464c60d.jpg"
+    },
+    {
+        "id": 48,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL48",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/57/0e/88/570e88630497172421847f3c9a08fa29.jpg"
+    },
+    {
+        "id": 49,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL49",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3c/4e/b0/3c4eb0f752e65435850202afb1595fa3.jpg"
+    },
+    {
+        "id": 50,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL50",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a1/f2/74/a1f27429216e682f6e0630c606a612e1.jpg"
+    },
+    {
+        "id": 51,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL51",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/39/29/1a/39291a08bf016cb62105daa396076e68.jpg"
+    },
+    {
+        "id": 52,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL52",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/15/5b/29/155b29be627ff842b9c543ac589db42c.jpg"
+    },
+    {
+        "id": 53,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL53",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/de/2f/93/de2f9329c03d4866162b4583fd1bf0c0.jpg"
+    },
+    {
+        "id": 54,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL54",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/43/3c/05/433c05176b9d1de767096e199ba05475.jpg"
+    },
+    {
+        "id": 55,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL55",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ad/20/3c/ad203c3b6391bf1958436c2f23c674de.jpg"
+    },
+    {
+        "id": 56,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL56",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f3/12/9f/f3129fefc61b9e6b1cdf356d009b0dec.jpg"
+    },
+    {
+        "id": 57,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL57",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b7/49/24/b74924d25889b1975342b5d3c960ce80.jpg"
+    },
+    {
+        "id": 58,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL58",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d9/bd/ce/d9bdce6f25ac7955ca54de173986efc9.jpg"
+    },
+    {
+        "id": 59,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL59",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/22/d4/45/22d445d9b30b2b94f142937f7d690f3b.jpg"
+    },
+    {
+        "id": 60,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL60",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/7e/54/ea/7e54eabb4df0bf803fb734ad9ef846f9.jpg"
+    },
+    {
+        "id": 61,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL61",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d4/35/a1/d435a16a01dcfbb265ab36d51394c7e8.jpg"
+    },
+    {
+        "id": 62,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL62",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/4a/b4/6e/4ab46e536206e3f4a7320cfb98d42db7.jpg"
+    },
+    {
+        "id": 63,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL63",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c8/68/8a/c8688a20230e3a42e81bb6df0f7eba98.jpg"
+    },
+    {
+        "id": 64,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL64",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/db/78/49/db784917a6f74ed8f7be1b071741d92c.jpg"
+    },
+    {
+        "id": 65,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL65",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e1/dc/0e/e1dc0ea736906cfa5c159fa8754a39d9.jpg"
+    },
+    {
+        "id": 66,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL66",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/93/4d/78/934d7873f23ad0026f0724264faef40a.jpg"
+    },
+    {
+        "id": 67,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL67",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/64/20/5c/64205cd9d6d17d27f592420c0b1e8fcf.jpg"
+    },
+    {
+        "id": 68,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL68",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/4e/db/fb/4edbfb62dbc92ace727e4d1917d3f368.jpg"
+    },
+    {
+        "id": 69,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL69",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/48/58/6e/48586eca5c2ee34fcccf3841025ed8c0.jpg"
+    },
+    {
+        "id": 70,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL70",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/21/15/38/21153824be2efe9fa4d068b47dbef99d.jpg"
+    },
+    {
+        "id": 71,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL71",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/80/55/9d/80559d9af4417a960eb28dc52c38c26f.jpg"
+    },
+    {
+        "id": 72,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL72",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a9/ad/7f/a9ad7f2c49df137cb3b821fc623fe2a0.jpg"
+    },
+    {
+        "id": 73,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL73",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ae/95/4a/ae954a328bee0610fee110213d51165a.jpg"
+    },
+    {
+        "id": 74,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL74",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/42/ef/e4/42efe4c32cb046e4babafa96a40b7e4b.jpg"
+    },
+    {
+        "id": 75,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL75",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f4/6f/da/f46fdac4ddc1fa06fc8006103be44f88.jpg"
+    },
+    {
+        "id": 76,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL76",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/02/23/aa/0223aa69d4bfadb56edde0c0ab58bdd4.jpg"
+    },
+    {
+        "id": 77,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL77",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d0/12/c3/d012c37d1ac830b4b4f23021f22e2b7d.jpg"
+    },
+    {
+        "id": 78,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL78",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/48/a4/00/48a40016bb718b356c2460e04ce7e8df.jpg"
+    },
+    {
+        "id": 79,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL79",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/06/de/dc/06dedc12da2c341672cffa55aa819a1d.jpg"
+    },
+    {
+        "id": 80,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL80",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c4/1d/80/c41d808443773dff40a3c33f7e494398.jpg"
+    },
+    {
+        "id": 81,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL81",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/05/59/06/0559064ea3a1fb94b0a1672736907bef.jpg"
+    },
+    {
+        "id": 82,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL82",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/86/80/98/868098a0f781f192db2d19b26d45cbf3.jpg"
+    },
+    {
+        "id": 83,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL83",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c2/18/81/c21881dd5134d184d841b7122fa6d5b4.jpg"
+    },
+    {
+        "id": 84,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL84",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/56/f2/1d/56f21d9a6a21748b35ea6d1ab902fb9e.jpg"
+    },
+    {
+        "id": 85,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL85",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/76/90/99/7690999d9d25e432fb3eee19091fd661.jpg"
+    },
+    {
+        "id": 86,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL86",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/de/14/64/de1464588b25399dcd90fc768810d3e5.jpg"
+    },
+    {
+        "id": 87,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL87",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/78/ef/47/78ef47bd959c73ae660decf75449c807.jpg"
+    },
+    {
+        "id": 88,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL88",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/11/cf/36/11cf36bbe1dce694e8b7065e1a132da7.jpg"
+    },
+    {
+        "id": 89,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL89",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/a9/1e/1e/a91e1eb16e9ba138b337522b3a1df315.jpg"
+    },
+    {
+        "id": 90,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL90",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/da/b4/a9/dab4a9d8be6f0f77be82eaeaa3470bb4.jpg"
+    },
+    {
+        "id": 91,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL91",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/c7/86/43/c7864352ea129d626609f6ff35b5dd39.jpg"
+    },
+    {
+        "id": 92,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL92",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/86/c2/3e/86c23e16998e48b74d70fe100a1c6bbd.jpg"
+    },
+    {
+        "id": 93,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL93",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/00/93/36/009336cc6e25a04bd76316be16855d12.jpg"
+    },
+    {
+        "id": 94,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL94",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/1b/d4/10/1bd4100cb8220caec0563afbe0244078.jpg"
+    },
+    {
+        "id": 95,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL95",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/79/76/6e/79766ec95c8e616d1afb4f07829dc201.jpg"
+    },
+    {
+        "id": 96,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL96",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/90/87/c6/9087c6074ea2872ef81de3dc135758ce.jpg"
+    },
+    {
+        "id": 97,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL97",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/bd/a4/d2/bda4d2d3453b8d53480ab4790d99b88a.jpg"
+    },
+    {
+        "id": 98,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL98",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/05/17/72/0517724372ddc3b0808fa29559abcf30.jpg"
+    },
+    {
+        "id": 99,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL99",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fa/bc/b2/fabcb23b2f6408298a30bc5e90bc1be9.jpg"
+    },
+    {
+        "id": 100,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL100",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/86/58/09/8658091859a8715b8daacc24bbcb4f21.jpg"
+    },
+    {
+        "id": 101,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL101",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2b/b8/69/2bb8692bd354ce3de8dbec8cb9b3bcef.jpg"
+    },
+    {
+        "id": 102,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL102",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e6/a3/08/e6a3087f683943180dfe0fe069255c7c.jpg"
+    },
+    {
+        "id": 103,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL103",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/6e/8e/b6/6e8eb61c18b91e8b0cad821c292c9748.jpg"
+    },
+    {
+        "id": 104,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL104",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/f2/22/82/f2228221b6f9096c8a1a5707f3832e06.jpg"
+    },
+    {
+        "id": 105,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL105",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/28/26/f9/2826f92f5fde7510dc9be7d91f691534.jpg"
+    },
+    {
+        "id": 106,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL106",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/8f/15/5d/8f155d63fb5a4e1064246465f5edc85f.jpg"
+    },
+    {
+        "id": 107,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL107",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/50/38/3a/50383ab8e944449c5721ccf92a04d817.jpg"
+    },
+    {
+        "id": 108,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL108",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/2f/b9/e6/2fb9e60e54d2f17aa70016041cd505fc.jpg"
+    },
+    {
+        "id": 109,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL109",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/b0/b5/4e/b0b54ee41d5566cef3ba200432bbac65.jpg"
+    },
+    {
+        "id": 110,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL110",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/de/a7/4e/dea74e64194c30931c0180dc2fb1fc3a.jpg"
+    },
+    {
+        "id": 111,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL111",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/aa/0e/d4/aa0ed4ae77fb24b45835fbb18ed333e1.jpg"
+    },
+    {
+        "id": 112,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL112",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/ae/28/78/ae2878c2cf126c7419ff635746c4c52d.jpg"
+    },
+    {
+        "id": 113,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL113",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/7d/b0/30/7db0304b29b86981d5c7cb2768c504b4.jpg"
+    },
+    {
+        "id": 114,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL114",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5c/d1/28/5cd1281980b56ddb011ae9d90b1e4552.jpg"
+    },
+    {
+        "id": 115,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL115",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/20/cf/61/20cf61be099300bf22e4e975a549c834.jpg"
+    },
+    {
+        "id": 116,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL116",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/81/af/08/81af080859a9c62da20c46e34265ca2f.jpg"
+    },
+    {
+        "id": 117,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL117",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/1a/44/3d/1a443d800a2adf02f6a9ba6770d484da.jpg"
+    },
+    {
+        "id": 118,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL118",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/42/b8/f9/42b8f9fc9758de0176c690ada3e00fd6.jpg"
+    },
+    {
+        "id": 119,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL119",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/26/ca/a1/26caa1d2a39299631b4aa2c8e15ce827.jpg"
+    },
+    {
+        "id": 120,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL120",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/3d/47/2b/3d472bd8445e60dce4a61f0c2c5713d7.jpg"
+    },
+    {
+        "id": 121,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL121",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/d5/88/6c/d5886c3a4c7d158b5f83904493edc28f.jpg"
+    },
+    {
+        "id": 122,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL122",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/93/89/3f/93893f74baa3bed3a2ce0e0801845725.jpg"
+    },
+    {
+        "id": 123,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL123",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/70/f5/27/70f5274d4b11351c4bf87fb86731a16c.jpg"
+    },
+    {
+        "id": 124,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL124",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/0d/20/e2/0d20e2db29451fdbb91f727f566cb81d.jpg"
+    },
+    {
+        "id": 125,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL125",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/5a/e6/84/5ae684141e3d04e88d518da4196931cd.jpg"
+    },
+    {
+        "id": 126,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL126",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/bc/92/01/bc920187a75b696893a2dd6c4be99323.jpg"
+    },
+    {
+        "id": 127,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL127",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/fe/1c/fc/fe1cfc5fefd208e57f2d3ecd2d4b852a.jpg"
+    },
+    {
+        "id": 128,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL128",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e0/ac/a3/e0aca3b1d74dc450d39d0a98811423f9.jpg"
+    },
+    {
+        "id": 129,
+        "name_category": "CUTEGIRL",
+        "wallpaper_Name": "CUTEGIRL129",
+        "wallpaper_Type": "IMAGE",
+        "wallpaper_Url": "https://i.pinimg.com/originals/e4/73/c9/e473c9b5dcaf30f6bbab222e9bdc398c.jpg"
+    }
+]
+}
