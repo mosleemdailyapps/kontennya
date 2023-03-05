@@ -34,6 +34,782 @@
     }
   ],
   "Wallpaper": [
-   
+    {
+        "id": 1,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC01",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b6/29/e8/b629e802d05cc388de08d4f5f9c9f0b9.jpg"
+    },
+    {
+        "id": 2,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC02",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c5/4d/10/c54d10257ebc7862db67cc39a9b0fb55.jpg"
+    },
+    {
+        "id": 3,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC03",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ca/eb/2a/caeb2aa258de4d99f2e7d2558f806658.jpg"
+    },
+    {
+        "id": 4,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC04",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7c/81/de/7c81deaa2405971c3ba061eb3861313c.jpg"
+    },
+    {
+        "id": 5,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC05",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1d/29/6f/1d296f081ac3c8bd267a8a3f542a5677.jpg"
+    },
+    {
+        "id": 6,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC06",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/3a/1b/67/3a1b6797f7deb24d0019da83cfeb7b1e.jpg"
+    },
+    {
+        "id": 7,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC07",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d5/e3/3b/d5e33b2eae519c4fb6778555b42032ab.jpg"
+    },
+    {
+        "id": 8,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC08",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f2/35/04/f2350460274bfead76a2997cb913205d.jpg"
+    },
+    {
+        "id": 9,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC09",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f5/95/f6/f595f6634f5ec96a167102cee4b547c6.jpg"
+    },
+    {
+        "id": 10,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC10",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1c/b6/40/1cb640d0704dc03c1735c7bd9798194f.jpg"
+    },
+    {
+        "id": 11,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC11",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/99/52/f3/9952f3c4110fc4a32f7b8b8bb96a1357.jpg"
+    },
+    {
+        "id": 12,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC12",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f2/8d/e9/f28de96397f9dc7a901c55e910268a8e.jpg"
+    },
+    {
+        "id": 13,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC13",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/20/95/58/209558cd2a96dbc87f13df273feb8cce.jpg"
+    },
+    {
+        "id": 14,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC14",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/3f/04/06/3f0406f33442eec69405558aec80d21a.jpg"
+    },
+    {
+        "id": 15,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC15",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/76/17/b3/7617b3ee033add01a9c5a476e8f0973d.jpg"
+    },
+    {
+        "id": 16,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC16",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/73/51/11/73511195ab0bf316b354864bbe0a4653.jpg"
+    },
+    {
+        "id": 17,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC17",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bb/55/8b/bb558bd1eb4494e80a7e555306acccf0.jpg"
+    },
+    {
+        "id": 18,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC18",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1d/06/9e/1d069e85f0af9a9e956fdf82a80f1aa2.jpg"
+    },
+    {
+        "id": 19,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC19",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/35/8b/79/358b794d2fe85096c5d8ef8ca0f38c2c.jpg"
+    },
+    {
+        "id": 20,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC20",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cc/aa/c4/ccaac4db2b5a601c5c7eef27e1639af2.jpg"
+    },
+    {
+        "id": 21,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC21",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9d/d6/e7/9dd6e7e737d185d818a3123f7933dea6.jpg"
+    },
+    {
+        "id": 22,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC22",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4d/83/8d/4d838d5a33531c31bb9fd099e9aa43c8.jpg"
+    },
+    {
+        "id": 23,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC23",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/81/08/59/81085960e4366d52cf925b7276eebaff.jpg"
+    },
+    {
+        "id": 24,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC24",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/77/67/68/776768d7be5a5250d45f6a183c719145.jpg"
+    },
+    {
+        "id": 25,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC25",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5c/f7/1d/5cf71de6ee3f1e68b41d8065572eed2c.jpg"
+    },
+    {
+        "id": 26,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC26",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b7/c6/20/b7c620c1150c96a4c7f46c5cd47cee24.jpg"
+    },
+    {
+        "id": 27,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC27",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5a/d5/bc/5ad5bc097ccb60607ce3c64ab803a956.jpg"
+    },
+    {
+        "id": 28,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC28",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1c/18/38/1c18380d43cd4fc902120e4d28faa935.jpg"
+    },
+    {
+        "id": 29,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC29",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4c/44/d5/4c44d5f23f30651ea263cf46ffd2e556.jpg"
+    },
+    {
+        "id": 30,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC30",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/39/73/fc/3973fc5da46dd64c43821260ade78982.jpg"
+    },
+    {
+        "id": 31,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC31",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f8/9c/56/f89c56d774f2e31a6aa0db34b6221ee7.jpg"
+    },
+    {
+        "id": 32,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC32",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bd/3f/ef/bd3fef4a21c01c7164837635f52c28d4.jpg"
+    },
+    {
+        "id": 33,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC33",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/53/c0/b0/53c0b0d32be6d98f1531d213d7d3a54f.jpg"
+    },
+    {
+        "id": 34,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC34",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8c/20/79/8c2079c97c5ea28bac76dfbaecb4a9d2.jpg"
+    },
+    {
+        "id": 35,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC35",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/97/7b/8d/977b8d7aef391de3e94b1d145ef9b10e.jpg"
+    },
+    {
+        "id": 36,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC36",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/01/2c/f6/012cf63505e7eb6a599f6c84943c1c3a.jpg"
+    },
+    {
+        "id": 37,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC37",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0b/c2/d7/0bc2d7a6cd607ceef421a16ff5d3f449.jpg"
+    },
+    {
+        "id": 38,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC38",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f6/56/89/f65689f909a9274ff22ee035b7aa4c40.jpg"
+    },
+    {
+        "id": 39,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC39",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b8/b6/e9/b8b6e91a50065b2ee67e93bd0d7eaf17.jpg"
+    },
+    {
+        "id": 40,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC40",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/53/f5/d3/53f5d35237d85a32ee5598816dc93cae.jpg"
+    },
+    {
+        "id": 41,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC41",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c8/c4/df/c8c4dff220d3c467f348701511462bec.jpg"
+    },
+    {
+        "id": 42,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC42",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/02/10/f6/0210f6e111ea7bec6798fefc6cc925c1.jpg"
+    },
+    {
+        "id": 43,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC43",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0c/2b/84/0c2b845093833ea85e2e4b0491375d87.jpg"
+    },
+    {
+        "id": 44,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC44",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6b/f4/70/6bf470b21d721ba982226336122c1a0d.jpg"
+    },
+    {
+        "id": 45,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC45",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/24/8f/09/248f0910093c5e522e7f893065bacf9c.jpg"
+    },
+    {
+        "id": 46,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC46",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/73/09/8d/73098d6799d7cc917c9c1ea38cbae0bb.jpg"
+    },
+    {
+        "id": 47,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC47",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/e6/b5/27/e6b527383ad0761ed950b043ab2d120d.jpg"
+    },
+    {
+        "id": 48,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC48",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ff/0d/95/ff0d959adaed3efefd7fd08de96deccd.jpg"
+    },
+    {
+        "id": 49,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC49",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/47/a9/46/47a946ef8006f59852e32562dd061231.jpg"
+    },
+    {
+        "id": 50,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC50",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/52/08/bc/5208bc50f059a49ad566aa8a01f7ab22.jpg"
+    },
+    {
+        "id": 51,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC51",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2f/09/3f/2f093f1f3898d2a8bfef123d1372039d.jpg"
+    },
+    {
+        "id": 52,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC52",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/95/25/34/9525345117ec2cfb1995ed4acfa69c7b.jpg"
+    },
+    {
+        "id": 53,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC53",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/47/36/23/4736238e8a5f706a8339e16bb7f72d1e.jpg"
+    },
+    {
+        "id": 54,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC54",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4c/3c/fb/4c3cfbf0114774762504918c4c93a299.jpg"
+    },
+    {
+        "id": 55,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC55",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d6/20/45/d620456a198e59169ef3c9f0778a89c8.jpg"
+    },
+    {
+        "id": 56,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC56",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/de/11/6f/de116fdf69089eaefaad1e39ecc49417.jpg"
+    },
+    {
+        "id": 57,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC57",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/81/2d/06/812d06a0a154db9c979211ccc199f695.jpg"
+    },
+    {
+        "id": 58,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC58",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/21/d6/1d/21d61de8585f2bb80e30f7c6c34c6200.jpg"
+    },
+    {
+        "id": 59,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC59",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/00/86/7e/00867e3ee3f602cfdafeadefd2c55933.jpg"
+    },
+    {
+        "id": 60,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC60",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/32/c9/17/32c91729bc184bc90dd26012a9873c40.jpg"
+    },
+    {
+        "id": 61,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC61",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8d/02/09/8d0209a23095d874bc4d6b14a82435b6.jpg"
+    },
+    {
+        "id": 62,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC62",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c9/31/7b/c9317b33ffded9ac0aa640b512ff8fc2.jpg"
+    },
+    {
+        "id": 63,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC63",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/37/39/9a/37399ae27910fec16de164f60b236c2e.jpg"
+    },
+    {
+        "id": 64,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC64",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/df/0e/69/df0e690030bfdef5b03fa60846cf43df.jpg"
+    },
+    {
+        "id": 65,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC65",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/00/b7/14/00b71490652ea011dcd6529f8c48a9e7.jpg"
+    },
+    {
+        "id": 66,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC66",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cc/6c/52/cc6c52619d6a77aa6e1341167944c3fd.jpg"
+    },
+    {
+        "id": 67,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC67",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/58/81/ea/5881eac483b82cd8496ffbffaf9e15c1.jpg"
+    },
+    {
+        "id": 68,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC68",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/41/2e/ae/412eaea70b7430d9f4745d4ce9cbb02b.jpg"
+    },
+    {
+        "id": 69,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC69",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/95/70/89/957089b922432b0fa3c86bf10a356704.jpg"
+    },
+    {
+        "id": 70,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC70",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4a/20/41/4a204122f83b5d2017eca9775a25d1a5.jpg"
+    },
+    {
+        "id": 71,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC71",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f3/37/ba/f337ba18f98c0955569ec2803d30fc28.jpg"
+    },
+    {
+        "id": 72,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC72",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/e1/86/40/e186406883605f67636a95a88546d692.jpg"
+    },
+    {
+        "id": 73,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC73",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/27/32/3c/27323c7b6913e1825cbc46096fddde70.jpg"
+    },
+    {
+        "id": 74,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC74",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bd/d0/f7/bdd0f7b967e912b422862d8216913953.jpg"
+    },
+    {
+        "id": 75,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC75",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a9/d2/4c/a9d24cb04a81d4ff7186e140c17309ad.jpg"
+    },
+    {
+        "id": 76,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC76",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f7/54/20/f754200433c98382e53aa386981dbf52.jpg"
+    },
+    {
+        "id": 77,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC77",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ee/d0/d9/eed0d9a74d071fb4b2a45e0c608e182f.jpg"
+    },
+    {
+        "id": 78,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC78",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ad/3d/7e/ad3d7e1e7824becdfbf88be18e22070d.jpg"
+    },
+    {
+        "id": 79,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC79",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/30/58/ce/3058ce9fb07b48b480bc577896fa0604.jpg"
+    },
+    {
+        "id": 80,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC80",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c6/50/48/c650484584c6a65e566719884d6d2e82.jpg"
+    },
+    {
+        "id": 81,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC81",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ee/0b/90/ee0b90bcebf01db881f26eb982d7d6b4.jpg"
+    },
+    {
+        "id": 82,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC82",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/22/f0/06/22f00683c2d1f003e23e15eb2640e1db.jpg"
+    },
+    {
+        "id": 83,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC83",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/84/80/59/84805961a9a3494b93a45f94cfb95419.jpg"
+    },
+    {
+        "id": 84,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC84",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6a/2b/0e/6a2b0efa84ffb8086bb1a39ce03969ba.jpg"
+    },
+    {
+        "id": 85,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC85",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/e3/79/dc/e379dc08c0771e7700610b125ce17876.jpg"
+    },
+    {
+        "id": 86,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC86",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7c/fe/70/7cfe708cf30ef07939056d4f70d87dd6.jpg"
+    },
+    {
+        "id": 87,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC87",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bd/ff/2e/bdff2ee48a833d16ff0b8bfcd121f421.jpg"
+    },
+    {
+        "id": 88,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC88",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/38/c5/c6/38c5c6d20656990772cc927f657f2f08.jpg"
+    },
+    {
+        "id": 89,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC89",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/59/21/01/592101f436a3327691da028dd6792efc.jpg"
+    },
+    {
+        "id": 90,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC90",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/31/49/78/31497878c6d2af9e80493c648443ba4e.jpg"
+    },
+    {
+        "id": 91,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC91",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4b/ae/7a/4bae7ad96d778e5597f8cceb7d5b15f9.jpg"
+    },
+    {
+        "id": 92,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC92",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/22/64/11/226411063276134dae6653cb6e9f2d07.jpg"
+    },
+    {
+        "id": 93,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC93",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ee/a5/0c/eea50cad4f64bdabcb4e7733423caca7.jpg"
+    },
+    {
+        "id": 94,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC94",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/67/b3/44/67b3443d5e43c8907d1eed5fdd6d79ea.jpg"
+    },
+    {
+        "id": 95,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC95",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/df/b6/88/dfb688a7cf8a9367ac6bb3d414788e37.jpg"
+    },
+    {
+        "id": 96,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC96",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/43/c2/d6/43c2d678b7214130e4485f55f1da3125.jpg"
+    },
+    {
+        "id": 97,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC97",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/81/54/21/81542170962749db998355d1e0fd4d79.jpg"
+    },
+    {
+        "id": 98,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC98",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/de/8d/0a/de8d0a17d1ce3e82db9d7a77d74e8f1d.jpg"
+    },
+    {
+        "id": 99,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC99",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/42/a1/b5/42a1b5b95a878656b950eb5c55d69294.jpg"
+    },
+    {
+        "id": 100,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC100",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cd/de/17/cdde173749e62dd57e990029437028f2.jpg"
+    },
+    {
+        "id": 101,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC101",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/88/1d/32/881d32aa1c542613bb54658c87b96171.jpg"
+    },
+    {
+        "id": 102,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC102",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/04/e6/64/04e66468d236466cde8ee418afba81e2.jpg"
+    },
+    {
+        "id": 103,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC103",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ab/32/eb/ab32ebb07eb310f98194e283b9cdf164.jpg"
+    },
+    {
+        "id": 104,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC104",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/03/e9/b3/03e9b3940209c0e0374bac1c555672f5.jpg"
+    },
+    {
+        "id": 105,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC105",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d1/a0/a1/d1a0a117500dfbb6d7dbdc8b6e88b118.jpg"
+    },
+    {
+        "id": 106,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC106",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/38/42/cd/3842cd79b0a514ed5e63704364d3adb9.jpg"
+    },
+    {
+        "id": 107,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC107",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0b/0d/7c/0b0d7ce78450d58b0c939e01ca941e41.jpg"
+    },
+    {
+        "id": 108,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC108",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ae/e0/62/aee062387fbd58663a624ad4f8ba7272.jpg"
+    },
+    {
+        "id": 109,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC109",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/3b/12/f8/3b12f81fa0e3a3ac0cdc1f08228dd4f9.jpg"
+    },
+    {
+        "id": 110,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC110",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/62/9a/cb/629acbd23e301f112e4345320d574f7a.jpg"
+    },
+    {
+        "id": 111,
+        "name_category": "ISLAMIC",
+        "wallpaper_name": "ISLAMIC111",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7e/87/59/7e875944d2befd508161c3b3c6cdba3c.jpg"
+    }
 ]
 }
