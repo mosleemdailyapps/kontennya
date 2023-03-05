@@ -29,715 +29,703 @@
   ],
   "Categories": [
     {
-      "name_category": "Super Car",
-      "wallpaper_url": "category/supercar.jpeg"
-    },
-    {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
-    },
-    {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
-    },
-    {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
-    }
+      "name_category": "BLUE",
+      "wallpaper_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fblue-wallpaper-in-2022--587930926365768351%2F&psig=AOvVaw1EdXG98DXE6Hi8fBnd8ur6&ust=1678077854838000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJin-KX9w_0CFQAAAAAdAAAAABAE"
+   }
   ],
   "Wallpaper": [
     {
         "id": 1,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE01",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4b/f7/ed/4bf7edb2ff4207f11f728ce8088d160a.jpg"
+        "wallpaper_name": "BLUE01",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4b/f7/ed/4bf7edb2ff4207f11f728ce8088d160a.jpg"
     },
     {
         "id": 2,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE02",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/cf/64/eb/cf64eb6f1e7d0d7520e9d994d83f4970.jpg"
+        "wallpaper_name": "BLUE02",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cf/64/eb/cf64eb6f1e7d0d7520e9d994d83f4970.jpg"
     },
     {
         "id": 3,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE03",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/bf/87/85/bf8785e57a44537adf0212fd33afad20.jpg"
+        "wallpaper_name": "BLUE03",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bf/87/85/bf8785e57a44537adf0212fd33afad20.jpg"
     },
     {
         "id": 4,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE04",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/22/21/65/222165b572fe64c07890b22e32564f75.jpg"
+        "wallpaper_name": "BLUE04",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/22/21/65/222165b572fe64c07890b22e32564f75.jpg"
     },
     {
         "id": 5,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE05",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/71/34/44/71344438a793f166699fcecab1e5e850.jpg"
+        "wallpaper_name": "BLUE05",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/71/34/44/71344438a793f166699fcecab1e5e850.jpg"
     },
     {
         "id": 6,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE06",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ec/48/11/ec4811ac02186d3ab0f4f3ee72446551.jpg"
+        "wallpaper_name": "BLUE06",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ec/48/11/ec4811ac02186d3ab0f4f3ee72446551.jpg"
     },
     {
         "id": 7,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE07",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/06/be/86/06be86d716a79457112e614513a9eea1.jpg"
+        "wallpaper_name": "BLUE07",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/06/be/86/06be86d716a79457112e614513a9eea1.jpg"
     },
     {
         "id": 8,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE08",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/26/2a/a3/262aa37a93a052442cd9aee8645fd6af.jpg"
+        "wallpaper_name": "BLUE08",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/26/2a/a3/262aa37a93a052442cd9aee8645fd6af.jpg"
     },
     {
         "id": 9,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE09",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/1b/eb/7b/1beb7b63364e7f6405519ba8a1f2d405.jpg"
+        "wallpaper_name": "BLUE09",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1b/eb/7b/1beb7b63364e7f6405519ba8a1f2d405.jpg"
     },
     {
         "id": 10,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE10",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/7b/c4/70/7bc4707dd21883966dbd50b60229d85e.jpg"
+        "wallpaper_name": "BLUE10",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7b/c4/70/7bc4707dd21883966dbd50b60229d85e.jpg"
     },
     {
         "id": 11,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE11",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/41/37/e0/4137e00bc90ec253c8251d6863c923c5.jpg"
+        "wallpaper_name": "BLUE11",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/41/37/e0/4137e00bc90ec253c8251d6863c923c5.jpg"
     },
     {
         "id": 12,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE12",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/7d/57/67/7d57672c363e5b5821f57659ba17e699.jpg"
+        "wallpaper_name": "BLUE12",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7d/57/67/7d57672c363e5b5821f57659ba17e699.jpg"
     },
     {
         "id": 13,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE13",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/10/23/e5/1023e5a496cd83d146ef6577d6d1128c.jpg"
+        "wallpaper_name": "BLUE13",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/10/23/e5/1023e5a496cd83d146ef6577d6d1128c.jpg"
     },
     {
         "id": 14,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE14",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/31/fb/62/31fb62f69a476c184d20d3bf5d0c7394.jpg"
+        "wallpaper_name": "BLUE14",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/31/fb/62/31fb62f69a476c184d20d3bf5d0c7394.jpg"
     },
     {
         "id": 15,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE15",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/0c/8a/ed/0c8aedd9aae581af0aeb36c9419e92e4.jpg"
+        "wallpaper_name": "BLUE15",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0c/8a/ed/0c8aedd9aae581af0aeb36c9419e92e4.jpg"
     },
     {
         "id": 16,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE16",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ef/37/81/ef37815019ae52354c7c5772f4e886d6.jpg"
+        "wallpaper_name": "BLUE16",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ef/37/81/ef37815019ae52354c7c5772f4e886d6.jpg"
     },
     {
         "id": 17,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE17",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d9/b7/98/d9b7981230e37b68ecce72c6618910a0.jpg"
+        "wallpaper_name": "BLUE17",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d9/b7/98/d9b7981230e37b68ecce72c6618910a0.jpg"
     },
     {
         "id": 18,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE18",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b9/51/4f/b9514fa1f5da623b817369f92af648ab.jpg"
+        "wallpaper_name": "BLUE18",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b9/51/4f/b9514fa1f5da623b817369f92af648ab.jpg"
     },
     {
         "id": 19,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE19",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/1c/8e/4b/1c8e4b3f73aad796112fe46ef81456e1.jpg"
+        "wallpaper_name": "BLUE19",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1c/8e/4b/1c8e4b3f73aad796112fe46ef81456e1.jpg"
     },
     {
         "id": 20,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE20",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/95/ad/49/95ad49f743b0aed70dacac9944231372.jpg"
+        "wallpaper_name": "BLUE20",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/95/ad/49/95ad49f743b0aed70dacac9944231372.jpg"
     },
     {
         "id": 21,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE21",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/85/de/83/85de83479ac4cd63204c2b43c78a81b1.jpg"
+        "wallpaper_name": "BLUE21",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/85/de/83/85de83479ac4cd63204c2b43c78a81b1.jpg"
     },
     {
         "id": 22,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE22",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/26/e2/05/26e2058f7fb7af7da542515f33832c0c.jpg"
+        "wallpaper_name": "BLUE22",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/26/e2/05/26e2058f7fb7af7da542515f33832c0c.jpg"
     },
     {
         "id": 23,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE23",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/7e/88/b8/7e88b827f4d3b9dab0107b2c593c65fe.jpg"
+        "wallpaper_name": "BLUE23",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7e/88/b8/7e88b827f4d3b9dab0107b2c593c65fe.jpg"
     },
     {
         "id": 24,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE24",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/94/d6/f5/94d6f546640c705fb8ff961f3c6aba15.jpg"
+        "wallpaper_name": "BLUE24",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/94/d6/f5/94d6f546640c705fb8ff961f3c6aba15.jpg"
     },
     {
         "id": 25,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE25",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fc/56/66/fc5666dbfead84f59d742bda23e650ec.jpg"
+        "wallpaper_name": "BLUE25",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fc/56/66/fc5666dbfead84f59d742bda23e650ec.jpg"
     },
     {
         "id": 26,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE26",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fe/c2/1c/fec21c54ca88b437a2444b9ec5a18dcc.jpg"
+        "wallpaper_name": "BLUE26",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fe/c2/1c/fec21c54ca88b437a2444b9ec5a18dcc.jpg"
     },
     {
         "id": 27,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE27",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/91/9a/14/919a14fddb0d069b1d85af527785026f.jpg"
+        "wallpaper_name": "BLUE27",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/91/9a/14/919a14fddb0d069b1d85af527785026f.jpg"
     },
     {
         "id": 28,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE28",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/61/49/a1/6149a17d2b3c2c9ffddf2a9689b9f592.jpg"
+        "wallpaper_name": "BLUE28",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/61/49/a1/6149a17d2b3c2c9ffddf2a9689b9f592.jpg"
     },
     {
         "id": 29,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE29",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/86/bc/c0/86bcc07dcdb8e3e5f7362c7428c26d4e.jpg"
+        "wallpaper_name": "BLUE29",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/86/bc/c0/86bcc07dcdb8e3e5f7362c7428c26d4e.jpg"
     },
     {
         "id": 30,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE30",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/22/fa/b1/22fab17f8dc8d052573a2a0250550aca.jpg"
+        "wallpaper_name": "BLUE30",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/22/fa/b1/22fab17f8dc8d052573a2a0250550aca.jpg"
     },
     {
         "id": 31,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE31",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/44/82/80/448280680c8537b2eabe996cf6ecee83.jpg"
+        "wallpaper_name": "BLUE31",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/44/82/80/448280680c8537b2eabe996cf6ecee83.jpg"
     },
     {
         "id": 32,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE32",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/17/a3/71/17a3711fcea36fbc83486533409906e6.jpg"
+        "wallpaper_name": "BLUE32",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/17/a3/71/17a3711fcea36fbc83486533409906e6.jpg"
     },
     {
         "id": 33,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE33",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/04/61/b6/0461b6c821f89339db7939782cf6cd92.jpg"
+        "wallpaper_name": "BLUE33",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/04/61/b6/0461b6c821f89339db7939782cf6cd92.jpg"
     },
     {
         "id": 34,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE34",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ff/ff/c6/ffffc638e1175786e406a084fd3e271a.jpg"
+        "wallpaper_name": "BLUE34",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ff/ff/c6/ffffc638e1175786e406a084fd3e271a.jpg"
     },
     {
         "id": 35,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE35",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/12/94/a1/1294a10e502a714ae34e5c6505a3a1b6.jpg"
+        "wallpaper_name": "BLUE35",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/12/94/a1/1294a10e502a714ae34e5c6505a3a1b6.jpg"
     },
     {
         "id": 36,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE36",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/54/31/d2/5431d2e2db31b0a4c2a7346e8fa13b39.jpg"
+        "wallpaper_name": "BLUE36",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/54/31/d2/5431d2e2db31b0a4c2a7346e8fa13b39.jpg"
     },
     {
         "id": 37,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE37",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8f/37/a2/8f37a22ccc9752ba7d1eeb32a3820d2b.jpg"
+        "wallpaper_name": "BLUE37",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8f/37/a2/8f37a22ccc9752ba7d1eeb32a3820d2b.jpg"
     },
     {
         "id": 38,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE38",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ad/79/40/ad794078ee7782ee9d92125048ecadfc.jpg"
+        "wallpaper_name": "BLUE38",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ad/79/40/ad794078ee7782ee9d92125048ecadfc.jpg"
     },
     {
         "id": 39,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE39",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c3/94/3d/c3943d06da8a28b746b9f3168513308a.jpg"
+        "wallpaper_name": "BLUE39",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c3/94/3d/c3943d06da8a28b746b9f3168513308a.jpg"
     },
     {
         "id": 40,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE40",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c9/4b/26/c94b26287a60efd0786fdc721b1b7bb6.jpg"
+        "wallpaper_name": "BLUE40",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c9/4b/26/c94b26287a60efd0786fdc721b1b7bb6.jpg"
     },
     {
         "id": 41,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE41",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4d/a4/4d/4da44dcb47052ea8db8e0bf9151ba7c0.jpg"
+        "wallpaper_name": "BLUE41",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4d/a4/4d/4da44dcb47052ea8db8e0bf9151ba7c0.jpg"
     },
     {
         "id": 42,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE42",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4d/8e/67/4d8e67baad9877575ab39455bd168259.jpg"
+        "wallpaper_name": "BLUE42",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4d/8e/67/4d8e67baad9877575ab39455bd168259.jpg"
     },
     {
         "id": 43,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE43",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2c/3b/c5/2c3bc5ef3e2f9b618fb671e7941f45a6.jpg"
+        "wallpaper_name": "BLUE43",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2c/3b/c5/2c3bc5ef3e2f9b618fb671e7941f45a6.jpg"
     },
     {
         "id": 44,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE44",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f0/51/2a/f0512a3cd040b1decb823db20346118c.jpg"
+        "wallpaper_name": "BLUE44",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f0/51/2a/f0512a3cd040b1decb823db20346118c.jpg"
     },
     {
         "id": 45,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE45",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/33/64/1e/33641e566a3cb829a8a53669a734d7aa.jpg"
+        "wallpaper_name": "BLUE45",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/33/64/1e/33641e566a3cb829a8a53669a734d7aa.jpg"
     },
     {
         "id": 46,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE46",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/42/72/b9/4272b975fe453338d9a98b6245c6fddb.jpg"
+        "wallpaper_name": "BLUE46",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/42/72/b9/4272b975fe453338d9a98b6245c6fddb.jpg"
     },
     {
         "id": 47,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE47",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b1/c8/72/b1c87274f8a4f6f416dab69162b67e3c.jpg"
+        "wallpaper_name": "BLUE47",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b1/c8/72/b1c87274f8a4f6f416dab69162b67e3c.jpg"
     },
     {
         "id": 48,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE48",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/e4/27/0c/e4270cf4a7bdda6608b52340a3bd674d.jpg"
+        "wallpaper_name": "BLUE48",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/e4/27/0c/e4270cf4a7bdda6608b52340a3bd674d.jpg"
     },
     {
         "id": 49,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE49",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/50/50/e5/5050e51cde3b64054682a03a1ef56cee.jpg"
+        "wallpaper_name": "BLUE49",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/50/50/e5/5050e51cde3b64054682a03a1ef56cee.jpg"
     },
     {
         "id": 50,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE50",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/47/b8/f0/47b8f086ca4116d2a961095e167cba67.jpg"
+        "wallpaper_name": "BLUE50",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/47/b8/f0/47b8f086ca4116d2a961095e167cba67.jpg"
     },
     {
         "id": 51,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE51",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fb/e6/e5/fbe6e54e95b6bca3271e9da134f36e7b.jpg"
+        "wallpaper_name": "BLUE51",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fb/e6/e5/fbe6e54e95b6bca3271e9da134f36e7b.jpg"
     },
     {
         "id": 52,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE52",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d4/f8/95/d4f8955f1102749a9e5d6d64056f033b.jpg"
+        "wallpaper_name": "BLUE52",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d4/f8/95/d4f8955f1102749a9e5d6d64056f033b.jpg"
     },
     {
         "id": 53,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE53",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/93/ad/c5/93adc506646e5b2e023fe1980bfecfdb.jpg"
+        "wallpaper_name": "BLUE53",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/93/ad/c5/93adc506646e5b2e023fe1980bfecfdb.jpg"
     },
     {
         "id": 54,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE54",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/46/d4/0b/46d40ba83a89c3aad402e72e39916095.jpg"
+        "wallpaper_name": "BLUE54",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/46/d4/0b/46d40ba83a89c3aad402e72e39916095.jpg"
     },
     {
         "id": 55,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE55",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/68/6e/7f/686e7f649e76c25d9855d48559bde0a7.jpg"
+        "wallpaper_name": "BLUE55",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/68/6e/7f/686e7f649e76c25d9855d48559bde0a7.jpg"
     },
     {
         "id": 56,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE56",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fc/3e/d4/fc3ed4a7c11df4497c6ce749698be6ad.jpg"
+        "wallpaper_name": "BLUE56",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fc/3e/d4/fc3ed4a7c11df4497c6ce749698be6ad.jpg"
     },
     {
         "id": 57,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE57",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5d/f7/52/5df752cf95c4d6edb0ff665b87be58f7.jpg"
+        "wallpaper_name": "BLUE57",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5d/f7/52/5df752cf95c4d6edb0ff665b87be58f7.jpg"
     },
     {
         "id": 58,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE58",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/bb/26/b6/bb26b61bc15fdd1a6804f67f4100cb04.jpg"
+        "wallpaper_name": "BLUE58",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bb/26/b6/bb26b61bc15fdd1a6804f67f4100cb04.jpg"
     },
     {
         "id": 59,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE59",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ee/c5/ab/eec5ab6084e8664c9ecec4f7d8a7d001.jpg"
+        "wallpaper_name": "BLUE59",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ee/c5/ab/eec5ab6084e8664c9ecec4f7d8a7d001.jpg"
     },
     {
         "id": 60,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE60",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/11/b1/01/11b101eea9176bdea0368b72e9db8f48.jpg"
+        "wallpaper_name": "BLUE60",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/11/b1/01/11b101eea9176bdea0368b72e9db8f48.jpg"
     },
     {
         "id": 61,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE61",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fb/69/d6/fb69d62274e562eeabdd593849ff8bd3.jpg"
+        "wallpaper_name": "BLUE61",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fb/69/d6/fb69d62274e562eeabdd593849ff8bd3.jpg"
     },
     {
         "id": 62,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE62",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/48/3d/16/483d1659bdd1fb1c718078c421ca96da.jpg"
+        "wallpaper_name": "BLUE62",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/48/3d/16/483d1659bdd1fb1c718078c421ca96da.jpg"
     },
     {
         "id": 63,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE63",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b5/1e/9b/b51e9b8c6ca8f0539fd229f752474fe2.jpg"
+        "wallpaper_name": "BLUE63",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b5/1e/9b/b51e9b8c6ca8f0539fd229f752474fe2.jpg"
     },
     {
         "id": 64,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE64",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/6f/0b/75/6f0b752949018d72afa2722c2573564e.jpg"
+        "wallpaper_name": "BLUE64",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6f/0b/75/6f0b752949018d72afa2722c2573564e.jpg"
     },
     {
         "id": 65,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE65",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/58/49/dd/5849dd179e571aff1b3d328b8a5b9865.jpg"
+        "wallpaper_name": "BLUE65",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/58/49/dd/5849dd179e571aff1b3d328b8a5b9865.jpg"
     },
     {
         "id": 66,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE66",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/1b/9c/8b/1b9c8b3830ea27ff990f7437fbdd23d9.jpg"
+        "wallpaper_name": "BLUE66",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1b/9c/8b/1b9c8b3830ea27ff990f7437fbdd23d9.jpg"
     },
     {
         "id": 67,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE67",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/46/32/66/463266924f882585eb15c1373a1b22cf.jpg"
+        "wallpaper_name": "BLUE67",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/46/32/66/463266924f882585eb15c1373a1b22cf.jpg"
     },
     {
         "id": 68,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE68",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b3/f1/19/b3f1199b35c7244b4dade6cf140b1dbb.jpg"
+        "wallpaper_name": "BLUE68",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b3/f1/19/b3f1199b35c7244b4dade6cf140b1dbb.jpg"
     },
     {
         "id": 69,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE69",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/44/1a/da/441ada47b4223edf53ba68bf120db418.jpg"
+        "wallpaper_name": "BLUE69",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/44/1a/da/441ada47b4223edf53ba68bf120db418.jpg"
     },
     {
         "id": 70,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE70",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/0b/56/13/0b5613133f56a53f5a91347b919289bb.jpg"
+        "wallpaper_name": "BLUE70",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0b/56/13/0b5613133f56a53f5a91347b919289bb.jpg"
     },
     {
         "id": 71,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE71",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/95/d5/c2/95d5c2ed0050ef4f02916e33c2341b51.jpg"
+        "wallpaper_name": "BLUE71",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/95/d5/c2/95d5c2ed0050ef4f02916e33c2341b51.jpg"
     },
     {
         "id": 72,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE72",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/16/f5/33/16f533be82bbc108034ba91d183ab91d.jpg"
+        "wallpaper_name": "BLUE72",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/16/f5/33/16f533be82bbc108034ba91d183ab91d.jpg"
     },
     {
         "id": 73,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE73",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/69/e5/97/69e597643948a1b51a2adf611b836e47.jpg"
+        "wallpaper_name": "BLUE73",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/69/e5/97/69e597643948a1b51a2adf611b836e47.jpg"
     },
     {
         "id": 74,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE74",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d0/bd/33/d0bd33f1b5fda306bc0809cf217a9062.jpg"
+        "wallpaper_name": "BLUE74",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d0/bd/33/d0bd33f1b5fda306bc0809cf217a9062.jpg"
     },
     {
         "id": 75,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE75",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/67/43/4d/67434d89c35175d130f35451914a37e9.jpg"
+        "wallpaper_name": "BLUE75",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/67/43/4d/67434d89c35175d130f35451914a37e9.jpg"
     },
     {
         "id": 76,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE76",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/0b/d0/8a/0bd08a1ef5e540444906546b46eedd43.jpg"
+        "wallpaper_name": "BLUE76",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0b/d0/8a/0bd08a1ef5e540444906546b46eedd43.jpg"
     },
     {
         "id": 77,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE77",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ba/ea/9a/baea9a48805a03f020ba5230438a853a.jpg"
+        "wallpaper_name": "BLUE77",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ba/ea/9a/baea9a48805a03f020ba5230438a853a.jpg"
     },
     {
         "id": 78,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE78",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/28/38/07/283807de01588495ce0c0a240de4b127.jpg"
+        "wallpaper_name": "BLUE78",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/28/38/07/283807de01588495ce0c0a240de4b127.jpg"
     },
     {
         "id": 79,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE79",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/aa/33/10/aa33105e25067e9672a35673f996f1eb.jpg"
+        "wallpaper_name": "BLUE79",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/aa/33/10/aa33105e25067e9672a35673f996f1eb.jpg"
     },
     {
         "id": 80,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE80",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b6/a6/8c/b6a68c27030ea2af7b8a281ac75c65d3.jpg"
+        "wallpaper_name": "BLUE80",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b6/a6/8c/b6a68c27030ea2af7b8a281ac75c65d3.jpg"
     },
     {
         "id": 81,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE81",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/35/27/57/3527576ec8ec6a763c96f4a74521f494.jpg"
+        "wallpaper_name": "BLUE81",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/35/27/57/3527576ec8ec6a763c96f4a74521f494.jpg"
     },
     {
         "id": 82,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE82",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/96/14/07/961407b380db9625499dbb23d7c6df5d.jpg"
+        "wallpaper_name": "BLUE82",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/96/14/07/961407b380db9625499dbb23d7c6df5d.jpg"
     },
     {
         "id": 83,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE83",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a3/7c/f4/a37cf4fb6364d99065787e357946b9ff.jpg"
+        "wallpaper_name": "BLUE83",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a3/7c/f4/a37cf4fb6364d99065787e357946b9ff.jpg"
     },
     {
         "id": 84,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE84",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c0/0a/58/c00a588a005b11478f0ab6322be9b185.jpg"
+        "wallpaper_name": "BLUE84",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c0/0a/58/c00a588a005b11478f0ab6322be9b185.jpg"
     },
     {
         "id": 85,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE85",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/dd/43/4f/dd434f93b78e6a68e229806fb6d5747f.jpg"
+        "wallpaper_name": "BLUE85",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/dd/43/4f/dd434f93b78e6a68e229806fb6d5747f.jpg"
     },
     {
         "id": 86,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE86",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/16/80/ff/1680ff4be0cf838a284fd7dbe8225ec2.jpg"
+        "wallpaper_name": "BLUE86",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/16/80/ff/1680ff4be0cf838a284fd7dbe8225ec2.jpg"
     },
     {
         "id": 87,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE87",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/04/08/cf/0408cffa12e964ea0c0874ab88d88064.jpg"
+        "wallpaper_name": "BLUE87",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/04/08/cf/0408cffa12e964ea0c0874ab88d88064.jpg"
     },
     {
         "id": 88,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE88",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/60/76/9d/60769ddfbecfd456552fc6949951d981.jpg"
+        "wallpaper_name": "BLUE88",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/60/76/9d/60769ddfbecfd456552fc6949951d981.jpg"
     },
     {
         "id": 89,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE89",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/07/cc/93/07cc9338dbc9ae0423681b0e6bab1993.jpg"
+        "wallpaper_name": "BLUE89",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/07/cc/93/07cc9338dbc9ae0423681b0e6bab1993.jpg"
     },
     {
         "id": 90,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE90",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/db/cd/e9/dbcde9bff7df14f0ff1605c4233f771c.jpg"
+        "wallpaper_name": "BLUE90",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/db/cd/e9/dbcde9bff7df14f0ff1605c4233f771c.jpg"
     },
     {
         "id": 91,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE91",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d0/21/39/d021395b2e75c28138ca76947fd95c28.jpg"
+        "wallpaper_name": "BLUE91",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d0/21/39/d021395b2e75c28138ca76947fd95c28.jpg"
     },
     {
         "id": 92,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE92",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/01/85/8a/01858a1e0877912d4dcb59357bc176b8.jpg"
+        "wallpaper_name": "BLUE92",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/01/85/8a/01858a1e0877912d4dcb59357bc176b8.jpg"
     },
     {
         "id": 93,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE93",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4e/99/55/4e9955a541c625bf32a1bf94d9440254.jpg"
+        "wallpaper_name": "BLUE93",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4e/99/55/4e9955a541c625bf32a1bf94d9440254.jpg"
     },
     {
         "id": 94,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE94",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8a/46/67/8a46674c9d32b5262545610420250af6.jpg"
+        "wallpaper_name": "BLUE94",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8a/46/67/8a46674c9d32b5262545610420250af6.jpg"
     },
     {
         "id": 95,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE95",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9b/c4/71/9bc471e745b92370d75df9014a55bcc0.jpg"
+        "wallpaper_name": "BLUE95",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9b/c4/71/9bc471e745b92370d75df9014a55bcc0.jpg"
     },
     {
         "id": 96,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE96",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/22/64/f0/2264f0e702021051a0f4d51c6710a403.jpg"
+        "wallpaper_name": "BLUE96",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/22/64/f0/2264f0e702021051a0f4d51c6710a403.jpg"
     },
     {
         "id": 97,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE97",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/01/44/3d/01443d486821ed353a73f9eccfe1eb07.jpg"
+        "wallpaper_name": "BLUE97",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/01/44/3d/01443d486821ed353a73f9eccfe1eb07.jpg"
     },
     {
         "id": 98,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE98",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ae/34/6f/ae346f54ea29c1e4fb495668f22cc1e5.jpg"
+        "wallpaper_name": "BLUE98",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ae/34/6f/ae346f54ea29c1e4fb495668f22cc1e5.jpg"
     },
     {
         "id": 99,
         "name_category": "BLUE",
-        "wallpaper_Name": "BLUE99",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/57/be/92/57be927233dafd8466f9e9d88fd00daa.jpg"
+        "wallpaper_name": "BLUE99",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/57/be/92/57be927233dafd8466f9e9d88fd00daa.jpg"
     }
 ]
 }
