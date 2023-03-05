@@ -29,820 +29,808 @@
   ],
   "Categories": [
     {
-      "name_category": "Super Car",
-      "wallpaper_url": "category/supercar.jpeg"
-    },
-    {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
-    },
-    {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
-    },
-    {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+      "name_category": "ANIMEGRIL",
+      "wallpaper_url": "https://i.pinimg.com/736x/dc/40/87/dc408704d930dde2d285bf21c9e93281.jpg"
     }
   ],
   "Wallpaper": [
-    {
+   {
         "id": 1,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL01",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/29/af/88/29af88ffd2872a2d1fde980cac88f12c.jpg"
+        "wallpaper_name": "ANIMEGRIL01",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/29/af/88/29af88ffd2872a2d1fde980cac88f12c.jpg"
     },
     {
         "id": 2,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL02",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c0/e8/10/c0e810f898735e699403902151fdb2f0.jpg"
+        "wallpaper_name": "ANIMEGRIL02",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c0/e8/10/c0e810f898735e699403902151fdb2f0.jpg"
     },
     {
         "id": 3,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL03",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/e0/e5/cf/e0e5cfea3129bbbbfa2617a8318fb32e.jpg"
+        "wallpaper_name": "ANIMEGRIL03",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/e0/e5/cf/e0e5cfea3129bbbbfa2617a8318fb32e.jpg"
     },
     {
         "id": 4,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL04",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d0/ce/ff/d0ceff664b718b0b668f2a14ee50a1a5.jpg"
+        "wallpaper_name": "ANIMEGRIL04",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d0/ce/ff/d0ceff664b718b0b668f2a14ee50a1a5.jpg"
     },
     {
         "id": 5,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL05",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9f/6f/4f/9f6f4f26575b525f567ea9ac557baf75.jpg"
+        "wallpaper_name": "ANIMEGRIL05",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9f/6f/4f/9f6f4f26575b525f567ea9ac557baf75.jpg"
     },
     {
         "id": 6,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL06",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/6d/27/ba/6d27ba1daa723fd5f05e89dbcc3d00a9.jpg"
+        "wallpaper_name": "ANIMEGRIL06",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6d/27/ba/6d27ba1daa723fd5f05e89dbcc3d00a9.jpg"
     },
     {
         "id": 7,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL07",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b2/de/9e/b2de9e0a90e1f724ee4fc91f1e3a7c5a.jpg"
+        "wallpaper_name": "ANIMEGRIL07",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b2/de/9e/b2de9e0a90e1f724ee4fc91f1e3a7c5a.jpg"
     },
     {
         "id": 8,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL08",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/47/b2/68/47b2681bc29249991d0e253c84a64dc2.jpg"
+        "wallpaper_name": "ANIMEGRIL08",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/47/b2/68/47b2681bc29249991d0e253c84a64dc2.jpg"
     },
     {
         "id": 9,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL09",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a9/08/ca/a908ca8ecf90e24d454abf6cf5040903.jpg"
+        "wallpaper_name": "ANIMEGRIL09",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a9/08/ca/a908ca8ecf90e24d454abf6cf5040903.jpg"
     },
     {
         "id": 10,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL10",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c3/fc/c1/c3fcc1c9992bab56f5e6b02b26946fcc.jpg"
+        "wallpaper_name": "ANIMEGRIL10",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c3/fc/c1/c3fcc1c9992bab56f5e6b02b26946fcc.jpg"
     },
     {
         "id": 11,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL11",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fa/d8/02/fad80295b80fc617b0b79b6fc797f455.jpg"
+        "wallpaper_name": "ANIMEGRIL11",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fa/d8/02/fad80295b80fc617b0b79b6fc797f455.jpg"
     },
     {
         "id": 12,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL12",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d5/4a/cd/d54acdb85450f8f585c8e9a2cd5004c9.jpg"
+        "wallpaper_name": "ANIMEGRIL12",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d5/4a/cd/d54acdb85450f8f585c8e9a2cd5004c9.jpg"
     },
     {
         "id": 13,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL13",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8d/51/fc/8d51fc51cbf234cee0f1e49c4381e1ea.jpg"
+        "wallpaper_name": "ANIMEGRIL13",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8d/51/fc/8d51fc51cbf234cee0f1e49c4381e1ea.jpg"
     },
     {
         "id": 14,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL14",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/14/95/07/1495071a0cbd21a48f9bac13ac17ab6a.jpg"
+        "wallpaper_name": "ANIMEGRIL14",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/14/95/07/1495071a0cbd21a48f9bac13ac17ab6a.jpg"
     },
     {
         "id": 15,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL15",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2d/b6/cc/2db6ccb335a0298a6b6ae6b4408d8dfe.jpg"
+        "wallpaper_name": "ANIMEGRIL15",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2d/b6/cc/2db6ccb335a0298a6b6ae6b4408d8dfe.jpg"
     },
     {
         "id": 16,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL16",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ba/ba/a6/babaa6aa47f3169fc92ca679e850a4c8.jpg"
+        "wallpaper_name": "ANIMEGRIL16",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ba/ba/a6/babaa6aa47f3169fc92ca679e850a4c8.jpg"
     },
     {
         "id": 17,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL17",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/08/8e/33/088e334687bc7a2eee481295d4904e0c.jpg"
+        "wallpaper_name": "ANIMEGRIL17",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/08/8e/33/088e334687bc7a2eee481295d4904e0c.jpg"
     },
     {
         "id": 18,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL18",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/cd/64/e7/cd64e77dc0afd9f6e2d6c8e71f0c7fa6.jpg"
+        "wallpaper_name": "ANIMEGRIL18",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cd/64/e7/cd64e77dc0afd9f6e2d6c8e71f0c7fa6.jpg"
     },
     {
         "id": 19,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL19",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/29/df/ff/29dfff4e23b71707e55edefdc3447812.jpg"
+        "wallpaper_name": "ANIMEGRIL19",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/29/df/ff/29dfff4e23b71707e55edefdc3447812.jpg"
     },
     {
         "id": 20,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL20",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4e/70/5a/4e705a534d03153e9800b2ba676bf1ee.jpg"
+        "wallpaper_name": "ANIMEGRIL20",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4e/70/5a/4e705a534d03153e9800b2ba676bf1ee.jpg"
     },
     {
         "id": 21,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL21",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/1f/55/74/1f55744c8c52bb9cea28f0fe0d064c95.jpg"
+        "wallpaper_name": "ANIMEGRIL21",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1f/55/74/1f55744c8c52bb9cea28f0fe0d064c95.jpg"
     },
     {
         "id": 22,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL22",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/66/9e/bc/669ebc5143711ceff23485e7ca0884f3.jpg"
+        "wallpaper_name": "ANIMEGRIL22",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/66/9e/bc/669ebc5143711ceff23485e7ca0884f3.jpg"
     },
     {
         "id": 23,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL23",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/42/c7/e1/42c7e12fa3b2e6edd11d4a317ff8294b.jpg"
+        "wallpaper_name": "ANIMEGRIL23",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/42/c7/e1/42c7e12fa3b2e6edd11d4a317ff8294b.jpg"
     },
     {
         "id": 24,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL24",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fc/47/a3/fc47a39da6f3fad85f0f696e82783b8d.jpg"
+        "wallpaper_name": "ANIMEGRIL24",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fc/47/a3/fc47a39da6f3fad85f0f696e82783b8d.jpg"
     },
     {
         "id": 25,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL25",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/df/60/39/df603948342a38db7bb227ce1a8a8714.jpg"
+        "wallpaper_name": "ANIMEGRIL25",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/df/60/39/df603948342a38db7bb227ce1a8a8714.jpg"
     },
     {
         "id": 26,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL26",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/cd/89/a2/cd89a23520ac73781e11e3902c7ce022.jpg"
+        "wallpaper_name": "ANIMEGRIL26",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cd/89/a2/cd89a23520ac73781e11e3902c7ce022.jpg"
     },
     {
         "id": 27,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL27",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/03/a9/d6/03a9d683a13150effa28a70248181866.jpg"
+        "wallpaper_name": "ANIMEGRIL27",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/03/a9/d6/03a9d683a13150effa28a70248181866.jpg"
     },
     {
         "id": 28,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL28",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/44/95/1d/44951d7a997e8ca194bb9eea267f32d8.jpg"
+        "wallpaper_name": "ANIMEGRIL28",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/44/95/1d/44951d7a997e8ca194bb9eea267f32d8.jpg"
     },
     {
         "id": 29,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL29",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/29/37/86/293786a1835d7fe45cbaac4fdd0ac651.jpg"
+        "wallpaper_name": "ANIMEGRIL29",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/29/37/86/293786a1835d7fe45cbaac4fdd0ac651.jpg"
     },
     {
         "id": 30,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL30",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/1a/1c/b3/1a1cb36598848928a4de06d6bc796e13.jpg"
+        "wallpaper_name": "ANIMEGRIL30",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1a/1c/b3/1a1cb36598848928a4de06d6bc796e13.jpg"
     },
     {
         "id": 31,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL31",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/37/96/6b/37966b42f1e90173589e039bb8dd7460.jpg"
+        "wallpaper_name": "ANIMEGRIL31",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/37/96/6b/37966b42f1e90173589e039bb8dd7460.jpg"
     },
     {
         "id": 32,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL32",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4d/a7/6d/4da76de0fb6abd515cafea08dddab134.jpg"
+        "wallpaper_name": "ANIMEGRIL32",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4d/a7/6d/4da76de0fb6abd515cafea08dddab134.jpg"
     },
     {
         "id": 33,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL33",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5c/7a/97/5c7a970a65dc9491d603cbd23ea44d87.jpg"
+        "wallpaper_name": "ANIMEGRIL33",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5c/7a/97/5c7a970a65dc9491d603cbd23ea44d87.jpg"
     },
     {
         "id": 34,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL34",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/eb/d3/b5/ebd3b5a204eb69e71b0ddecf10c341de.jpg"
+        "wallpaper_name": "ANIMEGRIL34",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/eb/d3/b5/ebd3b5a204eb69e71b0ddecf10c341de.jpg"
     },
     {
         "id": 35,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL35",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/21/b1/fb/21b1fbada8f8187a53e578a0cb4c1e5f.jpg"
+        "wallpaper_name": "ANIMEGRIL35",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/21/b1/fb/21b1fbada8f8187a53e578a0cb4c1e5f.jpg"
     },
     {
         "id": 36,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL36",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/26/b2/51/26b251daf558e5463fcd610a73c7b4f3.jpg"
+        "wallpaper_name": "ANIMEGRIL36",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/26/b2/51/26b251daf558e5463fcd610a73c7b4f3.jpg"
     },
     {
         "id": 37,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL37",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f6/79/c3/f679c3e0d7653dd638b7f4e8cf9dd17d.jpg"
+        "wallpaper_name": "ANIMEGRIL37",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f6/79/c3/f679c3e0d7653dd638b7f4e8cf9dd17d.jpg"
     },
     {
         "id": 38,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL38",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5c/4b/fb/5c4bfbaf64caf447229437149ac8ea76.jpg"
+        "wallpaper_name": "ANIMEGRIL38",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5c/4b/fb/5c4bfbaf64caf447229437149ac8ea76.jpg"
     },
     {
         "id": 39,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL39",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/7b/a8/4b/7ba84b5ba9b3b354057f236e57d7b51b.jpg"
+        "wallpaper_name": "ANIMEGRIL39",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7b/a8/4b/7ba84b5ba9b3b354057f236e57d7b51b.jpg"
     },
     {
         "id": 40,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL40",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c3/3b/52/c33b521f4f7498d384ae04fcf33ec50d.jpg"
+        "wallpaper_name": "ANIMEGRIL40",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c3/3b/52/c33b521f4f7498d384ae04fcf33ec50d.jpg"
     },
     {
         "id": 41,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL41",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/6d/ef/b0/6defb06e7f328134549d6d6c76116e85.jpg"
+        "wallpaper_name": "ANIMEGRIL41",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6d/ef/b0/6defb06e7f328134549d6d6c76116e85.jpg"
     },
     {
         "id": 42,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL42",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c8/c9/64/c8c964824a6d084955f8b325074d36e7.jpg"
+        "wallpaper_name": "ANIMEGRIL42",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c8/c9/64/c8c964824a6d084955f8b325074d36e7.jpg"
     },
     {
         "id": 43,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL43",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/30/6b/19/306b1982b791646607f316b21038aee1.jpg"
+        "wallpaper_name": "ANIMEGRIL43",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/30/6b/19/306b1982b791646607f316b21038aee1.jpg"
     },
     {
         "id": 44,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL44",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b5/7e/e3/b57ee3fba24f7e60949f77efb1bee9cd.jpg"
+        "wallpaper_name": "ANIMEGRIL44",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b5/7e/e3/b57ee3fba24f7e60949f77efb1bee9cd.jpg"
     },
     {
         "id": 45,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL45",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/6e/5b/e0/6e5be02c141122dc5d0bb5d7265eeb11.jpg"
+        "wallpaper_name": "ANIMEGRIL45",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6e/5b/e0/6e5be02c141122dc5d0bb5d7265eeb11.jpg"
     },
     {
         "id": 46,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL46",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/1a/3f/9a/1a3f9a4613eccba4e89e4319164b5de8.jpg"
+        "wallpaper_name": "ANIMEGRIL46",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1a/3f/9a/1a3f9a4613eccba4e89e4319164b5de8.jpg"
     },
     {
         "id": 47,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL47",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ac/b4/a5/acb4a54c72075359c4c955e791950aba.jpg"
+        "wallpaper_name": "ANIMEGRIL47",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ac/b4/a5/acb4a54c72075359c4c955e791950aba.jpg"
     },
     {
         "id": 48,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL48",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/55/ae/0f/55ae0ff0ffbd4950301d2032200770ae.jpg"
+        "wallpaper_name": "ANIMEGRIL48",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/55/ae/0f/55ae0ff0ffbd4950301d2032200770ae.jpg"
     },
     {
         "id": 49,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL49",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4f/3a/24/4f3a24bec7c0fa4663fef183e0eaeea5.jpg"
+        "wallpaper_name": "ANIMEGRIL49",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4f/3a/24/4f3a24bec7c0fa4663fef183e0eaeea5.jpg"
     },
     {
         "id": 50,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL50",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/bd/04/72/bd047299fc53a55aac3e1035cab71599.jpg"
+        "wallpaper_name": "ANIMEGRIL50",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bd/04/72/bd047299fc53a55aac3e1035cab71599.jpg"
     },
     {
         "id": 51,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL51",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/0d/f6/b0/0df6b0481f3fdaef2f36c18132538332.jpg"
+        "wallpaper_name": "ANIMEGRIL51",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0d/f6/b0/0df6b0481f3fdaef2f36c18132538332.jpg"
     },
     {
         "id": 52,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL52",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/86/b2/47/86b24737ae55eb54d9aa0b4041783e38.jpg"
+        "wallpaper_name": "ANIMEGRIL52",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/86/b2/47/86b24737ae55eb54d9aa0b4041783e38.jpg"
     },
     {
         "id": 53,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL53",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/56/4b/9e/564b9e30d07dd0049548e2096651a768.jpg"
+        "wallpaper_name": "ANIMEGRIL53",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/56/4b/9e/564b9e30d07dd0049548e2096651a768.jpg"
     },
     {
         "id": 54,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL54",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f5/50/73/f550736dc0ea85dcb9f15866c6a40694.jpg"
+        "wallpaper_name": "ANIMEGRIL54",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f5/50/73/f550736dc0ea85dcb9f15866c6a40694.jpg"
     },
     {
         "id": 55,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL55",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/7d/f4/44/7df44440fe39fd06b3d9cd68f3386e1a.jpg"
+        "wallpaper_name": "ANIMEGRIL55",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7d/f4/44/7df44440fe39fd06b3d9cd68f3386e1a.jpg"
     },
     {
         "id": 56,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL56",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/29/15/77/291577c47b04685f4e8861d9d22e3ee5.jpg"
+        "wallpaper_name": "ANIMEGRIL56",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/29/15/77/291577c47b04685f4e8861d9d22e3ee5.jpg"
     },
     {
         "id": 57,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL57",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/66/8d/e3/668de3685231fae864f1a6be799300b5.jpg"
+        "wallpaper_name": "ANIMEGRIL57",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/66/8d/e3/668de3685231fae864f1a6be799300b5.jpg"
     },
     {
         "id": 58,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL58",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2e/46/d0/2e46d090916decae561912ec7f4e8dea.jpg"
+        "wallpaper_name": "ANIMEGRIL58",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2e/46/d0/2e46d090916decae561912ec7f4e8dea.jpg"
     },
     {
         "id": 59,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL59",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/cc/1e/f9/cc1ef9683c2129ea25b59ab7f2cc5616.jpg"
+        "wallpaper_name": "ANIMEGRIL59",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cc/1e/f9/cc1ef9683c2129ea25b59ab7f2cc5616.jpg"
     },
     {
         "id": 60,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL60",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4c/63/56/4c63566ecb853894a3edcf647caf70b8.jpg"
+        "wallpaper_name": "ANIMEGRIL60",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4c/63/56/4c63566ecb853894a3edcf647caf70b8.jpg"
     },
     {
         "id": 61,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL61",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/02/20/2c/02202cf0497234287e8e56985e54ec96.jpg"
+        "wallpaper_name": "ANIMEGRIL61",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/02/20/2c/02202cf0497234287e8e56985e54ec96.jpg"
     },
     {
         "id": 62,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL62",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/db/63/b0/db63b0c1784ceb6302d34c3d2d16ded0.jpg"
+        "wallpaper_name": "ANIMEGRIL62",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/db/63/b0/db63b0c1784ceb6302d34c3d2d16ded0.jpg"
     },
     {
         "id": 63,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL63",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c0/1d/7e/c01d7e8ff3b279cc95ab13d24444b20d.jpg"
+        "wallpaper_name": "ANIMEGRIL63",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c0/1d/7e/c01d7e8ff3b279cc95ab13d24444b20d.jpg"
     },
     {
         "id": 64,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL64",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fc/d8/b5/fcd8b583c006cfc79c9954b4252d55b5.jpg"
+        "wallpaper_name": "ANIMEGRIL64",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fc/d8/b5/fcd8b583c006cfc79c9954b4252d55b5.jpg"
     },
     {
         "id": 65,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL65",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8d/d5/cf/8dd5cfb270ad9bc4447b5247c515b6bc.jpg"
+        "wallpaper_name": "ANIMEGRIL65",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8d/d5/cf/8dd5cfb270ad9bc4447b5247c515b6bc.jpg"
     },
     {
         "id": 66,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL66",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b4/84/aa/b484aae55c6e8d164d5a88f70f631f8f.jpg"
+        "wallpaper_name": "ANIMEGRIL66",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b4/84/aa/b484aae55c6e8d164d5a88f70f631f8f.jpg"
     },
     {
         "id": 67,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL67",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/87/b0/af/87b0affa99290c36338cdebbb272971b.jpg"
+        "wallpaper_name": "ANIMEGRIL67",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/87/b0/af/87b0affa99290c36338cdebbb272971b.jpg"
     },
     {
         "id": 68,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL68",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/36/c3/62/36c362a2894830812175fe5d55d56d13.jpg"
+        "wallpaper_name": "ANIMEGRIL68",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/36/c3/62/36c362a2894830812175fe5d55d56d13.jpg"
     },
     {
         "id": 69,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL69",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/74/2c/c8/742cc8e4ec1d3c535415e399e7ff09c0.jpg"
+        "wallpaper_name": "ANIMEGRIL69",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/74/2c/c8/742cc8e4ec1d3c535415e399e7ff09c0.jpg"
     },
     {
         "id": 70,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL70",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9b/59/62/9b59621fce7ec80d59b18a9ca3ddf359.jpg"
+        "wallpaper_name": "ANIMEGRIL70",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9b/59/62/9b59621fce7ec80d59b18a9ca3ddf359.jpg"
     },
     {
         "id": 71,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL71",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2a/61/0e/2a610e85211f63c25819e0e5aa2a8db5.jpg"
+        "wallpaper_name": "ANIMEGRIL71",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2a/61/0e/2a610e85211f63c25819e0e5aa2a8db5.jpg"
     },
     {
         "id": 72,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL72",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/12/da/da/12dada46337dafca97db61d6197da7d5.jpg"
+        "wallpaper_name": "ANIMEGRIL72",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/12/da/da/12dada46337dafca97db61d6197da7d5.jpg"
     },
     {
         "id": 73,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL73",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/81/c1/f8/81c1f8f2cb02c6f5bf688def35b2406a.jpg"
+        "wallpaper_name": "ANIMEGRIL73",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/81/c1/f8/81c1f8f2cb02c6f5bf688def35b2406a.jpg"
     },
     {
         "id": 74,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL74",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ca/cc/b5/caccb540b1236b5f0c6ecd6057ab408b.jpg"
+        "wallpaper_name": "ANIMEGRIL74",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ca/cc/b5/caccb540b1236b5f0c6ecd6057ab408b.jpg"
     },
     {
         "id": 75,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL75",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/3b/ee/75/3bee7552d511cff20a780bf96f676f85.jpg"
+        "wallpaper_name": "ANIMEGRIL75",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/3b/ee/75/3bee7552d511cff20a780bf96f676f85.jpg"
     },
     {
         "id": 76,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL76",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d1/c3/78/d1c378400eb23874e33a96420f9a78a1.jpg"
+        "wallpaper_name": "ANIMEGRIL76",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d1/c3/78/d1c378400eb23874e33a96420f9a78a1.jpg"
     },
     {
         "id": 77,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL77",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/67/ce/9a/67ce9af398aa17594c4279f9564f9fe1.jpg"
+        "wallpaper_name": "ANIMEGRIL77",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/67/ce/9a/67ce9af398aa17594c4279f9564f9fe1.jpg"
     },
     {
         "id": 78,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL78",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ff/9c/62/ff9c62ee8765c36ed94a2a20376a9439.jpg"
+        "wallpaper_name": "ANIMEGRIL78",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ff/9c/62/ff9c62ee8765c36ed94a2a20376a9439.jpg"
     },
     {
         "id": 79,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL79",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f5/25/a5/f525a5b243a147ac0cb607915b9963c7.jpg"
+        "wallpaper_name": "ANIMEGRIL79",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f5/25/a5/f525a5b243a147ac0cb607915b9963c7.jpg"
     },
     {
         "id": 80,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL80",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/91/17/a0/9117a03c1f14c1f320c03aefa8edecd0.jpg"
+        "wallpaper_name": "ANIMEGRIL80",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/91/17/a0/9117a03c1f14c1f320c03aefa8edecd0.jpg"
     },
     {
         "id": 81,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL81",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/6c/13/5e/6c135ecff7fdd97fd72b58b5470c02d9.jpg"
+        "wallpaper_name": "ANIMEGRIL81",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6c/13/5e/6c135ecff7fdd97fd72b58b5470c02d9.jpg"
     },
     {
         "id": 82,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL82",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/45/c1/87/45c187facfbaebbd5f13de1772d3bf07.jpg"
+        "wallpaper_name": "ANIMEGRIL82",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/45/c1/87/45c187facfbaebbd5f13de1772d3bf07.jpg"
     },
     {
         "id": 83,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL83",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/cc/47/b0/cc47b0bec3f08659637cdd968ae7c8f7.jpg"
+        "wallpaper_name": "ANIMEGRIL83",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cc/47/b0/cc47b0bec3f08659637cdd968ae7c8f7.jpg"
     },
     {
         "id": 84,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL84",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/10/0f/f6/100ff679c2af29ab16459b12a976da16.jpg"
+        "wallpaper_name": "ANIMEGRIL84",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/10/0f/f6/100ff679c2af29ab16459b12a976da16.jpg"
     },
     {
         "id": 85,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL85",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9d/e2/fd/9de2fd9503c40f55d630ca1b23cb3521.jpg"
+        "wallpaper_name": "ANIMEGRIL85",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9d/e2/fd/9de2fd9503c40f55d630ca1b23cb3521.jpg"
     },
     {
         "id": 86,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL86",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/df/7e/b9/df7eb94673053476625e3cffbd9c6a68.jpg"
+        "wallpaper_name": "ANIMEGRIL86",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/df/7e/b9/df7eb94673053476625e3cffbd9c6a68.jpg"
     },
     {
         "id": 87,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL87",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a5/f5/4b/a5f54b14403fa8a8b4b0bce77375b8f3.jpg"
+        "wallpaper_name": "ANIMEGRIL87",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a5/f5/4b/a5f54b14403fa8a8b4b0bce77375b8f3.jpg"
     },
     {
         "id": 88,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL88",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4b/ba/d0/4bbad0dcfb24f967d7b077c71034cf96.jpg"
+        "wallpaper_name": "ANIMEGRIL88",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4b/ba/d0/4bbad0dcfb24f967d7b077c71034cf96.jpg"
     },
     {
         "id": 89,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL89",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d0/1a/5d/d01a5db0c98e7e7295583afe192214f8.jpg"
+        "wallpaper_name": "ANIMEGRIL89",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d0/1a/5d/d01a5db0c98e7e7295583afe192214f8.jpg"
     },
     {
         "id": 90,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL90",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/13/45/7a/13457a8fe5b2de19b730fc95178c6e64.jpg"
+        "wallpaper_name": "ANIMEGRIL90",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/13/45/7a/13457a8fe5b2de19b730fc95178c6e64.jpg"
     },
     {
         "id": 91,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL91",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a7/9f/b4/a79fb4dee73544fb086fa70f8fa6aa74.jpg"
+        "wallpaper_name": "ANIMEGRIL91",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a7/9f/b4/a79fb4dee73544fb086fa70f8fa6aa74.jpg"
     },
     {
         "id": 92,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL92",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/de/09/df/de09dfcb4e4d8bc2318391e0feb010f1.jpg"
+        "wallpaper_name": "ANIMEGRIL92",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/de/09/df/de09dfcb4e4d8bc2318391e0feb010f1.jpg"
     },
     {
         "id": 93,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL93",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c6/6f/25/c66f254d5acd0e7e7817c4457da5ed4f.jpg"
+        "wallpaper_name": "ANIMEGRIL93",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c6/6f/25/c66f254d5acd0e7e7817c4457da5ed4f.jpg"
     },
     {
         "id": 94,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL94",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a0/cb/e2/a0cbe2a9e89c40ebe853863bc2d36e70.jpg"
+        "wallpaper_name": "ANIMEGRIL94",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a0/cb/e2/a0cbe2a9e89c40ebe853863bc2d36e70.jpg"
     },
     {
         "id": 95,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL95",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/13/a7/25/13a7259e7df319573ba0d8c31ee355a9.jpg"
+        "wallpaper_name": "ANIMEGRIL95",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/13/a7/25/13a7259e7df319573ba0d8c31ee355a9.jpg"
     },
     {
         "id": 96,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL96",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a1/e7/06/a1e7068b5d2bb443c33809e9298281b8.jpg"
+        "wallpaper_name": "ANIMEGRIL96",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a1/e7/06/a1e7068b5d2bb443c33809e9298281b8.jpg"
     },
     {
         "id": 97,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL97",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f1/6a/f4/f16af4e3a00663ea50db7d46606dbca1.jpg"
+        "wallpaper_name": "ANIMEGRIL97",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f1/6a/f4/f16af4e3a00663ea50db7d46606dbca1.jpg"
     },
     {
         "id": 98,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL98",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5f/52/a4/5f52a47911dd5105a9f736e469baaf8c.jpg"
+        "wallpaper_name": "ANIMEGRIL98",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5f/52/a4/5f52a47911dd5105a9f736e469baaf8c.jpg"
     },
     {
         "id": 99,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL99",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5a/f6/39/5af6394a8e6390c7be116b481ff1ad50.jpg"
+        "wallpaper_name": "ANIMEGRIL99",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5a/f6/39/5af6394a8e6390c7be116b481ff1ad50.jpg"
     },
     {
         "id": 100,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL100",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a1/b1/07/a1b10731ac20869000647f8860232849.jpg"
+        "wallpaper_name": "ANIMEGRIL100",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a1/b1/07/a1b10731ac20869000647f8860232849.jpg"
     },
     {
         "id": 101,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL101",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/69/9b/eb/699beb0da04d74371a997242b26329a8.jpg"
+        "wallpaper_name": "ANIMEGRIL101",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/69/9b/eb/699beb0da04d74371a997242b26329a8.jpg"
     },
     {
         "id": 102,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL102",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/7b/79/3c/7b793c35a5d5b9ead49569ddfaf30351.jpg"
+        "wallpaper_name": "ANIMEGRIL102",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7b/79/3c/7b793c35a5d5b9ead49569ddfaf30351.jpg"
     },
     {
         "id": 103,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL103",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/64/84/5c/64845cc2849a2ef842a63653a6d646cd.jpg"
+        "wallpaper_name": "ANIMEGRIL103",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/64/84/5c/64845cc2849a2ef842a63653a6d646cd.jpg"
     },
     {
         "id": 104,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL104",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/93/4d/78/934d7873f23ad0026f0724264faef40a.jpg"
+        "wallpaper_name": "ANIMEGRIL104",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/93/4d/78/934d7873f23ad0026f0724264faef40a.jpg"
     },
     {
         "id": 105,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL105",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/97/a3/97/97a397d1194547e228b649128d94dbef.jpg"
+        "wallpaper_name": "ANIMEGRIL105",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/97/a3/97/97a397d1194547e228b649128d94dbef.jpg"
     },
     {
         "id": 106,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL106",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/cb/47/81/cb478173e4129f74e3342bb040708d06.jpg"
+        "wallpaper_name": "ANIMEGRIL106",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cb/47/81/cb478173e4129f74e3342bb040708d06.jpg"
     },
     {
         "id": 107,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL107",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/63/f5/a2/63f5a26c55c03908cea9d6e43736dc38.jpg"
+        "wallpaper_name": "ANIMEGRIL107",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/63/f5/a2/63f5a26c55c03908cea9d6e43736dc38.jpg"
     },
     {
         "id": 108,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL108",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/dd/c7/14/ddc714777c8ebf3668b22c41ee9069fa.jpg"
+        "wallpaper_name": "ANIMEGRIL108",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/dd/c7/14/ddc714777c8ebf3668b22c41ee9069fa.jpg"
     },
     {
         "id": 109,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL109",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4e/62/30/4e623056fa4378468ff3bacde44c53d1.jpg"
+        "wallpaper_name": "ANIMEGRIL109",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4e/62/30/4e623056fa4378468ff3bacde44c53d1.jpg"
     },
     {
         "id": 110,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL110",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/7c/dd/ba/7cddbaaf5f31db8a18d4e154ec2a4937.jpg"
+        "wallpaper_name": "ANIMEGRIL110",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7c/dd/ba/7cddbaaf5f31db8a18d4e154ec2a4937.jpg"
     },
     {
         "id": 111,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL111",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a1/91/13/a191136ea2127d1209fd87370dffbce7.jpg"
+        "wallpaper_name": "ANIMEGRIL111",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a1/91/13/a191136ea2127d1209fd87370dffbce7.jpg"
     },
     {
         "id": 112,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL112",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ea/b6/15/eab615634a0202ed0fa9ff67511d518d.jpg"
+        "wallpaper_name": "ANIMEGRIL112",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ea/b6/15/eab615634a0202ed0fa9ff67511d518d.jpg"
     },
     {
         "id": 113,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL113",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b8/2e/e3/b82ee3ecbaf4551876c19585353430a0.jpg"
+        "wallpaper_name": "ANIMEGRIL113",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b8/2e/e3/b82ee3ecbaf4551876c19585353430a0.jpg"
     },
     {
         "id": 114,
         "name_category": "ANIMEGRIL",
-        "wallpaper_Name": "ANIMEGRIL114",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/09/ed/19/09ed19b8c7a57072013727151dd5193f.jpg"
-    }
+        "wallpaper_name": "ANIMEGRIL114",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/09/ed/19/09ed19b8c7a57072013727151dd5193f.jpg"
+    } 
 ]
 }
