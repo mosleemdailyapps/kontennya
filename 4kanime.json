@@ -31,27 +31,15 @@
     {
       "name_category": "4KANIME",
       "wallpaper_url": "https://cdn-2.tstatic.net/sumsel/foto/bank/images/7-Situs-Nonton-Serial-Anime-Resmi-Legal-Sub-Indo-2022-Bukan-Situs-Anoboy-AnimeIndo-Samehadaku.jpg"
-    },
-    {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
-    },
-    {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
-    },
-    {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
-    }
+    }b 
   ],
   "Wallpaper": [
     {
         "id": 1,
         "name_category": "4KANIME",
         "wallpaper_Name": "4KANIME01",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/88/58/4c/88584c9ad78c5336362a766bbee9ccfb.jpg"
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/88/58/4c/88584c9ad78c5336362a766bbee9ccfb.jpg"
     },
     {
         "id": 2,
