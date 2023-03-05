@@ -29,813 +29,801 @@
   ],
   "Categories": [
     {
-      "name_category": "Super Car",
-      "wallpaper_url": "category/supercar.jpeg"
-    },
-    {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
-    },
-    {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
-    },
-    {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+      "name_category": "ANIMEBOY",
+      "wallpaper_url": "https://wallpaper.dog/large/20567716.jpg"
     }
   ],
   "Wallpaper": [
     {
         "id": 1,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY01",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f1/84/c4/f184c4697346c350ab013084085f815d.jpg"
+        "wallpaper_name": "ANIMEBOY01",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f1/84/c4/f184c4697346c350ab013084085f815d.jpg"
     },
     {
         "id": 2,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY02",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/be/3d/a5/be3da5ec7a81d2bc2b96c7e0242e8cf4.jpg"
+        "wallpaper_name": "ANIMEBOY02",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/be/3d/a5/be3da5ec7a81d2bc2b96c7e0242e8cf4.jpg"
     },
     {
         "id": 3,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY03",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/cf/c5/dc/cfc5dc6b47e46401f158e2456cb5ea37.jpg"
+        "wallpaper_name": "ANIMEBOY03",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cf/c5/dc/cfc5dc6b47e46401f158e2456cb5ea37.jpg"
     },
     {
         "id": 4,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY04",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/1d/19/ae/1d19ae162ba098d2ce0f710a567eda21.jpg"
+        "wallpaper_name": "ANIMEBOY04",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1d/19/ae/1d19ae162ba098d2ce0f710a567eda21.jpg"
     },
     {
         "id": 5,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY05",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/de/bb/83/debb837265c8dd5b20e48998fab5607c.jpg"
+        "wallpaper_name": "ANIMEBOY05",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/de/bb/83/debb837265c8dd5b20e48998fab5607c.jpg"
     },
     {
         "id": 6,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY06",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/38/e8/c6/38e8c669d9615b18e69654ceabee923f.jpg"
+        "wallpaper_name": "ANIMEBOY06",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/38/e8/c6/38e8c669d9615b18e69654ceabee923f.jpg"
     },
     {
         "id": 7,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY07",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/7c/ee/52/7cee525cdf08060863e47e20d5b94976.jpg"
+        "wallpaper_name": "ANIMEBOY07",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7c/ee/52/7cee525cdf08060863e47e20d5b94976.jpg"
     },
     {
         "id": 8,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY08",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/51/b3/0b/51b30bb5c35274dcd5476fe1155361b1.jpg"
+        "wallpaper_name": "ANIMEBOY08",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/51/b3/0b/51b30bb5c35274dcd5476fe1155361b1.jpg"
     },
     {
         "id": 9,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY09",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/aa/27/90/aa2790850f190fd58e05cc821e31e393.jpg"
+        "wallpaper_name": "ANIMEBOY09",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/aa/27/90/aa2790850f190fd58e05cc821e31e393.jpg"
     },
     {
         "id": 10,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY10",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8c/9e/e3/8c9ee39ff8903f3b4a8b9424f763fe3e.jpg"
+        "wallpaper_name": "ANIMEBOY10",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8c/9e/e3/8c9ee39ff8903f3b4a8b9424f763fe3e.jpg"
     },
     {
         "id": 11,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY11",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9d/93/bf/9d93bf3bdc0e399ae01cea93a9ec872d.jpg"
+        "wallpaper_name": "ANIMEBOY11",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9d/93/bf/9d93bf3bdc0e399ae01cea93a9ec872d.jpg"
     },
     {
         "id": 12,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY12",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/99/04/24/990424625c5eb8aba8a43b224913c944.jpg"
+        "wallpaper_name": "ANIMEBOY12",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/99/04/24/990424625c5eb8aba8a43b224913c944.jpg"
     },
     {
         "id": 13,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY13",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5f/49/7c/5f497c30a2197e7180d88457eb0e38db.jpg"
+        "wallpaper_name": "ANIMEBOY13",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5f/49/7c/5f497c30a2197e7180d88457eb0e38db.jpg"
     },
     {
         "id": 14,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY14",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f5/6a/d5/f56ad5b723d68b85300471ff51043e0e.jpg"
+        "wallpaper_name": "ANIMEBOY14",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f5/6a/d5/f56ad5b723d68b85300471ff51043e0e.jpg"
     },
     {
         "id": 15,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY15",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/43/a2/21/43a2214334ecca3456af585857e1d753.jpg"
+        "wallpaper_name": "ANIMEBOY15",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/43/a2/21/43a2214334ecca3456af585857e1d753.jpg"
     },
     {
         "id": 16,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY16",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/db/20/ee/db20ee63879704df0ff4052f19ae24b2.jpg"
+        "wallpaper_name": "ANIMEBOY16",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/db/20/ee/db20ee63879704df0ff4052f19ae24b2.jpg"
     },
     {
         "id": 17,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY17",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d0/07/b1/d007b1b8df0bafbaab81327f531e1c31.jpg"
+        "wallpaper_name": "ANIMEBOY17",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d0/07/b1/d007b1b8df0bafbaab81327f531e1c31.jpg"
     },
     {
         "id": 18,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY18",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2e/f1/6f/2ef16fd60413f5af63f171f0d080adb2.jpg"
+        "wallpaper_name": "ANIMEBOY18",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2e/f1/6f/2ef16fd60413f5af63f171f0d080adb2.jpg"
     },
     {
         "id": 19,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY19",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4f/98/a0/4f98a04f0935514a6485e6754072fa53.jpg"
+        "wallpaper_name": "ANIMEBOY19",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4f/98/a0/4f98a04f0935514a6485e6754072fa53.jpg"
     },
     {
         "id": 20,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY20",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/64/b1/0d/64b10dbe36b5be3df8ec23f3f150c704.jpg"
+        "wallpaper_name": "ANIMEBOY20",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/64/b1/0d/64b10dbe36b5be3df8ec23f3f150c704.jpg"
     },
     {
         "id": 21,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY21",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/04/56/dd/0456ddbe50cf25a84e4471ad3b908aff.jpg"
+        "wallpaper_name": "ANIMEBOY21",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/04/56/dd/0456ddbe50cf25a84e4471ad3b908aff.jpg"
     },
     {
         "id": 22,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY22",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/db/8a/81/db8a813e0955d931a2906cd725d33707.jpg"
+        "wallpaper_name": "ANIMEBOY22",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/db/8a/81/db8a813e0955d931a2906cd725d33707.jpg"
     },
     {
         "id": 23,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY23",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a9/96/ca/a996ca9dabf5de0579bf91faefea99b8.jpg"
+        "wallpaper_name": "ANIMEBOY23",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a9/96/ca/a996ca9dabf5de0579bf91faefea99b8.jpg"
     },
     {
         "id": 24,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY24",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b9/bc/2b/b9bc2b5374a36e698bfbaf615026365e.jpg"
+        "wallpaper_name": "ANIMEBOY24",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b9/bc/2b/b9bc2b5374a36e698bfbaf615026365e.jpg"
     },
     {
         "id": 25,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY25",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/45/61/60/4561605ce503cbaa750fb46dd6e1c0c2.jpg"
+        "wallpaper_name": "ANIMEBOY25",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/45/61/60/4561605ce503cbaa750fb46dd6e1c0c2.jpg"
     },
     {
         "id": 26,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY26",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5e/af/c4/5eafc42d7f25200b83708542ea56720d.jpg"
+        "wallpaper_name": "ANIMEBOY26",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5e/af/c4/5eafc42d7f25200b83708542ea56720d.jpg"
     },
     {
         "id": 27,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY27",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/34/93/89/349389b9a6d31bf03c2ab44ca223fe1f.jpg"
+        "wallpaper_name": "ANIMEBOY27",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/34/93/89/349389b9a6d31bf03c2ab44ca223fe1f.jpg"
     },
     {
         "id": 28,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY28",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d7/dd/aa/d7ddaa5f4efa08c1a590c906352a0416.jpg"
+        "wallpaper_name": "ANIMEBOY28",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d7/dd/aa/d7ddaa5f4efa08c1a590c906352a0416.jpg"
     },
     {
         "id": 29,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY29",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/39/71/8c/39718c328d524270184d899483c947a2.jpg"
+        "wallpaper_name": "ANIMEBOY29",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/39/71/8c/39718c328d524270184d899483c947a2.jpg"
     },
     {
         "id": 30,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY30",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/03/17/63/031763048167425ff31d733e52a00777.jpg"
+        "wallpaper_name": "ANIMEBOY30",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/03/17/63/031763048167425ff31d733e52a00777.jpg"
     },
     {
         "id": 31,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY31",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/72/84/07/728407958a2361cb6b4235f568a7e5f7.jpg"
+        "wallpaper_name": "ANIMEBOY31",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/72/84/07/728407958a2361cb6b4235f568a7e5f7.jpg"
     },
     {
         "id": 32,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY32",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/bd/fe/bd/bdfebdf165615a155ddfc95c963de255.jpg"
+        "wallpaper_name": "ANIMEBOY32",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bd/fe/bd/bdfebdf165615a155ddfc95c963de255.jpg"
     },
     {
         "id": 33,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY33",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/12/90/8f/12908fd6903be5e0f85a8fe68749e27b.jpg"
+        "wallpaper_name": "ANIMEBOY33",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/12/90/8f/12908fd6903be5e0f85a8fe68749e27b.jpg"
     },
     {
         "id": 34,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY34",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/81/a9/7f/81a97f33eb51202577e40d86c477eb7f.jpg"
+        "wallpaper_name": "ANIMEBOY34",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/81/a9/7f/81a97f33eb51202577e40d86c477eb7f.jpg"
     },
     {
         "id": 35,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY35",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5a/f4/f2/5af4f20e0b894295bf315d86ddf0913d.jpg"
+        "wallpaper_name": "ANIMEBOY35",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5a/f4/f2/5af4f20e0b894295bf315d86ddf0913d.jpg"
     },
     {
         "id": 36,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY36",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/09/c2/d5/09c2d5544db224866d2ee2a667d6ff04.jpg"
+        "wallpaper_name": "ANIMEBOY36",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/09/c2/d5/09c2d5544db224866d2ee2a667d6ff04.jpg"
     },
     {
         "id": 37,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY37",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5b/de/71/5bde719eb4d8b16b8191f703cfe14931.jpg"
+        "wallpaper_name": "ANIMEBOY37",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5b/de/71/5bde719eb4d8b16b8191f703cfe14931.jpg"
     },
     {
         "id": 38,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY38",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/25/cf/74/25cf747343e7f022d303887c4a316363.jpg"
+        "wallpaper_name": "ANIMEBOY38",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/25/cf/74/25cf747343e7f022d303887c4a316363.jpg"
     },
     {
         "id": 39,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY39",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ed/c4/0f/edc40fe0f90c204d2a6e2e51668ad547.jpg"
+        "wallpaper_name": "ANIMEBOY39",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ed/c4/0f/edc40fe0f90c204d2a6e2e51668ad547.jpg"
     },
     {
         "id": 40,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY40",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2a/7d/f3/2a7df30b0163ad256a93f33e20da7fcf.jpg"
+        "wallpaper_name": "ANIMEBOY40",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2a/7d/f3/2a7df30b0163ad256a93f33e20da7fcf.jpg"
     },
     {
         "id": 41,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY41",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/59/ff/37/59ff376cd476cf1a6936500fc47523ed.jpg"
+        "wallpaper_name": "ANIMEBOY41",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/59/ff/37/59ff376cd476cf1a6936500fc47523ed.jpg"
     },
     {
         "id": 42,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY42",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/08/c9/1b/08c91b1518b06a59c6f55e14cf343f8d.jpg"
+        "wallpaper_name": "ANIMEBOY42",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/08/c9/1b/08c91b1518b06a59c6f55e14cf343f8d.jpg"
     },
     {
         "id": 43,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY43",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5b/72/47/5b72479ab86fc655fe4e9daf61e6221f.jpg"
+        "wallpaper_name": "ANIMEBOY43",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5b/72/47/5b72479ab86fc655fe4e9daf61e6221f.jpg"
     },
     {
         "id": 44,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY44",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/3a/ab/cf/3aabcf0269161b1f937fedbc9284659d.jpg"
+        "wallpaper_name": "ANIMEBOY44",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/3a/ab/cf/3aabcf0269161b1f937fedbc9284659d.jpg"
     },
     {
         "id": 45,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY45",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/74/cd/22/74cd22e101379e15667eed9646c2f37b.jpg"
+        "wallpaper_name": "ANIMEBOY45",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/74/cd/22/74cd22e101379e15667eed9646c2f37b.jpg"
     },
     {
         "id": 46,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY46",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/94/05/20/940520d2c0e2f1f79affedd6291878e8.jpg"
+        "wallpaper_name": "ANIMEBOY46",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/94/05/20/940520d2c0e2f1f79affedd6291878e8.jpg"
     },
     {
         "id": 47,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY47",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/90/a2/e2/90a2e219749914c4c9fe6ec3892193bc.jpg"
+        "wallpaper_name": "ANIMEBOY47",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/90/a2/e2/90a2e219749914c4c9fe6ec3892193bc.jpg"
     },
     {
         "id": 48,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY48",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c6/d1/46/c6d146d366ce3ab3ba4fbe6c33603fc2.jpg"
+        "wallpaper_name": "ANIMEBOY48",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c6/d1/46/c6d146d366ce3ab3ba4fbe6c33603fc2.jpg"
     },
     {
         "id": 49,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY49",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/59/a8/78/59a8787a3df44164e025c137bb05cf34.jpg"
+        "wallpaper_name": "ANIMEBOY49",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/59/a8/78/59a8787a3df44164e025c137bb05cf34.jpg"
     },
     {
         "id": 50,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY50",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/40/ed/fd/40edfd7c16542b3ec38ac913ba69ac3b.jpg"
+        "wallpaper_name": "ANIMEBOY50",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/40/ed/fd/40edfd7c16542b3ec38ac913ba69ac3b.jpg"
     },
     {
         "id": 51,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY51",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/3a/8c/c2/3a8cc2c142b39c6d3d04dd6178489a6e.jpg"
+        "wallpaper_name": "ANIMEBOY51",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/3a/8c/c2/3a8cc2c142b39c6d3d04dd6178489a6e.jpg"
     },
     {
         "id": 52,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY52",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/af/08/a1/af08a1bdc2750183a97dcd4ee9c8f386.jpg"
+        "wallpaper_name": "ANIMEBOY52",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/af/08/a1/af08a1bdc2750183a97dcd4ee9c8f386.jpg"
     },
     {
         "id": 53,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY53",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/68/50/64/685064adcd37268d7fdb6e58cda4d2db.jpg"
+        "wallpaper_name": "ANIMEBOY53",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/68/50/64/685064adcd37268d7fdb6e58cda4d2db.jpg"
     },
     {
         "id": 54,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY54",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/e8/ca/21/e8ca2171f997a043568684c5093ba78e.jpg"
+        "wallpaper_name": "ANIMEBOY54",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/e8/ca/21/e8ca2171f997a043568684c5093ba78e.jpg"
     },
     {
         "id": 55,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY55",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/54/26/5e/54265e12595728227a159310b330bac7.jpg"
+        "wallpaper_name": "ANIMEBOY55",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/54/26/5e/54265e12595728227a159310b330bac7.jpg"
     },
     {
         "id": 56,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY56",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/7a/29/9c/7a299c84791800a7d78be858eea340a8.jpg"
+        "wallpaper_name": "ANIMEBOY56",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7a/29/9c/7a299c84791800a7d78be858eea340a8.jpg"
     },
     {
         "id": 57,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY57",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/69/7d/77/697d77829f01394032734de8670b7b3f.jpg"
+        "wallpaper_name": "ANIMEBOY57",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/69/7d/77/697d77829f01394032734de8670b7b3f.jpg"
     },
     {
         "id": 58,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY58",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/78/63/7f/78637fc8df8d28d950759830c92eb74b.jpg"
+        "wallpaper_name": "ANIMEBOY58",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/78/63/7f/78637fc8df8d28d950759830c92eb74b.jpg"
     },
     {
         "id": 59,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY59",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/63/59/8b/63598b873e1f529ccad42426367c9af8.jpg"
+        "wallpaper_name": "ANIMEBOY59",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/63/59/8b/63598b873e1f529ccad42426367c9af8.jpg"
     },
     {
         "id": 60,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY60",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f0/dd/54/f0dd5469869d8836aba9416a5879d992.jpg"
+        "wallpaper_name": "ANIMEBOY60",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f0/dd/54/f0dd5469869d8836aba9416a5879d992.jpg"
     },
     {
         "id": 61,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY61",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9e/9e/ed/9e9eed945bd29509f2a7f951d9e09168.jpg"
+        "wallpaper_name": "ANIMEBOY61",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9e/9e/ed/9e9eed945bd29509f2a7f951d9e09168.jpg"
     },
     {
         "id": 62,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY62",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9a/c9/49/9ac949577c735e8c3897f24f60a24151.jpg"
+        "wallpaper_name": "ANIMEBOY62",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9a/c9/49/9ac949577c735e8c3897f24f60a24151.jpg"
     },
     {
         "id": 63,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY63",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/09/be/ed/09beed15dbea52649e5cf6ebdf113ee5.jpg"
+        "wallpaper_name": "ANIMEBOY63",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/09/be/ed/09beed15dbea52649e5cf6ebdf113ee5.jpg"
     },
     {
         "id": 64,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY64",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5d/e0/4d/5de04dcb3495e780e0ebf611990afbc3.jpg"
+        "wallpaper_name": "ANIMEBOY64",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5d/e0/4d/5de04dcb3495e780e0ebf611990afbc3.jpg"
     },
     {
         "id": 65,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY65",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/04/e4/38/04e438a85dc08aa332699f0f0f5d7286.jpg"
+        "wallpaper_name": "ANIMEBOY65",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/04/e4/38/04e438a85dc08aa332699f0f0f5d7286.jpg"
     },
     {
         "id": 66,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY66",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4c/b1/98/4cb198a887a1c4da437fe525614daf24.jpg"
+        "wallpaper_name": "ANIMEBOY66",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4c/b1/98/4cb198a887a1c4da437fe525614daf24.jpg"
     },
     {
         "id": 67,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY67",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c5/24/8a/c5248aaae8e3e167d80b597b3582767b.jpg"
+        "wallpaper_name": "ANIMEBOY67",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c5/24/8a/c5248aaae8e3e167d80b597b3582767b.jpg"
     },
     {
         "id": 68,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY68",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c5/20/86/c5208616039e8375e09ebb4188cf0a32.jpg"
+        "wallpaper_name": "ANIMEBOY68",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c5/20/86/c5208616039e8375e09ebb4188cf0a32.jpg"
     },
     {
         "id": 69,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY69",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/07/7a/e9/077ae94547fa49e1e213abefb64c0991.jpg"
+        "wallpaper_name": "ANIMEBOY69",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/07/7a/e9/077ae94547fa49e1e213abefb64c0991.jpg"
     },
     {
         "id": 70,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY70",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a2/f2/72/a2f2729922b740d0abc44350708d45ba.jpg"
+        "wallpaper_name": "ANIMEBOY70",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a2/f2/72/a2f2729922b740d0abc44350708d45ba.jpg"
     },
     {
         "id": 71,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY71",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/10/b0/ee/10b0ee43cd9408142a4115531910ce05.jpg"
+        "wallpaper_name": "ANIMEBOY71",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/10/b0/ee/10b0ee43cd9408142a4115531910ce05.jpg"
     },
     {
         "id": 72,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY72",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/72/cd/86/72cd86866717185716874d8d4872464a.jpg"
+        "wallpaper_name": "ANIMEBOY72",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/72/cd/86/72cd86866717185716874d8d4872464a.jpg"
     },
     {
         "id": 73,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY73",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ed/44/e3/ed44e340a6f300a320603f00200e133a.jpg"
+        "wallpaper_name": "ANIMEBOY73",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ed/44/e3/ed44e340a6f300a320603f00200e133a.jpg"
     },
     {
         "id": 74,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY74",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b6/d7/ec/b6d7ec431b48171a5be63b1371412c19.jpg"
+        "wallpaper_name": "ANIMEBOY74",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b6/d7/ec/b6d7ec431b48171a5be63b1371412c19.jpg"
     },
     {
         "id": 75,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY75",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ae/e7/60/aee760cdfee582ac7a5dde8565c3edd5.jpg"
+        "wallpaper_name": "ANIMEBOY75",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ae/e7/60/aee760cdfee582ac7a5dde8565c3edd5.jpg"
     },
     {
         "id": 76,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY76",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/48/f6/09/48f609d1f73d54374162e9c079c9f0c9.jpg"
+        "wallpaper_name": "ANIMEBOY76",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/48/f6/09/48f609d1f73d54374162e9c079c9f0c9.jpg"
     },
     {
         "id": 77,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY77",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5e/31/5b/5e315bdbe93f46f932042ce6b1e324f9.jpg"
+        "wallpaper_name": "ANIMEBOY77",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5e/31/5b/5e315bdbe93f46f932042ce6b1e324f9.jpg"
     },
     {
         "id": 78,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY78",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/12/d8/7f/12d87f4f16e3ffcba0e0fd51e95ebb8b.jpg"
+        "wallpaper_name": "ANIMEBOY78",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/12/d8/7f/12d87f4f16e3ffcba0e0fd51e95ebb8b.jpg"
     },
     {
         "id": 79,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY79",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/aa/4f/05/aa4f0507c191b8e427a2bf0e6509080c.jpg"
+        "wallpaper_name": "ANIMEBOY79",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/aa/4f/05/aa4f0507c191b8e427a2bf0e6509080c.jpg"
     },
     {
         "id": 80,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY80",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/04/07/56/040756631c35cc7685a3d3de05010f00.jpg"
+        "wallpaper_name": "ANIMEBOY80",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/04/07/56/040756631c35cc7685a3d3de05010f00.jpg"
     },
     {
         "id": 81,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY81",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/45/a9/ed/45a9ed2b2277e9e5cf610d8627d0ef7d.jpg"
+        "wallpaper_name": "ANIMEBOY81",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/45/a9/ed/45a9ed2b2277e9e5cf610d8627d0ef7d.jpg"
     },
     {
         "id": 82,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY82",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fa/51/6b/fa516b80d057bd6dfdcfa9b29d675506.jpg"
+        "wallpaper_name": "ANIMEBOY82",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fa/51/6b/fa516b80d057bd6dfdcfa9b29d675506.jpg"
     },
     {
         "id": 83,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY83",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/1d/55/f8/1d55f8fe783f22fcdb14878dd79e45a2.jpg"
+        "wallpaper_name": "ANIMEBOY83",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1d/55/f8/1d55f8fe783f22fcdb14878dd79e45a2.jpg"
     },
     {
         "id": 84,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY84",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fa/bc/15/fabc1519bb4f95e7c0f7626230813f11.jpg"
+        "wallpaper_name": "ANIMEBOY84",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fa/bc/15/fabc1519bb4f95e7c0f7626230813f11.jpg"
     },
     {
         "id": 85,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY85",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/20/ae/ab/20aeabe214838841c04d9d545f1e5c69.jpg"
+        "wallpaper_name": "ANIMEBOY85",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/20/ae/ab/20aeabe214838841c04d9d545f1e5c69.jpg"
     },
     {
         "id": 86,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY86",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/21/5c/4c/215c4c20d889e9e78724af3a8637db4c.jpg"
+        "wallpaper_name": "ANIMEBOY86",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/21/5c/4c/215c4c20d889e9e78724af3a8637db4c.jpg"
     },
     {
         "id": 87,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY87",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/bb/a4/2e/bba42ed1af46a0c434da5c6913ed97e6.jpg"
+        "wallpaper_name": "ANIMEBOY87",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bb/a4/2e/bba42ed1af46a0c434da5c6913ed97e6.jpg"
     },
     {
         "id": 88,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY88",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a4/90/79/a49079ff62524124cd28af36f6379c65.jpg"
+        "wallpaper_name": "ANIMEBOY88",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a4/90/79/a49079ff62524124cd28af36f6379c65.jpg"
     },
     {
         "id": 89,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY89",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/44/8e/09/448e09c50f8cfdff4ec4ecea5f367a11.jpg"
+        "wallpaper_name": "ANIMEBOY89",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/44/8e/09/448e09c50f8cfdff4ec4ecea5f367a11.jpg"
     },
     {
         "id": 90,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY90",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f7/c9/35/f7c935f26ac88e92003efba2d422ee07.jpg"
+        "wallpaper_name": "ANIMEBOY90",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f7/c9/35/f7c935f26ac88e92003efba2d422ee07.jpg"
     },
     {
         "id": 91,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY91",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/42/9f/ad/429fad7bbb5b4a511808e1248f7782f1.jpg"
+        "wallpaper_name": "ANIMEBOY91",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/42/9f/ad/429fad7bbb5b4a511808e1248f7782f1.jpg"
     },
     {
         "id": 92,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY92",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/50/b1/b1/50b1b140b2bd60fd5e8815c7035cf6f6.jpg"
+        "wallpaper_name": "ANIMEBOY92",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/50/b1/b1/50b1b140b2bd60fd5e8815c7035cf6f6.jpg"
     },
     {
         "id": 93,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY93",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/34/79/0a/34790ad1512f9bb40936fdb92534c65f.jpg"
+        "wallpaper_name": "ANIMEBOY93",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/34/79/0a/34790ad1512f9bb40936fdb92534c65f.jpg"
     },
     {
         "id": 94,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY94",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2a/0f/10/2a0f105d9aec6fa696236b4c665bc4d8.jpg"
+        "wallpaper_name": "ANIMEBOY94",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2a/0f/10/2a0f105d9aec6fa696236b4c665bc4d8.jpg"
     },
     {
         "id": 95,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY95",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/73/8d/43/738d43227160ac08c55bdd77bae5dac6.jpg"
+        "wallpaper_name": "ANIMEBOY95",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/73/8d/43/738d43227160ac08c55bdd77bae5dac6.jpg"
     },
     {
         "id": 96,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY96",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8a/c3/7c/8ac37c10817529014198e9422ad47e20.jpg"
+        "wallpaper_name": "ANIMEBOY96",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8a/c3/7c/8ac37c10817529014198e9422ad47e20.jpg"
     },
     {
         "id": 97,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY97",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/6f/2c/9f/6f2c9f0c2bfbdb9e755c1aa809b6b6ce.jpg"
+        "wallpaper_name": "ANIMEBOY97",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6f/2c/9f/6f2c9f0c2bfbdb9e755c1aa809b6b6ce.jpg"
     },
     {
         "id": 98,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY98",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/37/f4/bf/37f4bf6c96e7caea8d23aa0519d6eb5b.jpg"
+        "wallpaper_name": "ANIMEBOY98",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/37/f4/bf/37f4bf6c96e7caea8d23aa0519d6eb5b.jpg"
     },
     {
         "id": 99,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY99",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fb/66/d7/fb66d73de03166cee43ae4e1badee13e.jpg"
+        "wallpaper_name": "ANIMEBOY99",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fb/66/d7/fb66d73de03166cee43ae4e1badee13e.jpg"
     },
     {
         "id": 100,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY100",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/48/43/8e/48438e2d4649d90b0dec21f45710946a.jpg"
+        "wallpaper_name": "ANIMEBOY100",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/48/43/8e/48438e2d4649d90b0dec21f45710946a.jpg"
     },
     {
         "id": 101,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY101",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/64/67/da/6467daa0f28afaf1911ad75d53728686.jpg"
+        "wallpaper_name": "ANIMEBOY101",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/64/67/da/6467daa0f28afaf1911ad75d53728686.jpg"
     },
     {
         "id": 102,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY102",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/93/09/da/9309daff9212542ecfb514e4b0dae16e.jpg"
+        "wallpaper_name": "ANIMEBOY102",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/93/09/da/9309daff9212542ecfb514e4b0dae16e.jpg"
     },
     {
         "id": 103,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY103",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2c/78/7c/2c787ca051aa2e9fcf2789a9886988cf.jpg"
+        "wallpaper_name": "ANIMEBOY103",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2c/78/7c/2c787ca051aa2e9fcf2789a9886988cf.jpg"
     },
     {
         "id": 104,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY104",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9a/25/d0/9a25d0f86d9f1e742b4513ed838235b1.jpg"
+        "wallpaper_name": "ANIMEBOY104",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9a/25/d0/9a25d0f86d9f1e742b4513ed838235b1.jpg"
     },
     {
         "id": 105,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY105",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5a/64/b2/5a64b20e452579ee8c47e3efd6591003.jpg"
+        "wallpaper_name": "ANIMEBOY105",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5a/64/b2/5a64b20e452579ee8c47e3efd6591003.jpg"
     },
     {
         "id": 106,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY106",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/09/24/a7/0924a7ef295741e916c8f42512bbe5bd.jpg"
+        "wallpaper_name": "ANIMEBOY106",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/09/24/a7/0924a7ef295741e916c8f42512bbe5bd.jpg"
     },
     {
         "id": 107,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY107",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/3d/0c/4b/3d0c4b3e2bf17483067ed472c11787db.jpg"
+        "wallpaper_name": "ANIMEBOY107",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/3d/0c/4b/3d0c4b3e2bf17483067ed472c11787db.jpg"
     },
     {
         "id": 108,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY108",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/0d/fe/e6/0dfee6c766afe72039bd11f974e5a141.jpg"
+        "wallpaper_name": "ANIMEBOY108",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0d/fe/e6/0dfee6c766afe72039bd11f974e5a141.jpg"
     },
     {
         "id": 109,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY109",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2b/83/46/2b834633c1cb022a71f2e3b9110afb49.jpg"
+        "wallpaper_name": "ANIMEBOY109",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2b/83/46/2b834633c1cb022a71f2e3b9110afb49.jpg"
     },
     {
         "id": 110,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY110",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/94/f3/89/94f389b03e2d60ecdbab5367bf2a4766.jpg"
+        "wallpaper_name": "ANIMEBOY110",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/94/f3/89/94f389b03e2d60ecdbab5367bf2a4766.jpg"
     },
     {
         "id": 111,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY111",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/1d/1a/31/1d1a31fba35bb22ef6023e14293286d2.jpg"
+        "wallpaper_name": "ANIMEBOY111",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1d/1a/31/1d1a31fba35bb22ef6023e14293286d2.jpg"
     },
     {
         "id": 112,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY112",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/0a/12/ed/0a12ed06e095c6122e098488640feab3.jpg"
+        "wallpaper_name": "ANIMEBOY112",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0a/12/ed/0a12ed06e095c6122e098488640feab3.jpg"
     },
     {
         "id": 113,
         "name_category": "ANIMEBOY",
-        "wallpaper_Name": "ANIMEBOY113",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c9/14/2e/c9142e956c0adc57487b137cad8cbc10.jpg"
+        "wallpaper_name": "ANIMEBOY113",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c9/14/2e/c9142e956c0adc57487b137cad8cbc10.jpg"
     }
 ]
 }
