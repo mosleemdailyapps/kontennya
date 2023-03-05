@@ -29,834 +29,822 @@
   ],
   "Categories": [
     {
-      "name_category": "Super Car",
-      "wallpaper_url": "category/supercar.jpeg"
-    },
-    {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
-    },
-    {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
-    },
-    {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+      "name_category": "PURPLE",
+      "wallpaper_url": "https://i.pinimg.com/736x/97/ca/7a/97ca7a44fee6045a0e159c2c1d7b455a.jpg"
     }
   ],
   "Wallpaper": [
     {
         "id": 1,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE01",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/74/db/88/74db888d90d736c9f9b6591711cb8ce4.jpg"
+        "wallpaper_name": "PURPLE01",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/74/db/88/74db888d90d736c9f9b6591711cb8ce4.jpg"
     },
     {
         "id": 2,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE02",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5e/96/0d/5e960d1dee20c50515618f511f7f142d.jpg"
+        "wallpaper_name": "PURPLE02",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5e/96/0d/5e960d1dee20c50515618f511f7f142d.jpg"
     },
     {
         "id": 3,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE03",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ec/91/19/ec9119ee585682a119b2cd204dce58fd.jpg"
+        "wallpaper_name": "PURPLE03",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ec/91/19/ec9119ee585682a119b2cd204dce58fd.jpg"
     },
     {
         "id": 4,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE04",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/e5/b6/bf/e5b6bfaca6fcca69c11b1f5f4bbe6a7c.jpg"
+        "wallpaper_name": "PURPLE04",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/e5/b6/bf/e5b6bfaca6fcca69c11b1f5f4bbe6a7c.jpg"
     },
     {
         "id": 5,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE05",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/38/3d/50/383d504d77b9d39a466efe83bcb39c4c.jpg"
+        "wallpaper_name": "PURPLE05",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/38/3d/50/383d504d77b9d39a466efe83bcb39c4c.jpg"
     },
     {
         "id": 6,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE06",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/0a/ef/18/0aef180d2cb404fc29db1389ab9a562d.jpg"
+        "wallpaper_name": "PURPLE06",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0a/ef/18/0aef180d2cb404fc29db1389ab9a562d.jpg"
     },
     {
         "id": 7,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE07",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8e/3d/1e/8e3d1e14c64e0dffcff7b66c4291708b.jpg"
+        "wallpaper_name": "PURPLE07",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8e/3d/1e/8e3d1e14c64e0dffcff7b66c4291708b.jpg"
     },
     {
         "id": 8,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE08",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f5/d4/97/f5d497a83344a67da15a791815b0891b.jpg"
+        "wallpaper_name": "PURPLE08",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f5/d4/97/f5d497a83344a67da15a791815b0891b.jpg"
     },
     {
         "id": 9,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE09",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/59/87/36/598736eee4c84478a4cebc0de6944b1d.jpg"
+        "wallpaper_name": "PURPLE09",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/59/87/36/598736eee4c84478a4cebc0de6944b1d.jpg"
     },
     {
         "id": 10,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE10",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8b/82/a9/8b82a92a597754f0ac22e74303fdca05.jpg"
+        "wallpaper_name": "PURPLE10",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8b/82/a9/8b82a92a597754f0ac22e74303fdca05.jpg"
     },
     {
         "id": 11,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE11",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d0/c5/04/d0c5042ee809ecee02014d5ef422c58b.jpg"
+        "wallpaper_name": "PURPLE11",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d0/c5/04/d0c5042ee809ecee02014d5ef422c58b.jpg"
     },
     {
         "id": 12,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE12",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/55/7e/85/557e853a7225e89ee8857780ebaf5718.jpg"
+        "wallpaper_name": "PURPLE12",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/55/7e/85/557e853a7225e89ee8857780ebaf5718.jpg"
     },
     {
         "id": 13,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE13",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/3e/b6/d5/3eb6d5322ac9815b3319037a3a350f04.jpg"
+        "wallpaper_name": "PURPLE13",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/3e/b6/d5/3eb6d5322ac9815b3319037a3a350f04.jpg"
     },
     {
         "id": 14,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE14",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c8/3b/0f/c83b0fccf184faefdd5bf5fdb20202e3.jpg"
+        "wallpaper_name": "PURPLE14",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c8/3b/0f/c83b0fccf184faefdd5bf5fdb20202e3.jpg"
     },
     {
         "id": 15,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE15",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/68/fc/70/68fc70bae855d088782b4848fb69d879.jpg"
+        "wallpaper_name": "PURPLE15",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/68/fc/70/68fc70bae855d088782b4848fb69d879.jpg"
     },
     {
         "id": 16,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE16",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/51/7c/94/517c94d8a80639abb71a31d3c674ba2d.jpg"
+        "wallpaper_name": "PURPLE16",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/51/7c/94/517c94d8a80639abb71a31d3c674ba2d.jpg"
     },
     {
         "id": 17,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE17",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/24/c6/d3/24c6d352f9089aeaff3b959e7b743ba4.jpg"
+        "wallpaper_name": "PURPLE17",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/24/c6/d3/24c6d352f9089aeaff3b959e7b743ba4.jpg"
     },
     {
         "id": 18,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE18",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/69/26/3a/69263a7b68bf1a270b89f64f04465da7.jpg"
+        "wallpaper_name": "PURPLE18",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/69/26/3a/69263a7b68bf1a270b89f64f04465da7.jpg"
     },
     {
         "id": 19,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE19",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8b/d4/17/8bd417f446a5510f12372945c99617cf.jpg"
+        "wallpaper_name": "PURPLE19",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8b/d4/17/8bd417f446a5510f12372945c99617cf.jpg"
     },
     {
         "id": 20,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE20",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/02/68/15/0268158663928a537db3776eaf96352b.jpg"
+        "wallpaper_name": "PURPLE20",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/02/68/15/0268158663928a537db3776eaf96352b.jpg"
     },
     {
         "id": 21,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE21",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d8/1c/5c/d81c5c7e638faae779c94514907d9529.jpg"
+        "wallpaper_name": "PURPLE21",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d8/1c/5c/d81c5c7e638faae779c94514907d9529.jpg"
     },
     {
         "id": 22,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE22",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/dd/f6/08/ddf60899fe67bd5dd49174342621f6bd.jpg"
+        "wallpaper_name": "PURPLE22",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/dd/f6/08/ddf60899fe67bd5dd49174342621f6bd.jpg"
     },
     {
         "id": 23,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE23",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/70/2a/2b/702a2be10bed795ac2d4f88357adeb71.jpg"
+        "wallpaper_name": "PURPLE23",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/70/2a/2b/702a2be10bed795ac2d4f88357adeb71.jpg"
     },
     {
         "id": 24,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE24",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/04/a6/99/04a699ebaf1bd0a80fd436c651212e6b.jpg"
+        "wallpaper_name": "PURPLE24",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/04/a6/99/04a699ebaf1bd0a80fd436c651212e6b.jpg"
     },
     {
         "id": 25,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE25",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4f/e0/54/4fe054ca09043940b2f5fd820e0956c5.jpg"
+        "wallpaper_name": "PURPLE25",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4f/e0/54/4fe054ca09043940b2f5fd820e0956c5.jpg"
     },
     {
         "id": 26,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE26",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/bf/9d/ca/bf9dca0a151091eeb792dcc364784f52.jpg"
+        "wallpaper_name": "PURPLE26",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bf/9d/ca/bf9dca0a151091eeb792dcc364784f52.jpg"
     },
     {
         "id": 27,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE27",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2c/dc/04/2cdc0482f70bf93bb65e05e99daaf639.jpg"
+        "wallpaper_name": "PURPLE27",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2c/dc/04/2cdc0482f70bf93bb65e05e99daaf639.jpg"
     },
     {
         "id": 28,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE28",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ec/f5/86/ecf58687e0f4fe68baa91d31a53dfd84.jpg"
+        "wallpaper_name": "PURPLE28",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ec/f5/86/ecf58687e0f4fe68baa91d31a53dfd84.jpg"
     },
     {
         "id": 29,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE29",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b4/6c/ed/b46cedf9390ecb2eff32acbc2dea1885.jpg"
+        "wallpaper_name": "PURPLE29",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b4/6c/ed/b46cedf9390ecb2eff32acbc2dea1885.jpg"
     },
     {
         "id": 30,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE30",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/09/de/ae/09deae3a65aa37325e8ad26498c86ae1.jpg"
+        "wallpaper_name": "PURPLE30",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/09/de/ae/09deae3a65aa37325e8ad26498c86ae1.jpg"
     },
     {
         "id": 31,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE31",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c4/d6/a2/c4d6a2f33ee06efc40b9d0af51e45195.jpg"
+        "wallpaper_name": "PURPLE31",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c4/d6/a2/c4d6a2f33ee06efc40b9d0af51e45195.jpg"
     },
     {
         "id": 32,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE32",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/82/2b/2c/822b2cddad20dae6145edfe6a868e8a0.jpg"
+        "wallpaper_name": "PURPLE32",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/82/2b/2c/822b2cddad20dae6145edfe6a868e8a0.jpg"
     },
     {
         "id": 33,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE33",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d5/a4/fa/d5a4fac767824f332e1d2982dd3ee352.jpg"
+        "wallpaper_name": "PURPLE33",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d5/a4/fa/d5a4fac767824f332e1d2982dd3ee352.jpg"
     },
     {
         "id": 34,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE34",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/83/fb/3a/83fb3aa1079e7bb8ff9ce357ea7fbe51.jpg"
+        "wallpaper_name": "PURPLE34",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/83/fb/3a/83fb3aa1079e7bb8ff9ce357ea7fbe51.jpg"
     },
     {
         "id": 35,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE35",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f3/cd/61/f3cd61a755966664cf6289c871984e8a.jpg"
+        "wallpaper_name": "PURPLE35",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f3/cd/61/f3cd61a755966664cf6289c871984e8a.jpg"
     },
     {
         "id": 36,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE36",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d2/e1/55/d2e155c7338ea2109e8d6e67411117ff.jpg"
+        "wallpaper_name": "PURPLE36",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d2/e1/55/d2e155c7338ea2109e8d6e67411117ff.jpg"
     },
     {
         "id": 37,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE37",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5c/ed/45/5ced4500a2ef40e30ce9645d191afd17.jpg"
+        "wallpaper_name": "PURPLE37",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5c/ed/45/5ced4500a2ef40e30ce9645d191afd17.jpg"
     },
     {
         "id": 38,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE38",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5a/9c/c4/5a9cc4c19cf338d2f2476db6768c1d9f.jpg"
+        "wallpaper_name": "PURPLE38",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5a/9c/c4/5a9cc4c19cf338d2f2476db6768c1d9f.jpg"
     },
     {
         "id": 39,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE39",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ff/4a/4f/ff4a4fe68e944f6decff7887d1d6b2ba.jpg"
+        "wallpaper_name": "PURPLE39",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ff/4a/4f/ff4a4fe68e944f6decff7887d1d6b2ba.jpg"
     },
     {
         "id": 40,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE40",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8b/c1/9d/8bc19d27eb9158e893773446242093aa.jpg"
+        "wallpaper_name": "PURPLE40",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8b/c1/9d/8bc19d27eb9158e893773446242093aa.jpg"
     },
     {
         "id": 41,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE41",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/38/66/ca/3866ca1e0c3d600820aa1934c1be6ce9.jpg"
+        "wallpaper_name": "PURPLE41",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/38/66/ca/3866ca1e0c3d600820aa1934c1be6ce9.jpg"
     },
     {
         "id": 42,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE42",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9b/77/17/9b771731e1c02dd9630bd8a26a7c9c92.jpg"
+        "wallpaper_name": "PURPLE42",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9b/77/17/9b771731e1c02dd9630bd8a26a7c9c92.jpg"
     },
     {
         "id": 43,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE43",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c2/4b/fe/c24bfe469a74adb372c2376ba42c7333.jpg"
+        "wallpaper_name": "PURPLE43",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c2/4b/fe/c24bfe469a74adb372c2376ba42c7333.jpg"
     },
     {
         "id": 44,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE44",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/07/6e/8b/076e8b788803f06340fea021ec6d8438.jpg"
+        "wallpaper_name": "PURPLE44",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/07/6e/8b/076e8b788803f06340fea021ec6d8438.jpg"
     },
     {
         "id": 45,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE45",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4e/8d/cd/4e8dcde6e67f01ec9f698844b812e8a9.jpg"
+        "wallpaper_name": "PURPLE45",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4e/8d/cd/4e8dcde6e67f01ec9f698844b812e8a9.jpg"
     },
     {
         "id": 46,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE46",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/6b/b2/a1/6bb2a1deed30ddf58e9d68872ab5e77e.jpg"
+        "wallpaper_name": "PURPLE46",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6b/b2/a1/6bb2a1deed30ddf58e9d68872ab5e77e.jpg"
     },
     {
         "id": 47,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE47",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/55/25/4c/55254c4332995d4dd30286de210c3640.jpg"
+        "wallpaper_name": "PURPLE47",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/55/25/4c/55254c4332995d4dd30286de210c3640.jpg"
     },
     {
         "id": 48,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE48",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c5/0f/83/c50f831f0f9a9f7675648544c1476582.jpg"
+        "wallpaper_name": "PURPLE48",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c5/0f/83/c50f831f0f9a9f7675648544c1476582.jpg"
     },
     {
         "id": 49,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE49",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8f/a6/d7/8fa6d7a964cb11164386216e6861d73c.jpg"
+        "wallpaper_name": "PURPLE49",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8f/a6/d7/8fa6d7a964cb11164386216e6861d73c.jpg"
     },
     {
         "id": 50,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE50",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c2/57/d1/c257d1af3c9564e406b9f87c1766205e.jpg"
+        "wallpaper_name": "PURPLE50",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c2/57/d1/c257d1af3c9564e406b9f87c1766205e.jpg"
     },
     {
         "id": 51,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE51",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/39/0b/4b/390b4b26bf26d1f595fa1543df045dd0.jpg"
+        "wallpaper_name": "PURPLE51",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/39/0b/4b/390b4b26bf26d1f595fa1543df045dd0.jpg"
     },
     {
         "id": 52,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE52",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/30/56/65/305665199a59784d5e6ae93018e5906a.jpg"
+        "wallpaper_name": "PURPLE52",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/30/56/65/305665199a59784d5e6ae93018e5906a.jpg"
     },
     {
         "id": 53,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE53",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/69/5d/0d/695d0ddad863333069c60c91b796647b.jpg"
+        "wallpaper_name": "PURPLE53",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/69/5d/0d/695d0ddad863333069c60c91b796647b.jpg"
     },
     {
         "id": 54,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE54",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4f/88/9c/4f889c66870d8836c7c2f7592e52ee26.jpg"
+        "wallpaper_name": "PURPLE54",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4f/88/9c/4f889c66870d8836c7c2f7592e52ee26.jpg"
     },
     {
         "id": 55,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE55",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/5e/b4/4b/5eb44bdb0da4795bbfdd428426e87ce4.jpg"
+        "wallpaper_name": "PURPLE55",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/5e/b4/4b/5eb44bdb0da4795bbfdd428426e87ce4.jpg"
     },
     {
         "id": 56,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE56",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/e7/2c/fd/e72cfd16d1a29c49e4deed9c66a0bc69.jpg"
+        "wallpaper_name": "PURPLE56",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/e7/2c/fd/e72cfd16d1a29c49e4deed9c66a0bc69.jpg"
     },
     {
         "id": 57,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE57",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/31/78/36/317836402167996752e46395872146ee.jpg"
+        "wallpaper_name": "PURPLE57",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/31/78/36/317836402167996752e46395872146ee.jpg"
     },
     {
         "id": 58,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE58",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/f7/70/f0/f770f04ed1495b4f655741dae3d788b5.jpg"
+        "wallpaper_name": "PURPLE58",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f7/70/f0/f770f04ed1495b4f655741dae3d788b5.jpg"
     },
     {
         "id": 59,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE59",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/91/b5/92/91b5921efab255949845ba1a2e9f7ad6.jpg"
+        "wallpaper_name": "PURPLE59",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/91/b5/92/91b5921efab255949845ba1a2e9f7ad6.jpg"
     },
     {
         "id": 60,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE60",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/de/20/c0/de20c08583b947d33dc239e51bbfe1e9.jpg"
+        "wallpaper_name": "PURPLE60",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/de/20/c0/de20c08583b947d33dc239e51bbfe1e9.jpg"
     },
     {
         "id": 61,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE61",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9c/eb/85/9ceb852964013b0800d969725df865c4.jpg"
+        "wallpaper_name": "PURPLE61",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9c/eb/85/9ceb852964013b0800d969725df865c4.jpg"
     },
     {
         "id": 62,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE62",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/22/68/0c/22680cd4c4db951274f82bf9ff0230d9.jpg"
+        "wallpaper_name": "PURPLE62",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/22/68/0c/22680cd4c4db951274f82bf9ff0230d9.jpg"
     },
     {
         "id": 63,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE63",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/bc/40/cc/bc40cc69e003cc7b989354cd517b5b68.jpg"
+        "wallpaper_name": "PURPLE63",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/bc/40/cc/bc40cc69e003cc7b989354cd517b5b68.jpg"
     },
     {
         "id": 64,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE64",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c7/7e/2d/c77e2d61dc6054dfca5fe27dec53a148.jpg"
+        "wallpaper_name": "PURPLE64",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c7/7e/2d/c77e2d61dc6054dfca5fe27dec53a148.jpg"
     },
     {
         "id": 65,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE65",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/51/ac/5e/51ac5eedfdb42c28937d62932477dfa6.jpg"
+        "wallpaper_name": "PURPLE65",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/51/ac/5e/51ac5eedfdb42c28937d62932477dfa6.jpg"
     },
     {
         "id": 66,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE66",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/cb/f4/97/cbf49783f450c07548968c0d06207bbf.jpg"
+        "wallpaper_name": "PURPLE66",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cb/f4/97/cbf49783f450c07548968c0d06207bbf.jpg"
     },
     {
         "id": 67,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE67",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/54/b2/dc/54b2dc424ce1b348250c9fb03adbbcc3.jpg"
+        "wallpaper_name": "PURPLE67",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/54/b2/dc/54b2dc424ce1b348250c9fb03adbbcc3.jpg"
     },
     {
         "id": 68,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE68",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/7e/3b/ce/7e3bce1a564f79213f47e01af7954333.jpg"
+        "wallpaper_name": "PURPLE68",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7e/3b/ce/7e3bce1a564f79213f47e01af7954333.jpg"
     },
     {
         "id": 69,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE69",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/50/10/45/50104543125ad06603abb8c12e56c472.jpg"
+        "wallpaper_name": "PURPLE69",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/50/10/45/50104543125ad06603abb8c12e56c472.jpg"
     },
     {
         "id": 70,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE70",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/0e/6a/ec/0e6aec9dc042650d1f36cbd525ccccd8.jpg"
+        "wallpaper_name": "PURPLE70",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0e/6a/ec/0e6aec9dc042650d1f36cbd525ccccd8.jpg"
     },
     {
         "id": 71,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE71",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/e8/84/38/e88438f512d69f183adaf0e6d6fcdab0.jpg"
+        "wallpaper_name": "PURPLE71",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/e8/84/38/e88438f512d69f183adaf0e6d6fcdab0.jpg"
     },
     {
         "id": 72,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE72",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/55/f8/1e/55f81ec7e708ba9117d6d9a62d48a735.jpg"
+        "wallpaper_name": "PURPLE72",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/55/f8/1e/55f81ec7e708ba9117d6d9a62d48a735.jpg"
     },
     {
         "id": 73,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE73",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/16/1a/c2/161ac2ae2d49023baeeb43eb6124f64a.jpg"
+        "wallpaper_name": "PURPLE73",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/16/1a/c2/161ac2ae2d49023baeeb43eb6124f64a.jpg"
     },
     {
         "id": 74,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE74",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/59/0d/f7/590df7c5884ec8792cc24a6a4988b2a4.jpg"
+        "wallpaper_name": "PURPLE74",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/59/0d/f7/590df7c5884ec8792cc24a6a4988b2a4.jpg"
     },
     {
         "id": 75,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE75",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/86/12/1c/86121c55ab5a521a221997e9ea6579e8.jpg"
+        "wallpaper_name": "PURPLE75",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/86/12/1c/86121c55ab5a521a221997e9ea6579e8.jpg"
     },
     {
         "id": 76,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE76",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/6c/0d/7e/6c0d7eb43e084cac705f39c09693d94e.jpg"
+        "wallpaper_name": "PURPLE76",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6c/0d/7e/6c0d7eb43e084cac705f39c09693d94e.jpg"
     },
     {
         "id": 77,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE77",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/cb/50/f4/cb50f45e7db240c81b77efd6e3973b54.jpg"
+        "wallpaper_name": "PURPLE77",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cb/50/f4/cb50f45e7db240c81b77efd6e3973b54.jpg"
     },
     {
         "id": 78,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE78",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b2/6e/8d/b26e8d11ea3e7192f1f4597cd395a977.jpg"
+        "wallpaper_name": "PURPLE78",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b2/6e/8d/b26e8d11ea3e7192f1f4597cd395a977.jpg"
     },
     {
         "id": 79,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE79",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ee/57/9f/ee579f3030b752bae66bd246c4bc6297.jpg"
+        "wallpaper_name": "PURPLE79",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ee/57/9f/ee579f3030b752bae66bd246c4bc6297.jpg"
     },
     {
         "id": 80,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE80",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2b/c7/77/2bc7771c0457d542cea5a7574e75c395.jpg"
+        "wallpaper_name": "PURPLE80",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2b/c7/77/2bc7771c0457d542cea5a7574e75c395.jpg"
     },
     {
         "id": 81,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE81",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/fd/e7/c9/fde7c98070de06489413c4687b3c35c8.jpg"
+        "wallpaper_name": "PURPLE81",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/fd/e7/c9/fde7c98070de06489413c4687b3c35c8.jpg"
     },
     {
         "id": 82,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE82",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c0/b8/93/c0b893d45ec21a5f64487bf9b0218ae7.jpg"
+        "wallpaper_name": "PURPLE82",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c0/b8/93/c0b893d45ec21a5f64487bf9b0218ae7.jpg"
     },
     {
         "id": 83,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE83",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/0c/44/1e/0c441eb92020b8b30a88e64b9de98ab0.jpg"
+        "wallpaper_name": "PURPLE83",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0c/44/1e/0c441eb92020b8b30a88e64b9de98ab0.jpg"
     },
     {
         "id": 84,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE84",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/db/85/e7/db85e7fa1ff52bdca40cba26892a5992.jpg"
+        "wallpaper_name": "PURPLE84",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/db/85/e7/db85e7fa1ff52bdca40cba26892a5992.jpg"
     },
     {
         "id": 85,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE85",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/7c/bd/35/7cbd3523988d78d5e1ffc9846b5a3550.jpg"
+        "wallpaper_name": "PURPLE85",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7c/bd/35/7cbd3523988d78d5e1ffc9846b5a3550.jpg"
     },
     {
         "id": 86,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE86",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/05/70/08/0570084880f60cd18263448c9fc2c709.jpg"
+        "wallpaper_name": "PURPLE86",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/05/70/08/0570084880f60cd18263448c9fc2c709.jpg"
     },
     {
         "id": 87,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE87",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/21/68/a8/2168a892d290a5e53c3907d20e968ece.jpg"
+        "wallpaper_name": "PURPLE87",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/21/68/a8/2168a892d290a5e53c3907d20e968ece.jpg"
     },
     {
         "id": 88,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE88",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9e/1a/47/9e1a47d5844a81477e0f9ae02a2629b7.jpg"
+        "wallpaper_name": "PURPLE88",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9e/1a/47/9e1a47d5844a81477e0f9ae02a2629b7.jpg"
     },
     {
         "id": 89,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE89",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/41/5b/5e/415b5e01af88983e3faad95fb4e1f748.jpg"
+        "wallpaper_name": "PURPLE89",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/41/5b/5e/415b5e01af88983e3faad95fb4e1f748.jpg"
     },
     {
         "id": 90,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE90",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/42/57/d2/4257d2ef1a942992883c36b5d9933d82.jpg"
+        "wallpaper_name": "PURPLE90",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/42/57/d2/4257d2ef1a942992883c36b5d9933d82.jpg"
     },
     {
         "id": 91,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE91",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/23/c7/5b/23c75b4fba636d18bb5f9a3e5675c7f6.jpg"
+        "wallpaper_name": "PURPLE91",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/23/c7/5b/23c75b4fba636d18bb5f9a3e5675c7f6.jpg"
     },
     {
         "id": 92,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE92",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a2/e4/97/a2e49785dca90170978b1b28cf29b3f7.jpg"
+        "wallpaper_name": "PURPLE92",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a2/e4/97/a2e49785dca90170978b1b28cf29b3f7.jpg"
     },
     {
         "id": 93,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE93",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a9/27/aa/a927aadc55642c438620ef43bc242080.jpg"
+        "wallpaper_name": "PURPLE93",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a9/27/aa/a927aadc55642c438620ef43bc242080.jpg"
     },
     {
         "id": 94,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE94",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/1d/c0/68/1dc068dd72f6836291cb5cc33edd77f0.jpg"
+        "wallpaper_name": "PURPLE94",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1d/c0/68/1dc068dd72f6836291cb5cc33edd77f0.jpg"
     },
     {
         "id": 95,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE95",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/ab/18/e7/ab18e70a8211b59311c7829cb9e377d2.jpg"
+        "wallpaper_name": "PURPLE95",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/ab/18/e7/ab18e70a8211b59311c7829cb9e377d2.jpg"
     },
     {
         "id": 96,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE96",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/1d/29/88/1d29883216c691f224c70e480878b011.jpg"
+        "wallpaper_name": "PURPLE96",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1d/29/88/1d29883216c691f224c70e480878b011.jpg"
     },
     {
         "id": 97,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE97",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/52/5d/e2/525de27a5b45bf4dced5228b8a13f7fc.jpg"
+        "wallpaper_name": "PURPLE97",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/52/5d/e2/525de27a5b45bf4dced5228b8a13f7fc.jpg"
     },
     {
         "id": 98,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE98",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/de/d9/3d/ded93d363c5229b6300bc56d005d7030.jpg"
+        "wallpaper_name": "PURPLE98",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/de/d9/3d/ded93d363c5229b6300bc56d005d7030.jpg"
     },
     {
         "id": 99,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE99",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/2b/71/96/2b7196f35d53efdb98e238a94ca4f11d.jpg"
+        "wallpaper_name": "PURPLE99",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/2b/71/96/2b7196f35d53efdb98e238a94ca4f11d.jpg"
     },
     {
         "id": 100,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE100",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/8b/1d/87/8b1d87e8c00de44b09df84f8d3dfbc03.jpg"
+        "wallpaper_name": "PURPLE100",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8b/1d/87/8b1d87e8c00de44b09df84f8d3dfbc03.jpg"
     },
     {
         "id": 101,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE101",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/78/13/72/7813728c8eb5f2f5940412cce5d4256b.jpg"
+        "wallpaper_name": "PURPLE101",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/78/13/72/7813728c8eb5f2f5940412cce5d4256b.jpg"
     },
     {
         "id": 102,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE102",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/b3/d8/d0/b3d8d012cd7adfecf7207ceecb83c098.jpg"
+        "wallpaper_name": "PURPLE102",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b3/d8/d0/b3d8d012cd7adfecf7207ceecb83c098.jpg"
     },
     {
         "id": 103,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE103",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/25/23/c6/2523c6d38e1c57b6e3149e4a8e5d7fea.jpg"
+        "wallpaper_name": "PURPLE103",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/25/23/c6/2523c6d38e1c57b6e3149e4a8e5d7fea.jpg"
     },
     {
         "id": 104,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE104",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/c9/01/dc/c901dc1769ddf21c56b594e64248a2db.jpg"
+        "wallpaper_name": "PURPLE104",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/c9/01/dc/c901dc1769ddf21c56b594e64248a2db.jpg"
     },
     {
         "id": 105,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE105",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/a1/ce/c4/a1cec47fa721cd0292b0eed1d483bdfe.jpg"
+        "wallpaper_name": "PURPLE105",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a1/ce/c4/a1cec47fa721cd0292b0eed1d483bdfe.jpg"
     },
     {
         "id": 106,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE106",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/24/d8/b7/24d8b7e7430702ce74ba7097bd72691c.jpg"
+        "wallpaper_name": "PURPLE106",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/24/d8/b7/24d8b7e7430702ce74ba7097bd72691c.jpg"
     },
     {
         "id": 107,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE107",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/9b/7e/0b/9b7e0b0c6bc0fb72a370e5c4899b71ec.jpg"
+        "wallpaper_name": "PURPLE107",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/9b/7e/0b/9b7e0b0c6bc0fb72a370e5c4899b71ec.jpg"
     },
     {
         "id": 108,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE108",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/20/53/15/20531522db71e0d8ac4cfbde6fb0728f.jpg"
+        "wallpaper_name": "PURPLE108",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/20/53/15/20531522db71e0d8ac4cfbde6fb0728f.jpg"
     },
     {
         "id": 109,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE109",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/6a/b2/4c/6ab24cc4869ffbc494901a398b18d823.jpg"
+        "wallpaper_name": "PURPLE109",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6a/b2/4c/6ab24cc4869ffbc494901a398b18d823.jpg"
     },
     {
         "id": 110,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE110",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/6c/57/14/6c5714022f13f71ee8d08118a2bb214a.jpg"
+        "wallpaper_name": "PURPLE110",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6c/57/14/6c5714022f13f71ee8d08118a2bb214a.jpg"
     },
     {
         "id": 111,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE111",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/0d/0d/ca/0d0dcaf6644bea76aa18f12262996e8f.jpg"
+        "wallpaper_name": "PURPLE111",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0d/0d/ca/0d0dcaf6644bea76aa18f12262996e8f.jpg"
     },
     {
         "id": 112,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE112",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/98/bc/5f/98bc5f2c07d451f5d02cf2b8062dde8e.jpg"
+        "wallpaper_name": "PURPLE112",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/98/bc/5f/98bc5f2c07d451f5d02cf2b8062dde8e.jpg"
     },
     {
         "id": 113,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE113",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/98/6b/fb/986bfbb5bc71c91398988fcf0ad0ca8d.jpg"
+        "wallpaper_name": "PURPLE113",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/98/6b/fb/986bfbb5bc71c91398988fcf0ad0ca8d.jpg"
     },
     {
         "id": 114,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE114",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/4b/89/0d/4b890df515c91ae6ce85af873f806497.jpg"
+        "wallpaper_name": "PURPLE114",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/4b/89/0d/4b890df515c91ae6ce85af873f806497.jpg"
     },
     {
         "id": 115,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE115",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/36/02/ca/3602ca745893317c17ce21a1c4efe3d7.jpg"
+        "wallpaper_name": "PURPLE115",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/36/02/ca/3602ca745893317c17ce21a1c4efe3d7.jpg"
     },
     {
         "id": 116,
         "name_category": "PURPLE",
-        "wallpaper_Name": "PURPLE116",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://i.pinimg.com/originals/d4/7f/4f/d47f4fd95ee900998cd6772ab279fc8c.jpg"
+        "wallpaper_name": "PURPLE116",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d4/7f/4f/d47f4fd95ee900998cd6772ab279fc8c.jpg"
     }
 ]
 }
