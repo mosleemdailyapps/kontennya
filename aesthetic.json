@@ -29,442 +29,430 @@
   ],
   "Categories": [
     {
-      "name_category": "Super Car",
-      "wallpaper_url": "category/supercar.jpeg"
-    },
-    {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
-    },
-    {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
-    },
-    {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+      "name_category": "AESTHETIC",
+      "wallpaper_url": "https://i.pinimg.com/736x/3e/7c/6b/3e7c6b09197f55e0fa265a8790769818.jpg"
     }
   ],
   "Wallpaper": [
-    {
+   {
         "id": 1,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC01",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/cafe_tables_lamps_208531_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC01",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/cafe_tables_lamps_208531_1080x1920.jpg"
     },
     {
         "id": 2,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC02",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/pie_pastries_dessert_208506_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC02",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/pie_pastries_dessert_208506_1080x1920.jpg"
     },
     {
         "id": 3,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC03",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_basket_208317_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC03",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_basket_208317_1080x1920.jpg"
     },
     {
         "id": 4,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC04",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/armchair_furniture_interior_208164_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC04",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/armchair_furniture_interior_208164_1080x1920.jpg"
     },
     {
         "id": 5,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC05",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_aesthetics_208110_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC05",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_aesthetics_208110_1080x1920.jpg"
     },
     {
         "id": 6,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC06",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/candle_light_cotton_208010_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC06",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/candle_light_cotton_208010_1080x1920.jpg"
     },
     {
         "id": 7,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC07",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/lilac_flowers_pot_207995_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC07",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/lilac_flowers_pot_207995_1080x1920.jpg"
     },
     {
         "id": 8,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC08",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/ferris_wheel_attraction_construction_207878_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC08",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/ferris_wheel_attraction_construction_207878_1080x1920.jpg"
     },
     {
         "id": 9,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC09",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/tulips_flowers_bouquet_207870_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC09",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/tulips_flowers_bouquet_207870_1080x1920.jpg"
     },
     {
         "id": 10,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC10",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/sofa_table_lamp_207857_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC10",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/sofa_table_lamp_207857_1080x1920.jpg"
     },
     {
         "id": 11,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC11",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/chandelier_lamp_light_207853_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC11",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/chandelier_lamp_light_207853_1080x1920.jpg"
     },
     {
         "id": 12,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC12",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/table_chair_vase_207849_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC12",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/table_chair_vase_207849_1080x1920.jpg"
     },
     {
         "id": 13,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC13",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/flowers_plants_bouquet_207821_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC13",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/flowers_plants_bouquet_207821_1080x1920.jpg"
     },
     {
         "id": 14,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC14",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/branches_bouquet_vase_207814_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC14",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/branches_bouquet_vase_207814_1080x1920.jpg"
     },
     {
         "id": 15,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC15",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/bouquet_branches_vase_207767_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC15",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/bouquet_branches_vase_207767_1080x1920.jpg"
     },
     {
         "id": 16,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC16",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/bouquet_decor_aesthetics_209198_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC16",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/bouquet_decor_aesthetics_209198_1080x1920.jpg"
     },
     {
         "id": 17,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC17",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/coast_sea_table_209170_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC17",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/coast_sea_table_209170_1080x1920.jpg"
     },
     {
         "id": 18,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC18",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/pomegranate_figurine_flowers_209145_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC18",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/pomegranate_figurine_flowers_209145_1080x1920.jpg"
     },
     {
         "id": 19,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC19",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/vase_branches_bouquet_209098_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC19",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/vase_branches_bouquet_209098_1080x1920.jpg"
     },
     {
         "id": 20,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC20",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/bouquet_branches_vase_209053_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC20",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/bouquet_branches_vase_209053_1080x1920.jpg"
     },
     {
         "id": 21,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC21",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/cups_branch_berries_209002_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC21",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/cups_branch_berries_209002_1080x1920.jpg"
     },
     {
         "id": 22,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC22",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/sunglasses_flowers_vase_208949_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC22",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/sunglasses_flowers_vase_208949_1080x1920.jpg"
     },
     {
         "id": 23,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC23",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/cones_plate_aesthetics_208881_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC23",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/cones_plate_aesthetics_208881_1080x1920.jpg"
     },
     {
         "id": 24,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC24",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/cup_ears_aesthetics_208824_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC24",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/cup_ears_aesthetics_208824_1080x1920.jpg"
     },
     {
         "id": 25,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC25",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/perfume_bottle_bouquet_208731_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC25",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/perfume_bottle_bouquet_208731_1080x1920.jpg"
     },
     {
         "id": 26,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC26",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/bed_pillows_interior_208725_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC26",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/bed_pillows_interior_208725_1080x1920.jpg"
     },
     {
         "id": 27,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC27",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/plants_leaves_pots_208695_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC27",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/plants_leaves_pots_208695_1080x1920.jpg"
     },
     {
         "id": 28,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC28",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/cup_table_light_208571_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC28",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/cup_table_light_208571_1080x1920.jpg"
     },
     {
         "id": 29,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC29",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/book_sunglasses_scarf_208552_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC29",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/book_sunglasses_scarf_208552_1080x1920.jpg"
     },
     {
         "id": 30,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC30",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/bread_pastries_board_208534_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC30",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/bread_pastries_board_208534_1080x1920.jpg"
     },
     {
         "id": 31,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC31",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_vase_210016_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC31",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_vase_210016_1080x1920.jpg"
     },
     {
         "id": 32,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC32",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/sweater_notebooks_flowers_209911_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC32",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/sweater_notebooks_flowers_209911_1080x1920.jpg"
     },
     {
         "id": 33,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC33",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/bouquet_flowers_decor_209862_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC33",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/bouquet_flowers_decor_209862_1080x1920.jpg"
     },
     {
         "id": 34,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC34",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/sofa_pillows_plant_209820_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC34",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/sofa_pillows_plant_209820_1080x1920.jpg"
     },
     {
         "id": 35,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC35",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_vase_209784_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC35",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_vase_209784_1080x1920.jpg"
     },
     {
         "id": 36,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC36",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/persimmon_fruits_crosses_209773_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC36",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/persimmon_fruits_crosses_209773_1080x1920.jpg"
     },
     {
         "id": 37,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC37",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/flowers_petals_bouquet_209765_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC37",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/flowers_petals_bouquet_209765_1080x1920.jpg"
     },
     {
         "id": 38,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC38",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/love_word_inscription_209547_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC38",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/love_word_inscription_209547_1080x1920.jpg"
     },
     {
         "id": 39,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC39",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/coffee_cup_gloves_209518_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC39",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/coffee_cup_gloves_209518_1080x1920.jpg"
     },
     {
         "id": 40,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC40",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/chair_air_balloons_white_209489_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC40",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/chair_air_balloons_white_209489_1080x1920.jpg"
     },
     {
         "id": 41,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC41",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/bouquet_candle_painting_209446_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC41",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/bouquet_candle_painting_209446_1080x1920.jpg"
     },
     {
         "id": 42,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC42",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/trees_flowers_petals_209385_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC42",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/trees_flowers_petals_209385_1080x1920.jpg"
     },
     {
         "id": 43,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC43",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/basket_bag_wicker_209373_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC43",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/basket_bag_wicker_209373_1080x1920.jpg"
     },
     {
         "id": 44,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC44",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/cafe_tables_umbrellas_209349_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC44",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/cafe_tables_umbrellas_209349_1080x1920.jpg"
     },
     {
         "id": 45,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC45",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/sandwich_lunch_flowers_209287_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC45",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/sandwich_lunch_flowers_209287_1080x1920.jpg"
     },
     {
         "id": 46,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC46",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/laptop_hands_work_221115_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC46",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/laptop_hands_work_221115_1080x1920.jpg"
     },
     {
         "id": 47,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC47",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_petals_221089_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC47",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_petals_221089_1080x1920.jpg"
     },
     {
         "id": 48,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC48",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/sunflowers_flowers_petals_220974_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC48",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/sunflowers_flowers_petals_220974_1080x1920.jpg"
     },
     {
         "id": 49,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC49",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_floristry_219374_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC49",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_floristry_219374_1080x1920.jpg"
     },
     {
         "id": 50,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC50",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/peonies_flowers_bouquet_217916_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC50",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/peonies_flowers_bouquet_217916_1080x1920.jpg"
     },
     {
         "id": 51,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC51",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/calculator_glasses_cactus_215847_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC51",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/calculator_glasses_cactus_215847_1080x1920.jpg"
     },
     {
         "id": 52,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC52",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/roses_flowers_petals_214729_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC52",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/roses_flowers_petals_214729_1080x1920.jpg"
     },
     {
         "id": 53,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC53",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/clock_writing_vintage_213777_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC53",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/clock_writing_vintage_213777_1080x1920.jpg"
     },
     {
         "id": 54,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC54",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/tulip_flower_books_213701_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC54",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/tulip_flower_books_213701_1080x1920.jpg"
     },
     {
         "id": 55,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC55",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/coffee_cup_hands_213399_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC55",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/coffee_cup_hands_213399_1080x1920.jpg"
     },
     {
         "id": 56,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC56",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_jar_212965_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC56",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_jar_212965_1080x1920.jpg"
     },
     {
         "id": 57,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC57",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_vase_212856_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC57",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/flowers_bouquet_vase_212856_1080x1920.jpg"
     },
     {
         "id": 58,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC58",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/flowers_vase_decor_212473_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC58",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/flowers_vase_decor_212473_1080x1920.jpg"
     },
     {
         "id": 59,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC59",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/cup_hand_interior_211781_1080x1920.jpg"
+        "wallpaper_name": "AESTHETIC59",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/cup_hand_interior_211781_1080x1920.jpg"
     },
     {
         "id": 60,
         "name_category": "AESTHETIC",
-        "wallpaper_Name": "AESTHETIC60",
-        "wallpaper_Type": "IMAGE",
-        "wallpaper_Url": "https://images.wallpaperscraft.com/image/single/notebook_ears_decoration_211584_1080x1920.jpg"
-    }
+        "wallpaper_name": "AESTHETIC60",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://images.wallpaperscraft.com/image/single/notebook_ears_decoration_211584_1080x1920.jpg"
+    } 
 ]
 }
